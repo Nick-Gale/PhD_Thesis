@@ -1,0 +1,11 @@
+results_experiments/experiment_objects/*
+results_experiments/ITER/*
+src/functions_retinal_simulations/SAVE/*
+src/functions_retinal_simulations/FIGS/*
+notes/*
+script_timing
+script_stiching_thesis
+results_plots/stiched_plots/thesis_CTOF_lattice_plots.png
+results_plots/stiched_plots/thesis_FTOC_lattice_plots.png
+results_plots/generated_plots/*
+results_experiments/timing/ITER/*
