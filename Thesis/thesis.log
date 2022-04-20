@@ -1,0 +1,2451 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.3.19)  21 APR 2022 01:37
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**thesis.tex
+(./thesis.tex
+LaTeX2e <2018-12-01>
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2018/09/03 v1.4i Standard LaTeX document class
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/fleqn.clo
+File: fleqn.clo 2016/12/29 v1.2b Standard LaTeX option (flush left equations)
+\mathindent=\dimen102
+Applying: [2015/01/01] Make \[ robust on input line 50.
+LaTeX Info: Redefining \[ on input line 51.
+Already applied: [0000/00/00] Make \[ robust on input line 62.
+Applying: [2015/01/01] Make \] robust on input line 74.
+LaTeX Info: Redefining \] on input line 75.
+Already applied: [0000/00/00] Make \] robust on input line 83.
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen103
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2019/05/04 3.31 The Babel package
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2019/05/04 3.31 Babel switching mechanism
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2019/05/04 3.31 Babel common definitions
+\babel@savecnt=\count89
+\U@D=\dimen104
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@dirlevel=\count90
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen105
+\Gin@req@width=\dimen106
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2018/12/27 v1.8v multicolumn formatting (FMi)
+\c@tracingmulticols=\count91
+\mult@box=\box27
+\multicol@leftmargin=\dimen107
+\c@unbalance=\count92
+\c@collectmore=\count93
+\doublecol@number=\count94
+\multicoltolerance=\count95
+\multicolpretolerance=\count96
+\full@width=\dimen108
+\page@free=\dimen109
+\premulticols=\dimen110
+\postmulticols=\dimen111
+\multicolsep=\skip43
+\multicolbaselineskip=\skip44
+\partial@page=\box28
+\last@line=\box29
+\maxbalancingoverflow=\dimen112
+\mult@rightbox=\box30
+\mult@grightbox=\box31
+\mult@gfirstbox=\box32
+\mult@firstbox=\box33
+\@tempa=\box34
+\@tempa=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\c@columnbadness=\count97
+\c@finalcolumnbadness=\count98
+\last@try=\dimen113
+\multicolovershoot=\dimen114
+\multicolundershoot=\dimen115
+\mult@nat@firstbox=\box51
+\colbreak@box=\box52
+\mc@col@check@num=\count99
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/makeidx.sty
+Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/ccaption/ccaption.sty
+Package: ccaption 2011/08/07 v3.2c Extended captioning and new floats
+\@contcwidth=\skip45
+\@contindw=\skip46
+\abovelegendskip=\skip47
+\belowlegendskip=\skip48
+\c@newflo@tctr=\count100
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/02/04 v3.8 Customized lists
+\labelindent=\skip49
+\enit@outerparindent=\dimen116
+\enit@toks=\toks15
+\enit@inbox=\box53
+\enit@count@id=\count101
+\enitdp@description=\count102
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 64.
+\captionmargin=\dimen117
+\captionmargin@=\dimen118
+\captionwidth=\dimen119
+\caption@tempdima=\dimen120
+\caption@indent=\dimen121
+\caption@parindent=\dimen122
+\caption@hangindent=\dimen123
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+)
+
+Package caption Warning: Unsupported document class (or package) detected,
+(caption)                usage of the caption package is not recommended.
+See the caption package documentation for explanation.
+
+Package caption Info: \@makecaption = \long macro:#1#2->\let \@conttempa \relax
+ \ifdim \prevdepth >-99\p@ \vskip \abovecaptionskip \else \def \@conttempa {\vb
+ox to\topskip {}}\fi \let \@contfnote \footnote \renewcommand {\footnote }[2][]
+{} \let \@contfmark \footnotemark \renewcommand {\footnotemark }[1][]{} \let \@
+contlabel \label \renewcommand {\label }[1]{} \sbox \@tempboxa {\@contnfont #1\
+@contdelim \@conttfont #2} \let \footnote \@contfnote \let \footnotemark \@cont
+fmark \let \label \@contlabel \ifdim \wd \@tempboxa <\linewidth \centering \fi 
+\if@contcw \centering \parbox {\@contcwidth }{\fi \if@conthang \sbox \@tempboxa
+ {\@contnfont #1\@contdelim } \@contpre {\@contnfont #1\@contdelim }\@conttempa
+ {\@contcstyle \hangindent =\wd \@tempboxa \hangafter =\@ne \@conttfont #2\par 
+} \else \if@contindent \@contpre {\@contnfont #1\@contdelim }\@conttempa {\@con
+tcstyle \hangindent =\@contindw \hangafter =\@ne \@conttfont #2\par } \else \@c
+ontpre {\@contnfont #1\@contdelim }\@conttempa {\@contcstyle \@conttfont #2\par
+ } \fi \fi \@contpost \if@contcw \par } \fi \vskip \belowcaptionskip .
+\c@caption@flags=\count103
+\c@ContinuedFloat=\count104
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2018/05/01 v1.1-162 Sub-captions (AR)
+\c@subfigure=\count105
+\c@subtable=\count106
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/algorithmicx/algpseudocode.sty
+Package: algpseudocode 
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/algorithmicx/algorithmicx.sty
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count107
+\c@ALG@rem=\count108
+\c@ALG@nested=\count109
+\ALG@tlm=\skip50
+\ALG@thistlm=\skip51
+\c@ALG@Lnr=\count110
+\c@ALG@blocknr=\count111
+\c@ALG@storecount=\count112
+\c@ALG@tmpcounter=\count113
+\ALG@tmplength=\skip52
+)
+Document Style - pseudocode environments for use with the `algorithmicx' style
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/algorithms/algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count114
+\float@exts=\toks16
+\float@box=\box54
+\@float@everytoks=\toks17
+\@floatcapt=\box55
+)
+\@float@every@algorithm=\toks18
+\c@algorithm=\count115
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks19
+\verbatim@line=\toks20
+\verbatim@in@stream=\read1
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/flafter.sty
+Package: flafter 2018/11/28 v1.4d Standard LaTeX floats after reference (FMi)
+Applying: [2015/01/01] float order in 2-column on input line 49.
+Already applied: [0000/00/00] float order in 2-column on input line 151.
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/scalerel/scalerel.sty
+Package: scalerel 2016/12/29 v1.8 Routines for constrained scaling and stretchi
+ng of objects, relative to a reference object or in absolute terms
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count116
+\calc@Bcount=\count117
+\calc@Adimen=\dimen124
+\calc@Bdimen=\dimen125
+\calc@Askip=\skip53
+\calc@Bskip=\skip54
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count118
+\calc@Cskip=\skip55
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count119
+)
+\thesrwidth=\skip56
+\thesrheight=\skip57
+\srblobheight=\skip58
+\srblobdepth=\skip59
+\mnxsrwidth=\skip60
+\LMex=\skip61
+\LMpt=\skip62
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count120
+\Gm@cntv=\count121
+\c@Gm@tempcnt=\count122
+\Gm@bindingoffset=\dimen126
+\Gm@wd@mp=\dimen127
+\Gm@odd@mp=\dimen128
+\Gm@even@mp=\dimen129
+\Gm@layoutwidth=\dimen130
+\Gm@layoutheight=\dimen131
+\Gm@layouthoffset=\dimen132
+\Gm@layoutvoffset=\dimen133
+\Gm@dimlist=\toks21
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/csquotes/csquotes.sty
+Package: csquotes 2018/04/13 v5.2d context-sensitive quotations (JAW)
+\csq@reset=\count123
+\csq@gtype=\count124
+\csq@glevel=\count125
+\csq@qlevel=\count126
+\csq@maxlvl=\count127
+\csq@tshold=\count128
+\csq@ltx@everypar=\toks22
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/csquotes/csquotes.def
+File: csquotes.def 2018/04/13 v5.2d csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/csquotes/csquotes.cfg
+File: csquotes.cfg 
+))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen134
+\Hy@linkcounter=\count129
+\Hy@pagecounter=\count130
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count131
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4519.
+Package hyperref Info: Link nesting OFF on input line 4524.
+Package hyperref Info: Hyper index ON on input line 4527.
+Package hyperref Info: Plain pages OFF on input line 4534.
+Package hyperref Info: Backreferencing OFF on input line 4539.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4772.
+\c@Hy@tempcnt=\count132
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5125.
+\XeTeXLinkMargin=\dimen135
+\Fld@menulength=\count133
+\Field@Width=\dimen136
+\Fld@charsize=\dimen137
+Package hyperref Info: Hyper figures OFF on input line 6380.
+Package hyperref Info: Link nesting OFF on input line 6385.
+Package hyperref Info: Hyper index ON on input line 6388.
+Package hyperref Info: backreferencing OFF on input line 6395.
+Package hyperref Info: Link coloring OFF on input line 6400.
+Package hyperref Info: Link coloring with OCG OFF on input line 6405.
+Package hyperref Info: PDF/A mode OFF on input line 6410.
+LaTeX Info: Redefining \ref on input line 6450.
+LaTeX Info: Redefining \pageref on input line 6454.
+\Hy@abspage=\count134
+\c@Item=\count135
+\c@Hfootnote=\count136
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2018/11/30 v6.88e Hyperref driver for pdfTeX
+\Fld@listcount=\count137
+\c@bookmark@seq@number=\count138
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip63
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/placeins/placeins.sty
+Package: placeins 2005/04/18  v 2.2
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/makecell/makecell.sty
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/array.sty
+Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
+\col@sep=\dimen138
+\ar@mcellbox=\box56
+\extrarowheight=\dimen139
+\NC@list=\toks23
+\extratabsurround=\skip64
+\backup@length=\skip65
+\ar@cellbox=\box57
+)
+\rotheadsize=\dimen140
+\c@nlinenum=\count139
+\TeXr@lab=\toks24
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip66
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks25
+\ex@=\dimen141
+))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen142
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count140
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count141
+\leftroot@=\count142
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count143
+\DOTSCASE@=\count144
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box58
+\strutbox@=\box59
+\big@size=\dimen143
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count145
+\c@MaxMatrixCols=\count146
+\dotsspace@=\muskip11
+\c@parentequation=\count147
+\dspbrk@lvl=\count148
+\tag@help=\toks26
+\row@=\count149
+\column@=\count150
+\maxfields@=\count151
+\andhelp@=\toks27
+\eqnshift@=\dimen144
+\alignsep@=\dimen145
+\tagshift@=\dimen146
+\tagwidth@=\dimen147
+\totwidth@=\dimen148
+\lineht@=\dimen149
+\@envbody=\toks28
+\multlinegap=\skip67
+\multlinetaggap=\skip68
+\mathdisplay@stack=\toks29
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks30
+\thm@bodyfont=\toks31
+\thm@headfont=\toks32
+\thm@notefont=\toks33
+\thm@headpunct=\toks34
+\thm@preskip=\skip69
+\thm@postskip=\skip70
+\thm@headsep=\skip71
+\dth@everypar=\toks35
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/esint/esint.sty
+Package: esint 
+\symlargesymbolsA=\mathgroup6
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip72
+\bibsep=\skip73
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count152
+)
+\c@definition=\count153
+\c@theorem=\count154
+\c@corollary=\count155
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip74
+\f@nch@O@elh=\skip75
+\f@nch@O@erh=\skip76
+\f@nch@O@olh=\skip77
+\f@nch@O@orh=\skip78
+\f@nch@O@elf=\skip79
+\f@nch@O@erf=\skip80
+\f@nch@O@olf=\skip81
+\f@nch@O@orf=\skip82
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/parskip/parskip.sty
+Package: parskip 2019-01-16 v2.0c non-zero parskip adjustments
+)
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+Package csquotes Info: Adjusting default style.
+Package csquotes Info: Redefining alias 'default' -> 'english'.
+
+(./thesis.aux (./titlepage/titlepage.aux) (./signatures/signatures.aux)
+(./acknowledgments/acknowledgments.aux) (./abstract/abstract.aux))
+\openout1 = `thesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+
+(/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count156
+\scratchdimen=\dimen150
+\scratchbox=\box60
+\nofMPsegments=\count157
+\nofMParguments=\count158
+\everyMPshowfont=\toks36
+\MPscratchCnt=\count159
+\MPscratchDim=\dimen151
+\MPnumerator=\count160
+\makeMPintoPDFobject=\count161
+\everyMPtoPDFconversion=\toks37
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* bindingoffset: 17.07164pt
+* modes: twoside 
+* h-part:(L,W,R)=(61.45795pt, 426.79134pt, 92.18695pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=426.79134pt
+* \textheight=702.78308pt
+* \oddsidemargin=6.2596pt
+* \evensidemargin=19.91696pt
+* \topmargin=-37.1381pt
+* \headheight=12.0pt
+* \headsep=24.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=111.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\AtBeginShipoutBox=\box61
+Package hyperref Info: Link coloring OFF on input line 88.
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count162
+)
+LaTeX Info: Redefining \ref on input line 88.
+LaTeX Info: Redefining \pageref on input line 88.
+LaTeX Info: Redefining \nameref on input line 88.
+
+(./thesis.out) (./thesis.out)
+\@outlinefile=\write3
+\openout3 = `thesis.out'.
+
+\openout2 = `titlepage/titlepage.aux'.
+
+ (./titlepage/titlepage.tex
+LaTeX Font Info:    Try loading font information for U+msa on input line 22.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 22.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+esint on input line 22.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/esint/uesint.fd
+File: uesint.fd 
+) [1
+
+
+{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}])
+\openout2 = `signatures/signatures.aux'.
+
+
+(./signatures/signatures.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 1--93
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--93
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--93
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--93
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+Make it at least 13.0pt.
+We now make it that large for the rest of the document.
+This may cause the page layout to be inconsistent, however.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.93 \include{signatures/signatures}
+                                     [2
+
+
+]
+\openout2 = `acknowledgments/acknowledgments.aux'.
+
+ (./acknowledgments/acknowledgments.tex)pdfTeX warning (ext4): destination with
+ the same identifier (name{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.95 \include{acknowledgments/acknowledgments}
+                                               [3
+
+
+
+]
+\openout2 = `abstract/abstract.aux'.
+
+ (./abstract/abstract.tex
+Underfull \hbox (badness 10000) in paragraph at lines 2--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--11
+
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.11 \end{abstract}
+                    [1
+
+
+]pdfTeX warning (ext4): destination with the same identifier (name{page.}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.11 \end{abstract}
+                    [2]) (./thesis.toc
+Underfull \vbox (badness 2980) has occurred while \output is active []
+
+ [1
+
+
+]
+[2] [3])
+\tf@toc=\write4
+\openout4 = `thesis.toc'.
+
+ [4] (./thesis.lof
+Underfull \vbox (badness 3701) has occurred while \output is active []
+
+ [5
+
+]
+Underfull \vbox (badness 7486) has occurred while \output is active []
+
+ [6]
+[7]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8])
+\tf@lof=\write5
+\openout5 = `thesis.lof'.
+
+
+[9]
+Chapter 1.
+(./chapters/Chapter0.tex [1
+
+] [2]) [3]
+Chapter 2.
+(./chapters/Chapter1.tex [4
+
+]
+<images/introduction/neuron_anatomy.png, id=994, 1455.93938pt x 950.04938pt>
+File: images/introduction/neuron_anatomy.png Graphic file (type png)
+<use images/introduction/neuron_anatomy.png>
+Package pdftex.def Info: images/introduction/neuron_anatomy.png  used on input 
+line 13.
+(pdftex.def)             Requested size: 320.09349pt x 208.86655pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[5]
+<images/introduction/eph-ephrin-binding.png, id=1023, 475.5366pt x 365.32484pt>
+
+File: images/introduction/eph-ephrin-binding.png Graphic file (type png)
+<use images/introduction/eph-ephrin-binding.png>
+Package pdftex.def Info: images/introduction/eph-ephrin-binding.png  used on in
+put line 26.
+(pdftex.def)             Requested size: 320.09349pt x 245.90912pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6 <./images/introduction/neuron_anatomy.png>]
+<images/introduction/cartoon_topography.png, id=1045, 276.03125pt x 433.62pt>
+File: images/introduction/cartoon_topography.png Graphic file (type png)
+<use images/introduction/cartoon_topography.png>
+Package pdftex.def Info: images/introduction/cartoon_topography.png  used on in
+put line 36.
+(pdftex.def)             Requested size: 320.09349pt x 502.88707pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[7 <./images/introduction/eph-ephrin-binding.png>]
+<images/introduction/receptiveprojectivefields.pdf, id=1060, 578.16pt x 304.136
+25pt>
+File: images/introduction/receptiveprojectivefields.pdf Graphic file (type pdf)
+
+<use images/introduction/receptiveprojectivefields.pdf>
+Package pdftex.def Info: images/introduction/receptiveprojectivefields.pdf  use
+d on input line 45.
+(pdftex.def)             Requested size: 426.79134pt x 224.50969pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[8 <./images/introduction/cartoon_topography.png>] [9 <./images/introduction/re
+ceptiveprojectivefields.pdf>]
+<images/introduction/hjorth_gradients.png, id=1100, 898.35625pt x 512.91624pt>
+File: images/introduction/hjorth_gradients.png Graphic file (type png)
+<use images/introduction/hjorth_gradients.png>
+Package pdftex.def Info: images/introduction/hjorth_gradients.png  used on inpu
+t line 61.
+(pdftex.def)             Requested size: 341.43436pt x 194.9415pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11 <./images/introduction/hjorth_gradients.png>]
+<images/introduction/dii.png, id=1141, 947.54pt x 340.27126pt>
+File: images/introduction/dii.png Graphic file (type png)
+<use images/introduction/dii.png>
+Package pdftex.def Info: images/introduction/dii.png  used on input line 83.
+(pdftex.def)             Requested size: 426.79134pt x 153.26602pt.
+ [12 <./images/introduction/dii.png>]
+<images/introduction/calcium1.png, id=1154, 207.77625pt x 205.76875pt>
+File: images/introduction/calcium1.png Graphic file (type png)
+<use images/introduction/calcium1.png>
+Package pdftex.def Info: images/introduction/calcium1.png  used on input line 9
+2.
+(pdftex.def)             Requested size: 128.0387pt x 126.80605pt.
+<images/introduction/calcium2.png, id=1155, 253.94875pt x 191.71625pt>
+File: images/introduction/calcium2.png Graphic file (type png)
+<use images/introduction/calcium2.png>
+Package pdftex.def Info: images/introduction/calcium2.png  used on input line 9
+7.
+(pdftex.def)             Requested size: 170.71393pt x 128.88216pt.
+<images/introduction/calcium3.png, id=1156, 144.54pt x 188.705pt>
+File: images/introduction/calcium3.png Graphic file (type png)
+<use images/introduction/calcium3.png>
+Package pdftex.def Info: images/introduction/calcium3.png  used on input line 1
+02.
+(pdftex.def)             Requested size: 85.35696pt x 111.43863pt.
+<images/introduction/kalatsky_experiment.png, id=1163, 410.53375pt x 525.965pt>
+
+File: images/introduction/kalatsky_experiment.png Graphic file (type png)
+<use images/introduction/kalatsky_experiment.png>
+Package pdftex.def Info: images/introduction/kalatsky_experiment.png  used on i
+nput line 116.
+(pdftex.def)             Requested size: 298.75262pt x 382.7474pt.
+
+[13 <./images/introduction/calcium1.png> <./images/introduction/calcium2.png> <
+./images/introduction/calcium3.png>]
+<images/introduction/kalatsky_phase.png, id=1177, 497.86pt x 644.4075pt>
+File: images/introduction/kalatsky_phase.png Graphic file (type png)
+<use images/introduction/kalatsky_phase.png>
+Package pdftex.def Info: images/introduction/kalatsky_phase.png  used on input 
+line 123.
+(pdftex.def)             Requested size: 298.75262pt x 386.69664pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \vbox (badness 1072) has occurred while \output is active []
+
+ [14 <./images/introduction/kalatsky_experiment.png>] [15 <./images/introductio
+n/kalatsky_phase.png>]
+<images/introduction/lattice_procedure.png, id=1197, 333.245pt x 587.19376pt>
+File: images/introduction/lattice_procedure.png Graphic file (type png)
+<use images/introduction/lattice_procedure.png>
+Package pdftex.def Info: images/introduction/lattice_procedure.png  used on inp
+ut line 138.
+(pdftex.def)             Requested size: 256.0774pt x 451.25357pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/introduction/lattice_results.png, id=1203, 284.06125pt x 339.2675pt>
+File: images/introduction/lattice_results.png Graphic file (type png)
+<use images/introduction/lattice_results.png>
+Package pdftex.def Info: images/introduction/lattice_results.png  used on input
+ line 146.
+(pdftex.def)             Requested size: 256.0774pt x 305.87631pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[16] [17 <./images/introduction/lattice_procedure.png>] [18 <./images/introduct
+ion/lattice_results.png>] [19
+
+]
+<images/introduction/gradientsEphEphrinMeasured.png, id=1253, 442.65375pt x 386
+.44376pt>
+File: images/introduction/gradientsEphEphrinMeasured.png Graphic file (type png
+)
+<use images/introduction/gradientsEphEphrinMeasured.png>
+Package pdftex.def Info: images/introduction/gradientsEphEphrinMeasured.png  us
+ed on input line 177.
+(pdftex.def)             Requested size: 213.39566pt x 186.29874pt.
+<images/introduction/ephrinKO.png, id=1256, 874.26625pt x 503.8825pt>
+File: images/introduction/ephrinKO.png Graphic file (type png)
+<use images/introduction/ephrinKO.png>
+Package pdftex.def Info: images/introduction/ephrinKO.png  used on input line 1
+83.
+(pdftex.def)             Requested size: 341.43436pt x 196.78249pt.
+ [20] [21 <./images/introduction/gradientsEphEphrinMeasured.png> <./images/intr
+oduction/ephrinKO.png>] [22]
+<images/introduction/brownEphA3.png, id=1294, 479.7925pt x 161.60374pt>
+File: images/introduction/brownEphA3.png Graphic file (type png)
+<use images/introduction/brownEphA3.png>
+Package pdftex.def Info: images/introduction/brownEphA3.png  used on input line
+ 197.
+(pdftex.def)             Requested size: 256.0774pt x 86.25371pt.
+<images/introduction/epha3anatomical.png, id=1297, 501.875pt x 867.24pt>
+File: images/introduction/epha3anatomical.png Graphic file (type png)
+<use images/introduction/epha3anatomical.png>
+Package pdftex.def Info: images/introduction/epha3anatomical.png  used on input
+ line 205.
+(pdftex.def)             Requested size: 256.0774pt x 442.52475pt.
+<images/introduction/epha3hom.png, id=1301, 580.1675pt x 353.32pt>
+File: images/introduction/epha3hom.png Graphic file (type png)
+<use images/introduction/epha3hom.png>
+Package pdftex.def Info: images/introduction/epha3hom.png  used on input line 2
+15.
+(pdftex.def)             Requested size: 266.74458pt x 162.4483pt.
+<images/introduction/epha3het.png, id=1302, 279.0425pt x 291.0875pt>
+File: images/introduction/epha3het.png Graphic file (type png)
+<use images/introduction/epha3het.png>
+Package pdftex.def Info: images/introduction/epha3het.png  used on input line 2
+21.
+(pdftex.def)             Requested size: 160.04674pt x 166.96092pt.
+
+Overfull \hbox (6.66663pt too wide) in paragraph at lines 213--226
+[]$[]$   $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 213--226
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--226
+
+ []
+
+[23 <./images/introduction/brownEphA3.png>] [24 <./images/introduction/epha3ana
+tomical.png>]
+<images/introduction/meaWaves.png, id=1329, 578.16pt x 164.615pt>
+File: images/introduction/meaWaves.png Graphic file (type png)
+<use images/introduction/meaWaves.png>
+Package pdftex.def Info: images/introduction/meaWaves.png  used on input line 2
+36.
+(pdftex.def)             Requested size: 426.79134pt x 121.51678pt.
+ [25 <./images/introduction/epha3hom.png> <./images/introduction/epha3het.png>]
+<images/introduction/meaBeta2.png, id=1349, 576.1525pt x 163.61125pt>
+File: images/introduction/meaBeta2.png Graphic file (type png)
+<use images/introduction/meaBeta2.png>
+Package pdftex.def Info: images/introduction/meaBeta2.png  used on input line 2
+45.
+(pdftex.def)             Requested size: 256.0774pt x 72.72064pt.
+<images/introduction/betacorrelation.png, id=1350, 285.065pt x 219.82124pt>
+File: images/introduction/betacorrelation.png Graphic file (type png)
+<use images/introduction/betacorrelation.png>
+Package pdftex.def Info: images/introduction/betacorrelation.png  used on input
+ line 250.
+(pdftex.def)             Requested size: 170.71393pt x 131.64218pt.
+
+Overfull \hbox (6.66663pt too wide) in paragraph at lines 243--252
+[]$[]$   $[]$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--256
+
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 259.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 259.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 259.
+
+<images/introduction/math5.png, id=1357, 342.27875pt x 101.37875pt>
+File: images/introduction/math5.png Graphic file (type png)
+<use images/introduction/math5.png>
+Package pdftex.def Info: images/introduction/math5.png  used on input line 266.
+
+(pdftex.def)             Requested size: 384.10959pt x 113.777pt.
+[26 <./images/introduction/meaWaves.png>] [27 <./images/introduction/meaBeta2.p
+ng> <./images/introduction/betacorrelation.png> <./images/introduction/math5.pn
+g>] [28] [29]) [30]
+Chapter 3.
+(./chapters/Chapter2.tex
+Overfull \hbox (4.73732pt too wide) in paragraph at lines 3--4
+\OT1/cmr/m/n/10 Some use-ful math-e-mat-i-cal re-sults, def-i-ni-tions, and sta
+n-dard com-pu-ta-tional pro-ce-dures used through-
+ []
+
+[31
+
+] [32] [33] [34] [35] [36]
+<images/introduction/momentum.pdf, id=1489, 361.35pt x 354.32375pt>
+File: images/introduction/momentum.pdf Graphic file (type pdf)
+<use images/introduction/momentum.pdf>
+Package pdftex.def Info: images/introduction/momentum.pdf  used on input line 1
+17.
+(pdftex.def)             Requested size: 285.9494pt x 280.38846pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [37 <./images/introduction/momentum.pdf>]
+Overfull \hbox (1.26494pt too wide) in paragraph at lines 131--132
+[]\OT1/cmr/m/n/10 Starting with Sperry's chemo-speci-ficity hy-poth-e-sis and t
+he re-sult-ing search for molecules
+ []
+
+[38] [39] [40]
+<images/introduction/energy_chemotaxis_type1.pdf, id=1572, 361.35pt x 386.44376
+pt>
+File: images/introduction/energy_chemotaxis_type1.pdf Graphic file (type pdf)
+<use images/introduction/energy_chemotaxis_type1.pdf>
+Package pdftex.def Info: images/introduction/energy_chemotaxis_type1.pdf  used 
+on input line 168.
+(pdftex.def)             Requested size: 426.79134pt x 456.43604pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/introduction/differential_chemotaxis_type1.pdf, id=1573, 361.35pt x 390
+.45876pt>
+File: images/introduction/differential_chemotaxis_type1.pdf Graphic file (type 
+pdf)
+<use images/introduction/differential_chemotaxis_type1.pdf>
+Package pdftex.def Info: images/introduction/differential_chemotaxis_type1.pdf 
+ used on input line 175.
+(pdftex.def)             Requested size: 426.79134pt x 461.17822pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/introduction/energy_chemotaxis_type2.pdf, id=1574, 361.35pt x 384.43625
+pt>
+File: images/introduction/energy_chemotaxis_type2.pdf Graphic file (type pdf)
+<use images/introduction/energy_chemotaxis_type2.pdf>
+Package pdftex.def Info: images/introduction/energy_chemotaxis_type2.pdf  used 
+on input line 181.
+(pdftex.def)             Requested size: 426.79134pt x 454.06493pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/introduction/differential_chemotaxis_type2.pdf, id=1577, 361.35pt x 384
+.43625pt>
+File: images/introduction/differential_chemotaxis_type2.pdf Graphic file (type 
+pdf)
+<use images/introduction/differential_chemotaxis_type2.pdf>
+Package pdftex.def Info: images/introduction/differential_chemotaxis_type2.pdf 
+ used on input line 187.
+(pdftex.def)             Requested size: 426.79134pt x 454.06493pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[41]
+Underfull \vbox (badness 6792) has occurred while \output is active []
+
+ [42 <./images/introduction/energy_chemotaxis_type1.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [43 <./images/introduction/differential_chemotaxis_type1.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [44 <./images/introduction/energy_chemotaxis_type2.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [45 <./images/introduction/differential_chemotaxis_type2.pdf>] [46] [47] [48] 
+[49]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [50]
+[51]
+<images/introduction/koulakov_domains.png, id=1875, 526.96875pt x 254.9525pt>
+File: images/introduction/koulakov_domains.png Graphic file (type png)
+<use images/introduction/koulakov_domains.png>
+Package pdftex.def Info: images/introduction/koulakov_domains.png  used on inpu
+t line 299.
+(pdftex.def)             Requested size: 426.79134pt x 206.49481pt.
+<images/introduction/cang_attraction.png, id=1879, 247.92625pt x 401.5pt>
+File: images/introduction/cang_attraction.png Graphic file (type png)
+<use images/introduction/cang_attraction.png>
+Package pdftex.def Info: images/introduction/cang_attraction.png  used on input
+ line 307.
+(pdftex.def)             Requested size: 285.9494pt x 463.11209pt.
+ [52 <./images/introduction/koulakov_domains.png>] [53 <./images/introduction/c
+ang_attraction.png>] [54] [55]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [56]
+[57]
+Underfull \vbox (badness 4832) has occurred while \output is active []
+
+ [58]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [59]
+[60] [61] [62] [63] [64]
+<images/introduction/tourscatter.png, id=2030, 3011.25pt x 2007.5pt>
+File: images/introduction/tourscatter.png Graphic file (type png)
+<use images/introduction/tourscatter.png>
+Package pdftex.def Info: images/introduction/tourscatter.png  used on input lin
+e 426.
+(pdftex.def)             Requested size: 213.39566pt x 142.25475pt.
+<images/introduction/tourvalid.png, id=2031, 3011.25pt x 2007.5pt>
+File: images/introduction/tourvalid.png Graphic file (type png)
+<use images/introduction/tourvalid.png>
+Package pdftex.def Info: images/introduction/tourvalid.png  used on input line 
+431.
+(pdftex.def)             Requested size: 213.39566pt x 142.25475pt.
+
+Overfull \hbox (6.66663pt too wide) in paragraph at lines 425--435
+[]$[]$   $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 425--435
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [65]
+<images/introduction/elasticNetexample.png, id=2045, 1040.88875pt x 716.6775pt>
+
+File: images/introduction/elasticNetexample.png Graphic file (type png)
+<use images/introduction/elasticNetexample.png>
+Package pdftex.def Info: images/introduction/elasticNetexample.png  used on inp
+ut line 450.
+(pdftex.def)             Requested size: 426.79134pt x 293.85062pt.
+<images/introduction/distortedretinotopy.png, id=2065, 519.9425pt x 506.89375pt
+>
+File: images/introduction/distortedretinotopy.png Graphic file (type png)
+<use images/introduction/distortedretinotopy.png>
+Package pdftex.def Info: images/introduction/distortedretinotopy.png  used on i
+nput line 460.
+(pdftex.def)             Requested size: 426.79134pt x 416.08096pt.
+
+[66 <./images/introduction/tourscatter.png> <./images/introduction/tourvalid.pn
+g>] [67 <./images/introduction/elasticNetexample.png>]
+<images/introduction/V1retinotopy.png, id=2086, 340.27126pt x 478.78876pt>
+File: images/introduction/V1retinotopy.png Graphic file (type png)
+<use images/introduction/V1retinotopy.png>
+Package pdftex.def Info: images/introduction/V1retinotopy.png  used on input li
+ne 468.
+(pdftex.def)             Requested size: 426.79134pt x 600.5593pt.
+ [68] [69 <./images/introduction/distortedretinotopy.png>] [70 <./images/introd
+uction/V1retinotopy.png>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 475.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\beta' on input line 475.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 475.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 475.
+
+[71] [72])
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [73]
+[74]
+Chapter 4.
+(./chapters/Chapter3.tex [75
+
+] [76]
+<images/nft_activity/model_summary.pdf, id=2198, 1003.75pt x 1003.75pt>
+File: images/nft_activity/model_summary.pdf Graphic file (type pdf)
+<use images/nft_activity/model_summary.pdf>
+Package pdftex.def Info: images/nft_activity/model_summary.pdf  used on input l
+ine 38.
+(pdftex.def)             Requested size: 298.75262pt x 298.75334pt.
+ [77] [78 <./images/nft_activity/model_summary.pdf>]
+<images/nft_activity/example-topographicorganisationlinear.pdf, id=2260, 351.31
+25pt x 335.2525pt>
+File: images/nft_activity/example-topographicorganisationlinear.pdf Graphic fil
+e (type pdf)
+<use images/nft_activity/example-topographicorganisationlinear.pdf>
+Package pdftex.def Info: images/nft_activity/example-topographicorganisationlin
+ear.pdf  used on input line 52.
+(pdftex.def)             Requested size: 170.71393pt x 162.91443pt.
+<images/nft_activity/example-topgographicorganisationcubic.pdf, id=2261, 451.68
+75pt x 341.275pt>
+File: images/nft_activity/example-topgographicorganisationcubic.pdf Graphic fil
+e (type pdf)
+<use images/nft_activity/example-topgographicorganisationcubic.pdf>
+Package pdftex.def Info: images/nft_activity/example-topgographicorganisationcu
+bic.pdf  used on input line 57.
+(pdftex.def)             Requested size: 221.9333pt x 167.68446pt.
+ [79 <./images/nft_activity/example-topographicorganisationlinear.pdf> <./image
+s/nft_activity/example-topgographicorganisationcubic.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./images/nft_activity/exampl
+e-topgographicorganisationcubic.pdf): PDF inclusion: multiple pdfs with page gr
+oup included in a single page
+>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [80]
+Overfull \hbox (3.86996pt too wide) in paragraph at lines 102--103
+ []\OT1/cmr/bx/n/10 Input Stim-u-lus[] \OT1/cmr/m/n/10 Two classes of in-put st
+im-u-lus are con-sid-ered: mono-directional and bi-directional
+ []
+
+[81] [82]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [83]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [84]
+Underfull \vbox (badness 2707) has occurred while \output is active []
+
+ [85]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[86]
+<images/nft_activity/stabilitysurface.pdf, id=2381, 602.25pt x 501.875pt>
+File: images/nft_activity/stabilitysurface.pdf Graphic file (type pdf)
+<use images/nft_activity/stabilitysurface.pdf>
+Package pdftex.def Info: images/nft_activity/stabilitysurface.pdf  used on inpu
+t line 237.
+(pdftex.def)             Requested size: 320.09349pt x 266.75061pt.
+<images/nft_activity/example-typicaldistributionfourier.pdf, id=2383, 501.875pt
+ x 367.3725pt>
+File: images/nft_activity/example-typicaldistributionfourier.pdf Graphic file (
+type pdf)
+<use images/nft_activity/example-typicaldistributionfourier.pdf>
+Package pdftex.def Info: images/nft_activity/example-typicaldistributionfourier
+.pdf  used on input line 247.
+(pdftex.def)             Requested size: 170.71393pt x 124.96104pt.
+<images/nft_activity/example-typicaldistributionreal.pdf, id=2384, 501.875pt x 
+378.41376pt>
+File: images/nft_activity/example-typicaldistributionreal.pdf Graphic file (typ
+e pdf)
+<use images/nft_activity/example-typicaldistributionreal.pdf>
+Package pdftex.def Info: images/nft_activity/example-typicaldistributionreal.pd
+f  used on input line 252.
+(pdftex.def)             Requested size: 170.71393pt x 128.7167pt.
+ [87] [88 <./images/nft_activity/stabilitysurface.pdf> <./images/nft_activity/e
+xample-typicaldistributionfourier.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./images/nft_activity/exampl
+e-typicaldistributionfourier.pdf): PDF inclusion: multiple pdfs with page group
+ included in a single page
+> <./images/nft_activity/example-typicaldistributionreal.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./images/nft_activity/exampl
+e-typicaldistributionreal.pdf): PDF inclusion: multiple pdfs with page group in
+cluded in a single page
+>]
+<images/nft_activity/width_cs2.pdf, id=2570, 602.25pt x 501.875pt>
+File: images/nft_activity/width_cs2.pdf Graphic file (type pdf)
+<use images/nft_activity/width_cs2.pdf>
+Package pdftex.def Info: images/nft_activity/width_cs2.pdf  used on input line 
+271.
+(pdftex.def)             Requested size: 192.0548pt x 160.04424pt.
+<images/nft_activity/width_r1r2.pdf, id=2571, 602.25pt x 501.875pt>
+File: images/nft_activity/width_r1r2.pdf Graphic file (type pdf)
+<use images/nft_activity/width_r1r2.pdf>
+Package pdftex.def Info: images/nft_activity/width_r1r2.pdf  used on input line
+ 276.
+(pdftex.def)             Requested size: 192.0548pt x 160.04424pt.
+<images/nft_activity/width_R1r1.pdf, id=2572, 602.25pt x 501.875pt>
+File: images/nft_activity/width_R1r1.pdf Graphic file (type pdf)
+<use images/nft_activity/width_R1r1.pdf>
+Package pdftex.def Info: images/nft_activity/width_R1r1.pdf  used on input line
+ 281.
+(pdftex.def)             Requested size: 192.0548pt x 160.04424pt.
+<images/nft_activity/width_tautp.pdf, id=2573, 602.25pt x 501.875pt>
+File: images/nft_activity/width_tautp.pdf Graphic file (type pdf)
+<use images/nft_activity/width_tautp.pdf>
+Package pdftex.def Info: images/nft_activity/width_tautp.pdf  used on input lin
+e 286.
+(pdftex.def)             Requested size: 192.0548pt x 160.04424pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/nft_activity/posterior_tau.pdf, id=2579, 578.16pt x 406.51875pt>
+File: images/nft_activity/posterior_tau.pdf Graphic file (type pdf)
+<use images/nft_activity/posterior_tau.pdf>
+Package pdftex.def Info: images/nft_activity/posterior_tau.pdf  used on input l
+ine 308.
+(pdftex.def)             Requested size: 202.72849pt x 142.53801pt.
+<images/nft_activity/posterior_tp.pdf, id=2580, 578.16pt x 408.52625pt>
+File: images/nft_activity/posterior_tp.pdf Graphic file (type pdf)
+<use images/nft_activity/posterior_tp.pdf>
+Package pdftex.def Info: images/nft_activity/posterior_tp.pdf  used on input li
+ne 313.
+(pdftex.def)             Requested size: 202.72849pt x 143.2419pt.
+<images/nft_activity/posterior_r1.pdf, id=2581, 578.16pt x 406.51875pt>
+File: images/nft_activity/posterior_r1.pdf Graphic file (type pdf)
+<use images/nft_activity/posterior_r1.pdf>
+Package pdftex.def Info: images/nft_activity/posterior_r1.pdf  used on input li
+ne 318.
+(pdftex.def)             Requested size: 202.72849pt x 142.53801pt.
+<images/nft_activity/posterior_r2.pdf, id=2582, 578.16pt x 406.51875pt>
+File: images/nft_activity/posterior_r2.pdf Graphic file (type pdf)
+<use images/nft_activity/posterior_r2.pdf>
+Package pdftex.def Info: images/nft_activity/posterior_r2.pdf  used on input li
+ne 323.
+(pdftex.def)             Requested size: 202.72849pt x 142.53801pt.
+<images/nft_activity/posterior_R1amp.pdf, id=2583, 578.16pt x 402.50375pt>
+File: images/nft_activity/posterior_R1amp.pdf Graphic file (type pdf)
+<use images/nft_activity/posterior_R1amp.pdf>
+Package pdftex.def Info: images/nft_activity/posterior_R1amp.pdf  used on input
+ line 328.
+(pdftex.def)             Requested size: 202.72849pt x 141.13022pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[89]
+Underfull \vbox (badness 5607) has occurred while \output is active []
+
+ [90 <./images/nft_activity/width_cs2.pdf> <./images/nft_activity/width_r1r2.pd
+f
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./images/nft_activity/width_
+r1r2.pdf): PDF inclusion: multiple pdfs with page group included in a single pa
+ge
+> <./images/nft_activity/width_R1r1.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./images/nft_activity/width_
+R1r1.pdf): PDF inclusion: multiple pdfs with page group included in a single pa
+ge
+> <./images/nft_activity/width_tautp.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./images/nft_activity/width_
+tautp.pdf): PDF inclusion: multiple pdfs with page group included in a single p
+age
+>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [91 <./images/nft_activity/posterior_tau.pdf> <./images/nft_activity/posterior
+_tp.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./images/nft_activity/poster
+ior_tp.pdf): PDF inclusion: multiple pdfs with page group included in a single 
+page
+> <./images/nft_activity/posterior_r1.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./images/nft_activity/poster
+ior_r1.pdf): PDF inclusion: multiple pdfs with page group included in a single 
+page
+> <./images/nft_activity/posterior_r2.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./images/nft_activity/poster
+ior_r2.pdf): PDF inclusion: multiple pdfs with page group included in a single 
+page
+> <./images/nft_activity/posterior_R1amp.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./images/nft_activity/poster
+ior_R1amp.pdf): PDF inclusion: multiple pdfs with page group included in a sing
+le page
+>] [92] [93]) [94]
+Chapter 5.
+(./chapters/Chapter4.tex [95
+
+]
+<images/lattice/owenscomp.png, id=3303, 585.18625pt x 364.36125pt>
+File: images/lattice/owenscomp.png Graphic file (type png)
+<use images/lattice/owenscomp.png>
+Package pdftex.def Info: images/lattice/owenscomp.png  used on input line 12.
+(pdftex.def)             Requested size: 426.79134pt x 265.74799pt.
+ [96] [97 <./images/lattice/owenscomp.png>]
+[98]
+<images/lattice/figwt.png, id=3333, 662.475pt x 610.28pt>
+File: images/lattice/figwt.png Graphic file (type png)
+<use images/lattice/figwt.png>
+Package pdftex.def Info: images/lattice/figwt.png  used on input line 30.
+(pdftex.def)             Requested size: 426.79134pt x 393.16663pt.
+ [99] [100 <./images/lattice/figwt.png>] [101]
+<images/lattice/figHETA1.png, id=3354, 783.92876pt x 476.78125pt>
+File: images/lattice/figHETA1.png Graphic file (type png)
+<use images/lattice/figHETA1.png>
+Package pdftex.def Info: images/lattice/figHETA1.png  used on input line 61.
+(pdftex.def)             Requested size: 320.09349pt x 194.6813pt.
+<images/lattice/figHETB1.png, id=3355, 1291.82625pt x 763.85374pt>
+File: images/lattice/figHETB1.png Graphic file (type png)
+<use images/lattice/figHETB1.png>
+Package pdftex.def Info: images/lattice/figHETB1.png  used on input line 67.
+(pdftex.def)             Requested size: 320.09349pt x 189.26126pt.
+<images/lattice/figHETC2.png, id=3356, 864.22874pt x 500.87125pt>
+File: images/lattice/figHETC2.png Graphic file (type png)
+<use images/lattice/figHETC2.png>
+Package pdftex.def Info: images/lattice/figHETC2.png  used on input line 73.
+(pdftex.def)             Requested size: 320.09349pt x 185.51051pt.
+<images/lattice/figHOM2.png, id=3357, 1301.86375pt x 762.85pt>
+File: images/lattice/figHOM2.png Graphic file (type png)
+<use images/lattice/figHOM2.png>
+Package pdftex.def Info: images/lattice/figHOM2.png  used on input line 79.
+(pdftex.def)             Requested size: 320.09349pt x 187.55756pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[102 <./images/lattice/figHETA1.png> <./images/lattice/figHETB1.png> <./images/
+lattice/figHETC2.png> <./images/lattice/figHOM2.png>] [103
+
+
+] [104] [105]
+[106]
+<images/lattice/WT1.png, id=3412, 562.2606pt x 421.575pt>
+File: images/lattice/WT1.png Graphic file (type png)
+<use images/lattice/WT1.png>
+Package pdftex.def Info: images/lattice/WT1.png  used on input line 135.
+(pdftex.def)             Requested size: 213.39566pt x 160.00075pt.
+<images/lattice/WT2.png, id=3413, 562.2606pt x 421.575pt>
+File: images/lattice/WT2.png Graphic file (type png)
+<use images/lattice/WT2.png>
+Package pdftex.def Info: images/lattice/WT2.png  used on input line 140.
+(pdftex.def)             Requested size: 213.39566pt x 160.00075pt.
+
+Overfull \hbox (2.2222pt too wide) in paragraph at lines 133--144
+[]$[]$ $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--144
+
+ []
+
+<images/lattice/example_lattice_CTOF_whole.png, id=3416, 964.5636pt x 1007.4438
+pt>
+File: images/lattice/example_lattice_CTOF_whole.png Graphic file (type png)
+<use images/lattice/example_lattice_CTOF_whole.png>
+Package pdftex.def Info: images/lattice/example_lattice_CTOF_whole.png  used on
+ input line 155.
+(pdftex.def)             Requested size: 190.5622pt x 199.02562pt.
+<images/lattice/example_lattice_CTOF_sub.png, id=3417, 964.5636pt x 1010.8164pt
+>
+File: images/lattice/example_lattice_CTOF_sub.png Graphic file (type png)
+<use images/lattice/example_lattice_CTOF_sub.png>
+Package pdftex.def Info: images/lattice/example_lattice_CTOF_sub.png  used on i
+nput line 161.
+(pdftex.def)             Requested size: 190.5622pt x 199.6919pt.
+<images/lattice/example_lattice_FTOC_whole.png, id=3418, 964.8045pt x 1007.4438
+pt>
+File: images/lattice/example_lattice_FTOC_whole.png Graphic file (type png)
+<use images/lattice/example_lattice_FTOC_whole.png>
+Package pdftex.def Info: images/lattice/example_lattice_FTOC_whole.png  used on
+ input line 169.
+(pdftex.def)             Requested size: 190.5622pt x 198.97949pt.
+<images/lattice/example_lattice_FTOC_sub.png, id=3419, 964.8045pt x 1007.4438pt
+>
+File: images/lattice/example_lattice_FTOC_sub.png Graphic file (type png)
+<use images/lattice/example_lattice_FTOC_sub.png>
+Package pdftex.def Info: images/lattice/example_lattice_FTOC_sub.png  used on i
+nput line 175.
+(pdftex.def)             Requested size: 190.5622pt x 198.97949pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[107 <./images/lattice/WT1.png (PNG copy)> <./images/lattice/WT2.png (PNG copy)
+>] [108 <./images/lattice/example_lattice_CTOF_whole.png (PNG copy)> <./images/
+lattice/example_lattice_CTOF_sub.png (PNG copy)> <./images/lattice/example_latt
+ice_FTOC_whole.png (PNG copy)> <./images/lattice/example_lattice_FTOC_sub.png (
+PNG copy)>] [109
+
+]
+<images/lattice/paper_anatomy_dr.png, id=3437, 4212.73875pt x 2401.97375pt>
+File: images/lattice/paper_anatomy_dr.png Graphic file (type png)
+<use images/lattice/paper_anatomy_dr.png>
+Package pdftex.def Info: images/lattice/paper_anatomy_dr.png  used on input lin
+e 195.
+(pdftex.def)             Requested size: 682.86873pt x 389.34486pt.
+
+
+LaTeX Warning: Float too large for page by 44.55353pt on input line 198.
+
+[110 <./images/lattice/paper_anatomy_dr.png (PNG copy)>]
+<images/lattice/hetA_DR08.png, id=3445, 562.2606pt x 421.575pt>
+File: images/lattice/hetA_DR08.png Graphic file (type png)
+<use images/lattice/hetA_DR08.png>
+Package pdftex.def Info: images/lattice/hetA_DR08.png  used on input line 205.
+(pdftex.def)             Requested size: 192.0548pt x 143.99617pt.
+<images/lattice/HetB_DR_10.png, id=3446, 562.2606pt x 421.575pt>
+File: images/lattice/HetB_DR_10.png Graphic file (type png)
+<use images/lattice/HetB_DR_10.png>
+Package pdftex.def Info: images/lattice/HetB_DR_10.png  used on input line 211.
+
+(pdftex.def)             Requested size: 192.0548pt x 143.99617pt.
+<images/lattice/hetB_DR_12.png, id=3447, 562.2606pt x 421.575pt>
+File: images/lattice/hetB_DR_12.png Graphic file (type png)
+<use images/lattice/hetB_DR_12.png>
+Package pdftex.def Info: images/lattice/hetB_DR_12.png  used on input line 217.
+
+(pdftex.def)             Requested size: 192.0548pt x 143.99617pt.
+<images/lattice/hom.png, id=3448, 562.2606pt x 421.575pt>
+File: images/lattice/hom.png Graphic file (type png)
+<use images/lattice/hom.png>
+Package pdftex.def Info: images/lattice/hom.png  used on input line 223.
+(pdftex.def)             Requested size: 192.0548pt x 143.99617pt.
+ [111
+
+
+ <./images/lattice/hetA_DR08.png> <./images/lattice/HetB_DR_10.png> <./images/l
+attice/hetB_DR_12.png> <./images/lattice/hom.png (PNG copy)>] [112]
+<images/lattice/lattice_CTOF_0.png, id=3472, 964.8045pt x 1008.4074pt>
+File: images/lattice/lattice_CTOF_0.png Graphic file (type png)
+<use images/lattice/lattice_CTOF_0.png>
+Package pdftex.def Info: images/lattice/lattice_CTOF_0.png  used on input line 
+247.
+(pdftex.def)             Requested size: 202.72849pt x 211.8795pt.
+<images/lattice/lattice_CTOF_04.png, id=3473, 964.8045pt x 1008.4074pt>
+File: images/lattice/lattice_CTOF_04.png Graphic file (type png)
+<use images/lattice/lattice_CTOF_04.png>
+Package pdftex.def Info: images/lattice/lattice_CTOF_04.png  used on input line
+ 252.
+(pdftex.def)             Requested size: 202.72849pt x 211.8795pt.
+<images/lattice/lattice_CTOF_08.png, id=3474, 964.5636pt x 1010.8164pt>
+File: images/lattice/lattice_CTOF_08.png Graphic file (type png)
+<use images/lattice/lattice_CTOF_08.png>
+Package pdftex.def Info: images/lattice/lattice_CTOF_08.png  used on input line
+ 258.
+(pdftex.def)             Requested size: 202.72849pt x 212.44737pt.
+<images/lattice/lattice_CTOF_12.png, id=3475, 964.5636pt x 1010.8164pt>
+File: images/lattice/lattice_CTOF_12.png Graphic file (type png)
+<use images/lattice/lattice_CTOF_12.png>
+Package pdftex.def Info: images/lattice/lattice_CTOF_12.png  used on input line
+ 265.
+(pdftex.def)             Requested size: 202.72849pt x 212.44737pt.
+<images/lattice/lattice_CTOF_16.png, id=3476, 964.5636pt x 1010.8164pt>
+File: images/lattice/lattice_CTOF_16.png Graphic file (type png)
+<use images/lattice/lattice_CTOF_16.png>
+Package pdftex.def Info: images/lattice/lattice_CTOF_16.png  used on input line
+ 271.
+(pdftex.def)             Requested size: 202.72849pt x 212.44737pt.
+<images/lattice/lattice_CTOF_20.png, id=3477, 964.5636pt x 1010.8164pt>
+File: images/lattice/lattice_CTOF_20.png Graphic file (type png)
+<use images/lattice/lattice_CTOF_20.png>
+Package pdftex.def Info: images/lattice/lattice_CTOF_20.png  used on input line
+ 277.
+(pdftex.def)             Requested size: 202.72849pt x 212.44737pt.
+
+
+LaTeX Warning: Float too large for page by 33.9034pt on input line 282.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/lattice/lattice_FTOC_0.png, id=3478, 964.8045pt x 1008.4074pt>
+File: images/lattice/lattice_FTOC_0.png Graphic file (type png)
+<use images/lattice/lattice_FTOC_0.png>
+Package pdftex.def Info: images/lattice/lattice_FTOC_0.png  used on input line 
+289.
+(pdftex.def)             Requested size: 202.72849pt x 211.8795pt.
+<images/lattice/lattice_FTOC_04.png, id=3479, 964.8045pt x 1008.4074pt>
+File: images/lattice/lattice_FTOC_04.png Graphic file (type png)
+<use images/lattice/lattice_FTOC_04.png>
+Package pdftex.def Info: images/lattice/lattice_FTOC_04.png  used on input line
+ 294.
+(pdftex.def)             Requested size: 202.72849pt x 211.8795pt.
+<images/lattice/lattice_FTOC_08.png, id=3480, 964.8045pt x 1008.4074pt>
+File: images/lattice/lattice_FTOC_08.png Graphic file (type png)
+<use images/lattice/lattice_FTOC_08.png>
+Package pdftex.def Info: images/lattice/lattice_FTOC_08.png  used on input line
+ 300.
+(pdftex.def)             Requested size: 202.72849pt x 211.8795pt.
+<images/lattice/lattice_FTOC_12.png, id=3481, 964.8045pt x 1008.4074pt>
+File: images/lattice/lattice_FTOC_12.png Graphic file (type png)
+<use images/lattice/lattice_FTOC_12.png>
+Package pdftex.def Info: images/lattice/lattice_FTOC_12.png  used on input line
+ 307.
+(pdftex.def)             Requested size: 202.72849pt x 211.8795pt.
+<images/lattice/lattice_FTOC_16.png, id=3482, 964.8045pt x 1008.4074pt>
+File: images/lattice/lattice_FTOC_16.png Graphic file (type png)
+<use images/lattice/lattice_FTOC_16.png>
+Package pdftex.def Info: images/lattice/lattice_FTOC_16.png  used on input line
+ 313.
+(pdftex.def)             Requested size: 202.72849pt x 211.8795pt.
+<images/lattice/lattice_FTOC_20.png, id=3483, 964.8045pt x 1008.4074pt>
+File: images/lattice/lattice_FTOC_20.png Graphic file (type png)
+<use images/lattice/lattice_FTOC_20.png>
+Package pdftex.def Info: images/lattice/lattice_FTOC_20.png  used on input line
+ 319.
+(pdftex.def)             Requested size: 202.72849pt x 211.8795pt.
+
+LaTeX Warning: Float too large for page by 32.76765pt on input line 324.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[113 <./images/lattice/lattice_CTOF_0.png (PNG copy)> <./images/lattice/lattice
+_CTOF_04.png (PNG copy)> <./images/lattice/lattice_CTOF_08.png (PNG copy)> <./i
+mages/lattice/lattice_CTOF_12.png (PNG copy)> <./images/lattice/lattice_CTOF_16
+.png (PNG copy)> <./images/lattice/lattice_CTOF_20.png (PNG copy)>] [114 <./ima
+ges/lattice/lattice_FTOC_0.png (PNG copy)> <./images/lattice/lattice_FTOC_04.pn
+g (PNG copy)> <./images/lattice/lattice_FTOC_08.png (PNG copy)> <./images/latti
+ce/lattice_FTOC_12.png (PNG copy)> <./images/lattice/lattice_FTOC_16.png (PNG c
+opy)> <./images/lattice/lattice_FTOC_20.png (PNG copy)>]
+<images/lattice/stats_largest_vfo.png, id=3498, 562.2606pt x 421.575pt>
+File: images/lattice/stats_largest_vfo.png Graphic file (type png)
+<use images/lattice/stats_largest_vfo.png>
+Package pdftex.def Info: images/lattice/stats_largest_vfo.png  used on input li
+ne 337.
+(pdftex.def)             Requested size: 320.09349pt x 240.00433pt.
+ [115
+
+
+ <./images/lattice/stats_largest_vfo.png (PNG copy)>]
+<images/lattice/stats_mean_projection.png, id=3507, 562.2606pt x 421.575pt>
+File: images/lattice/stats_mean_projection.png Graphic file (type png)
+<use images/lattice/stats_mean_projection.png>
+Package pdftex.def Info: images/lattice/stats_mean_projection.png  used on inpu
+t line 347.
+(pdftex.def)             Requested size: 320.09349pt x 240.00433pt.
+<images/lattice/stats_qualities.png, id=3508, 562.2606pt x 421.575pt>
+File: images/lattice/stats_qualities.png Graphic file (type png)
+<use images/lattice/stats_qualities.png>
+Package pdftex.def Info: images/lattice/stats_qualities.png  used on input line
+ 354.
+(pdftex.def)             Requested size: 320.09349pt x 240.00433pt.
+ [116] [117 <./images/lattice/stats_mean_projection.png (PNG copy)> <./images/l
+attice/stats_qualities.png (PNG copy)>]
+[118]
+<images/lattice/paper_anatomy_dr_gamma_big_up.png, id=3530, 4574.08875pt x 2401
+.97375pt>
+File: images/lattice/paper_anatomy_dr_gamma_big_up.png Graphic file (type png)
+<use images/lattice/paper_anatomy_dr_gamma_big_up.png>
+Package pdftex.def Info: images/lattice/paper_anatomy_dr_gamma_big_up.png  used
+ on input line 365.
+(pdftex.def)             Requested size: 682.86873pt x 358.55792pt.
+
+
+LaTeX Warning: Float too large for page by 1.76659pt on input line 369.
+
+[119 <./images/lattice/paper_anatomy_dr_gamma_big_up.png (PNG copy)>]
+<images/lattice/paper_anatomy_dr_gamma_big_down.png, id=3536, 4162.55125pt x 24
+01.97375pt>
+File: images/lattice/paper_anatomy_dr_gamma_big_down.png Graphic file (type png
+)
+<use images/lattice/paper_anatomy_dr_gamma_big_down.png>
+Package pdftex.def Info: images/lattice/paper_anatomy_dr_gamma_big_down.png  us
+ed on input line 375.
+(pdftex.def)             Requested size: 682.86873pt x 394.03621pt.
+
+
+LaTeX Warning: Float too large for page by 25.24487pt on input line 379.
+
+[120 <./images/lattice/paper_anatomy_dr_gamma_big_down.png (PNG copy)>]
+<images/lattice/paper_anatomy_dr_gamma_up.png, id=3543, 4201.6975pt x 2401.9737
+5pt>
+File: images/lattice/paper_anatomy_dr_gamma_up.png Graphic file (type png)
+<use images/lattice/paper_anatomy_dr_gamma_up.png>
+Package pdftex.def Info: images/lattice/paper_anatomy_dr_gamma_up.png  used on 
+input line 385.
+(pdftex.def)             Requested size: 682.86873pt x 390.3711pt.
+
+
+LaTeX Warning: Float too large for page by 21.57976pt on input line 389.
+
+[121 <./images/lattice/paper_anatomy_dr_gamma_up.png (PNG copy)>]
+<images/lattice/paper_anatomy_dr_gamma_down.png, id=3550, 4378.3575pt x 2401.97
+375pt>
+File: images/lattice/paper_anatomy_dr_gamma_down.png Graphic file (type png)
+<use images/lattice/paper_anatomy_dr_gamma_down.png>
+Package pdftex.def Info: images/lattice/paper_anatomy_dr_gamma_down.png  used o
+n input line 395.
+(pdftex.def)             Requested size: 682.86873pt x 374.61111pt.
+
+
+LaTeX Warning: Float too large for page by 5.81978pt on input line 399.
+
+[122 <./images/lattice/paper_anatomy_dr_gamma_down.png (PNG copy)>]
+<images/lattice/paper_anatomy_dr_beta2.png, id=3559, 4380.365pt x 2401.97375pt>
+
+File: images/lattice/paper_anatomy_dr_beta2.png Graphic file (type png)
+<use images/lattice/paper_anatomy_dr_beta2.png>
+Package pdftex.def Info: images/lattice/paper_anatomy_dr_beta2.png  used on inp
+ut line 405.
+(pdftex.def)             Requested size: 682.86873pt x 374.42786pt.
+
+
+LaTeX Warning: Float too large for page by 30.11548pt on input line 409.
+
+[123 <./images/lattice/paper_anatomy_dr_beta2.png (PNG copy)>] [124
+
+
+
+
+
+
+
+
+
+
+] [125]
+[126] [127]) [128]
+Chapter 6.
+(./chapters/Chapter5.tex
+Overfull \hbox (6.4113pt too wide) in paragraph at lines 2--3
+\OT1/cmr/m/it/10 The fol-low-ing chap-ter ex-tends the idea of en-ergy min-imi-
+sa-tion prin-ci-ples in-tro-duced by the Tsigankov-
+ []
+
+[129
+
+] [130]
+Underfull \vbox (badness 1297) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (13.0pt): 
+Make it at least 23.54448pt.
+We now make it that large for the rest of the document.
+This may cause the page layout to be inconsistent, however.
+
+[131]
+<images/distributed_kernels/figure_kernelexample.pdf, id=3677, 361.35pt x 380.4
+2125pt>
+File: images/distributed_kernels/figure_kernelexample.pdf Graphic file (type pd
+f)
+<use images/distributed_kernels/figure_kernelexample.pdf>
+Package pdftex.def Info: images/distributed_kernels/figure_kernelexample.pdf  u
+sed on input line 31.
+(pdftex.def)             Requested size: 320.09349pt x 336.98914pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [132]
+[133 <./images/distributed_kernels/figure_kernelexample.pdf>]
+<images/distributed_kernels/figure_cartoongradients.pdf, id=3761, 602.25pt x 37
+2.39125pt>
+File: images/distributed_kernels/figure_cartoongradients.pdf Graphic file (type
+ pdf)
+<use images/distributed_kernels/figure_cartoongradients.pdf>
+Package pdftex.def Info: images/distributed_kernels/figure_cartoongradients.pdf
+  used on input line 56.
+(pdftex.def)             Requested size: 320.09349pt x 197.92896pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [134]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [135 <./images/distributed_kernels/figure_cartoongradients.pdf>] [136]
+<images/distributed_kernels/figure_runtime.png, id=3826, 3011.25pt x 2007.5pt>
+File: images/distributed_kernels/figure_runtime.png Graphic file (type png)
+<use images/distributed_kernels/figure_runtime.png>
+Package pdftex.def Info: images/distributed_kernels/figure_runtime.png  used on
+ input line 92.
+(pdftex.def)             Requested size: 320.09349pt x 213.38211pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[137] [138 <./images/distributed_kernels/figure_runtime.png>]
+<images/distributed_kernels/figure_distributed_kernels_WT.png, id=3845, 3011.25
+pt x 2007.5pt>
+File: images/distributed_kernels/figure_distributed_kernels_WT.png Graphic file
+ (type png)
+<use images/distributed_kernels/figure_distributed_kernels_WT.png>
+Package pdftex.def Info: images/distributed_kernels/figure_distributed_kernels_
+WT.png  used on input line 105.
+(pdftex.def)             Requested size: 426.79134pt x 284.50949pt.
+<images/distributed_kernels/figure_lattice_WT.png, id=3846, 3011.25pt x 2007.5p
+t>
+File: images/distributed_kernels/figure_lattice_WT.png Graphic file (type png)
+<use images/distributed_kernels/figure_lattice_WT.png>
+Package pdftex.def Info: images/distributed_kernels/figure_lattice_WT.png  used
+ on input line 112.
+(pdftex.def)             Requested size: 426.79134pt x 284.50949pt.
+ [139 <./images/distributed_kernels/figure_distributed_kernels_WT.png>]
+<images/distributed_kernels/figure_distributed_kernels_ephrinTKO.png, id=3857, 
+3011.25pt x 2007.5pt>
+File: images/distributed_kernels/figure_distributed_kernels_ephrinTKO.png Graph
+ic file (type png)
+<use images/distributed_kernels/figure_distributed_kernels_ephrinTKO.png>
+Package pdftex.def Info: images/distributed_kernels/figure_distributed_kernels_
+ephrinTKO.png  used on input line 121.
+(pdftex.def)             Requested size: 426.79134pt x 284.50949pt.
+<images/distributed_kernels/ephrinTKOois.png, id=3858, 305.14pt x 704.6325pt>
+File: images/distributed_kernels/ephrinTKOois.png Graphic file (type png)
+<use images/distributed_kernels/ephrinTKOois.png>
+Package pdftex.def Info: images/distributed_kernels/ephrinTKOois.png  used on i
+nput line 127.
+(pdftex.def)             Requested size: 140.84192pt x 325.24232pt.
+<images/distributed_kernels/ephrinA2A5double.png, id=3859, 229.85875pt x 583.17
+876pt>
+File: images/distributed_kernels/ephrinA2A5double.png Graphic file (type png)
+<use images/distributed_kernels/ephrinA2A5double.png>
+Package pdftex.def Info: images/distributed_kernels/ephrinA2A5double.png  used 
+on input line 133.
+(pdftex.def)             Requested size: 128.0387pt x 324.86935pt.
+
+
+LaTeX Warning: Float too large for page by 23.96873pt on input line 138.
+
+<images/distributed_kernels/figure_lattice_ephrinTKO.png, id=3864, 3011.25pt x 
+2007.5pt>
+File: images/distributed_kernels/figure_lattice_ephrinTKO.png Graphic file (typ
+e png)
+<use images/distributed_kernels/figure_lattice_ephrinTKO.png>
+Package pdftex.def Info: images/distributed_kernels/figure_lattice_ephrinTKO.pn
+g  used on input line 143.
+(pdftex.def)             Requested size: 298.75262pt x 199.1689pt.
+<images/distributed_kernels/latticeephrinTKO.png, id=3865, 185.69376pt x 134.50
+25pt>
+File: images/distributed_kernels/latticeephrinTKO.png Graphic file (type png)
+<use images/distributed_kernels/latticeephrinTKO.png>
+Package pdftex.def Info: images/distributed_kernels/latticeephrinTKO.png  used 
+on input line 149.
+(pdftex.def)             Requested size: 110.9634pt x 80.37578pt.
+[140 <./images/distributed_kernels/figure_lattice_WT.png>] [141 <./images/distr
+ibuted_kernels/figure_distributed_kernels_ephrinTKO.png> <./images/distributed_
+kernels/ephrinTKOois.png> <./images/distributed_kernels/ephrinA2A5double.png>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 156.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 156.
+
+<images/distributed_kernels/figure_distributed_kernels_math5.png, id=3881, 3011
+.25pt x 2007.5pt>
+File: images/distributed_kernels/figure_distributed_kernels_math5.png Graphic f
+ile (type png)
+<use images/distributed_kernels/figure_distributed_kernels_math5.png>
+Package pdftex.def Info: images/distributed_kernels/figure_distributed_kernels_
+math5.png  used on input line 161.
+(pdftex.def)             Requested size: 426.79134pt x 284.50949pt.
+<images/distributed_kernels/figure_lattice_math5.png, id=3882, 3011.25pt x 2007
+.5pt>
+File: images/distributed_kernels/figure_lattice_math5.png Graphic file (type pn
+g)
+<use images/distributed_kernels/figure_lattice_math5.png>
+Package pdftex.def Info: images/distributed_kernels/figure_lattice_math5.png  u
+sed on input line 168.
+(pdftex.def)             Requested size: 256.0774pt x 170.71182pt.
+<images/distributed_kernels/math5.png, id=3883, 387.4475pt x 384.43625pt>
+File: images/distributed_kernels/math5.png Graphic file (type png)
+<use images/distributed_kernels/math5.png>
+Package pdftex.def Info: images/distributed_kernels/math5.png  used on input li
+ne 173.
+(pdftex.def)             Requested size: 170.71393pt x 169.3871pt.
+
+Overfull \hbox (2.2222pt too wide) in paragraph at lines 159--177
+[]$ $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--177
+
+ []
+
+[142 <./images/distributed_kernels/figure_lattice_ephrinTKO.png> <./images/dist
+ributed_kernels/latticeephrinTKO.png>] [143 <./images/distributed_kernels/figur
+e_distributed_kernels_math5.png> <./images/distributed_kernels/figure_lattice_m
+ath5.png> <./images/distributed_kernels/math5.png>]
+<images/distributed_kernels/figure_distributed_kernels_EphA3.png, id=3903, 3011
+.25pt x 2007.5pt>
+File: images/distributed_kernels/figure_distributed_kernels_EphA3.png Graphic f
+ile (type png)
+<use images/distributed_kernels/figure_distributed_kernels_EphA3.png>
+Package pdftex.def Info: images/distributed_kernels/figure_distributed_kernels_
+EphA3.png  used on input line 192.
+(pdftex.def)             Requested size: 426.79134pt x 284.50949pt.
+<images/distributed_kernels/ephA3hom.png, id=3904, 144.54pt x 141.52875pt>
+File: images/distributed_kernels/ephA3hom.png Graphic file (type png)
+<use images/distributed_kernels/ephA3hom.png>
+Package pdftex.def Info: images/distributed_kernels/ephA3hom.png  used on input
+ line 198.
+(pdftex.def)             Requested size: 213.39566pt x 208.9604pt.
+<images/distributed_kernels/epha3anatomical.png, id=3905, 164.615pt x 271.0125p
+t>
+File: images/distributed_kernels/epha3anatomical.png Graphic file (type png)
+<use images/distributed_kernels/epha3anatomical.png>
+Package pdftex.def Info: images/distributed_kernels/epha3anatomical.png  used o
+n input line 204.
+(pdftex.def)             Requested size: 128.0387pt x 210.80167pt.
+<images/distributed_kernels/figure_lattice_EphA3_pre.png, id=3910, 3011.25pt x 
+2007.5pt>
+File: images/distributed_kernels/figure_lattice_EphA3_pre.png Graphic file (typ
+e png)
+<use images/distributed_kernels/figure_lattice_EphA3_pre.png>
+Package pdftex.def Info: images/distributed_kernels/figure_lattice_EphA3_pre.pn
+g  used on input line 214.
+(pdftex.def)             Requested size: 426.79134pt x 284.50949pt.
+<images/distributed_kernels/figure_lattice_EphA3_post.png, id=3913, 3011.25pt x
+ 2007.5pt>
+File: images/distributed_kernels/figure_lattice_EphA3_post.png Graphic file (ty
+pe png)
+<use images/distributed_kernels/figure_lattice_EphA3_post.png>
+Package pdftex.def Info: images/distributed_kernels/figure_lattice_EphA3_post.p
+ng  used on input line 222.
+(pdftex.def)             Requested size: 426.79134pt x 284.50949pt.
+ [144] [145 <./images/distributed_kernels/figure_distributed_kernels_EphA3.png>
+ <./images/distributed_kernels/ephA3hom.png> <./images/distributed_kernels/epha
+3anatomical.png>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 227.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\beta' on input line 227.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 227.
+
+<images/distributed_kernels/figure_distributed_kernels_Beta2.png, id=3939, 3011
+.25pt x 2007.5pt>
+File: images/distributed_kernels/figure_distributed_kernels_Beta2.png Graphic f
+ile (type png)
+<use images/distributed_kernels/figure_distributed_kernels_Beta2.png>
+Package pdftex.def Info: images/distributed_kernels/figure_distributed_kernels_
+Beta2.png  used on input line 232.
+(pdftex.def)             Requested size: 426.79134pt x 284.50949pt.
+<images/distributed_kernels/beta2.png, id=3940, 633.36626pt x 222.8325pt>
+File: images/distributed_kernels/beta2.png Graphic file (type png)
+<use images/distributed_kernels/beta2.png>
+Package pdftex.def Info: images/distributed_kernels/beta2.png  used on input li
+ne 238.
+(pdftex.def)             Requested size: 426.79134pt x 150.15723pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 230--242
+
+ []
+
+<images/distributed_kernels/figure_lattice_Beta2.png, id=3945, 3011.25pt x 2007
+.5pt>
+File: images/distributed_kernels/figure_lattice_Beta2.png Graphic file (type pn
+g)
+<use images/distributed_kernels/figure_lattice_Beta2.png>
+Package pdftex.def Info: images/distributed_kernels/figure_lattice_Beta2.png  u
+sed on input line 247.
+(pdftex.def)             Requested size: 256.0774pt x 170.71182pt.
+<images/distributed_kernels/latticeB2.png, id=3946, 317.185pt x 221.82875pt>
+File: images/distributed_kernels/latticeB2.png Graphic file (type png)
+<use images/distributed_kernels/latticeB2.png>
+Package pdftex.def Info: images/distributed_kernels/latticeB2.png  used on inpu
+t line 252.
+(pdftex.def)             Requested size: 170.71393pt x 119.39308pt.
+
+Overfull \hbox (2.2222pt too wide) in paragraph at lines 245--256
+[]$[]$ $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--256
+
+ []
+
+[146 <./images/distributed_kernels/figure_lattice_EphA3_pre.png>]
+<images/distributed_kernels/figure_beta2vsWTprojection.png, id=3956, 3011.25pt 
+x 2007.5pt>
+File: images/distributed_kernels/figure_beta2vsWTprojection.png Graphic file (t
+ype png)
+<use images/distributed_kernels/figure_beta2vsWTprojection.png>
+Package pdftex.def Info: images/distributed_kernels/figure_beta2vsWTprojection.
+png  used on input line 263.
+(pdftex.def)             Requested size: 426.79134pt x 284.50949pt.
+ [147 <./images/distributed_kernels/figure_lattice_EphA3_post.png>] [148 <./ima
+ges/distributed_kernels/figure_distributed_kernels_Beta2.png> <./images/distrib
+uted_kernels/beta2.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [149 <./images/distributed_kernels/figure_lattice_Beta2.png> <./images/distrib
+uted_kernels/latticeB2.png> <./images/distributed_kernels/figure_beta2vsWTproje
+ction.png>] [150] [151] [152] [153]) [154]
+Chapter 7.
+(./chapters/Chapter6.tex [155
+
+]
+File: images/introduction/tourscatter.png Graphic file (type png)
+<use images/introduction/tourscatter.png>
+Package pdftex.def Info: images/introduction/tourscatter.png  used on input lin
+e 10.
+(pdftex.def)             Requested size: 213.39566pt x 142.25475pt.
+File: images/introduction/tourvalid.png Graphic file (type png)
+<use images/introduction/tourvalid.png>
+Package pdftex.def Info: images/introduction/tourvalid.png  used on input line 
+15.
+(pdftex.def)             Requested size: 213.39566pt x 142.25475pt.
+
+Overfull \hbox (6.66663pt too wide) in paragraph at lines 9--19
+[]$[]$   $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--19
+
+ []
+
+
+Underfull \vbox (badness 8113) has occurred while \output is active []
+
+ [156]
+Overfull \hbox (3.29448pt too wide) detected at line 31
+ $[] \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 ^^LK [] \OT1/cmr/m/n/10 + \OML/cmm/m/it
+/10  []\OT1/cmr/m/n/10 ([] \OMS/cmsy/m/n/10 ^^@ []\OT1/cmr/m/n/10 )\OML/cmm/m/
+it/10 W\OT1/cmr/m/n/10 ([]\OML/cmm/m/it/10 ; []; K\OT1/cmr/m/n/10 (\OML/cmm/m/i
+t/10 t\OT1/cmr/m/n/10 ); \OML/cmm/m/it/10 Y\OT1/cmr/m/n/10 ) + \OML/cmm/m/it/10
+ ^^M []\OT1/cmr/m/n/10 ([] \OMS/cmsy/m/n/10 ^^@ []\OT1/cmr/m/n/10 )\OML/cmm/m/i
+t/10 W\OT1/cmr/m/n/10 ([]\OML/cmm/m/it/10 ; []; K\OT1/cmr/m/n/10 (\OML/cmm/m/it
+/10 t\OT1/cmr/m/n/10 ); \OML/cmm/m/it/10 Y\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ;$ 
+ 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [157]
+Underfull \vbox (badness 1194) has occurred while \output is active []
+
+ [158]
+Underfull \vbox (badness 7344) has occurred while \output is active []
+
+ [159]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [160]
+Overfull \hbox (3.29448pt too wide) detected at line 70
+ $[] \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 ^^LK [] \OT1/cmr/m/n/10 + \OML/cmm/m/it
+/10  []\OT1/cmr/m/n/10 ([] \OMS/cmsy/m/n/10 ^^@ []\OT1/cmr/m/n/10 )\OML/cmm/m/
+it/10 W\OT1/cmr/m/n/10 ([]\OML/cmm/m/it/10 ; []; K\OT1/cmr/m/n/10 (\OML/cmm/m/i
+t/10 t\OT1/cmr/m/n/10 ); \OML/cmm/m/it/10 Y\OT1/cmr/m/n/10 ) + \OML/cmm/m/it/10
+ ^^M []\OT1/cmr/m/n/10 ([] \OMS/cmsy/m/n/10 ^^@ []\OT1/cmr/m/n/10 )\OML/cmm/m/i
+t/10 W\OT1/cmr/m/n/10 ([]\OML/cmm/m/it/10 ; []; K\OT1/cmr/m/n/10 (\OML/cmm/m/it
+/10 t\OT1/cmr/m/n/10 ); \OML/cmm/m/it/10 Y\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ;$ 
+ 
+ []
+
+[161] [162]
+<images/elastic_neighbourhood/fig_elastic_neighbourhood_time_series.png, id=416
+6, 3210.99625pt x 3212.0pt>
+File: images/elastic_neighbourhood/fig_elastic_neighbourhood_time_series.png Gr
+aphic file (type png)
+<use images/elastic_neighbourhood/fig_elastic_neighbourhood_time_series.png>
+Package pdftex.def Info: images/elastic_neighbourhood/fig_elastic_neighbourhood
+_time_series.png  used on input line 101.
+(pdftex.def)             Requested size: 298.75262pt x 298.82074pt.
+
+Overfull \hbox (30.2277pt too wide) in paragraph at lines 108--126
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--126
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [163 <./images/elastic_neighbourhood/fig_elastic_neighbourhood_time_series.png
+>]
+<images/elastic_neighbourhood/fig_space_filling_static.png, id=4176, 3210.99625
+pt x 3212.0pt>
+File: images/elastic_neighbourhood/fig_space_filling_static.png Graphic file (t
+ype png)
+<use images/elastic_neighbourhood/fig_space_filling_static.png>
+Package pdftex.def Info: images/elastic_neighbourhood/fig_space_filling_static.
+png  used on input line 139.
+(pdftex.def)             Requested size: 170.71393pt x 170.7547pt.
+<images/elastic_neighbourhood/fig_space_filling_full_iterations.png, id=4177, 3
+210.99625pt x 3212.0pt>
+File: images/elastic_neighbourhood/fig_space_filling_full_iterations.png Graphi
+c file (type png)
+<use images/elastic_neighbourhood/fig_space_filling_full_iterations.png>
+Package pdftex.def Info: images/elastic_neighbourhood/fig_space_filling_full_it
+erations.png  used on input line 144.
+(pdftex.def)             Requested size: 170.71393pt x 170.7547pt.
+ [164]
+<images/elastic_neighbourhood/fig_scaling_runtime.png, id=4189, 3011.25pt x 200
+7.5pt>
+File: images/elastic_neighbourhood/fig_scaling_runtime.png Graphic file (type p
+ng)
+<use images/elastic_neighbourhood/fig_scaling_runtime.png>
+Package pdftex.def Info: images/elastic_neighbourhood/fig_scaling_runtime.png  
+used on input line 158.
+(pdftex.def)             Requested size: 426.79134pt x 284.50949pt.
+
+[165 <./images/elastic_neighbourhood/fig_space_filling_static.png> <./images/el
+astic_neighbourhood/fig_space_filling_full_iterations.png>] [166 <./images/elas
+tic_neighbourhood/fig_scaling_runtime.png>]
+<images/elastic_neighbourhood/fig_initialisation_clusters_50.png, id=4203, 3011
+.25pt x 2007.5pt>
+File: images/elastic_neighbourhood/fig_initialisation_clusters_50.png Graphic f
+ile (type png)
+<use images/elastic_neighbourhood/fig_initialisation_clusters_50.png>
+Package pdftex.def Info: images/elastic_neighbourhood/fig_initialisation_cluste
+rs_50.png  used on input line 168.
+(pdftex.def)             Requested size: 426.79134pt x 284.50949pt.
+ [167 <./images/elastic_neighbourhood/fig_initialisation_clusters_50.png>]
+<images/elastic_neighbourhood/fig_initialisation_npoints_random.png, id=4214, 3
+011.25pt x 2007.5pt>
+File: images/elastic_neighbourhood/fig_initialisation_npoints_random.png Graphi
+c file (type png)
+<use images/elastic_neighbourhood/fig_initialisation_npoints_random.png>
+Package pdftex.def Info: images/elastic_neighbourhood/fig_initialisation_npoint
+s_random.png  used on input line 183.
+(pdftex.def)             Requested size: 298.75262pt x 199.1689pt.
+<images/elastic_neighbourhood/fig_initialisation_npoints_simulated_annealing.pn
+g, id=4215, 3011.25pt x 2007.5pt>
+File: images/elastic_neighbourhood/fig_initialisation_npoints_simulated_anneali
+ng.png Graphic file (type png)
+<use images/elastic_neighbourhood/fig_initialisation_npoints_simulated_annealin
+g.png>
+Package pdftex.def Info: images/elastic_neighbourhood/fig_initialisation_npoint
+s_simulated_annealing.png  used on input line 189.
+(pdftex.def)             Requested size: 298.75262pt x 199.1689pt.
+<images/elastic_neighbourhood/fig_initialisation_npoints_particle_swarm.png, id
+=4216, 3011.25pt x 2007.5pt>
+File: images/elastic_neighbourhood/fig_initialisation_npoints_particle_swarm.pn
+g Graphic file (type png)
+<use images/elastic_neighbourhood/fig_initialisation_npoints_particle_swarm.png
+>
+Package pdftex.def Info: images/elastic_neighbourhood/fig_initialisation_npoint
+s_particle_swarm.png  used on input line 195.
+(pdftex.def)             Requested size: 298.75262pt x 199.1689pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--198
+[]$[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--198
+[]$
+ []
+
+
+LaTeX Warning: Float too large for page by 5.72362pt on input line 201.
+
+[168] [169 <./images/elastic_neighbourhood/fig_initialisation_npoints_random.pn
+g> <./images/elastic_neighbourhood/fig_initialisation_npoints_simulated_anneali
+ng.png> <./images/elastic_neighbourhood/fig_initialisation_npoints_particle_swa
+rm.png>]
+<images/elastic_neighbourhood/fig_elastic_net_comparison.png, id=4232, 3011.25p
+t x 2007.5pt>
+File: images/elastic_neighbourhood/fig_elastic_net_comparison.png Graphic file 
+(type png)
+<use images/elastic_neighbourhood/fig_elastic_net_comparison.png>
+Package pdftex.def Info: images/elastic_neighbourhood/fig_elastic_net_compariso
+n.png  used on input line 212.
+(pdftex.def)             Requested size: 426.79134pt x 284.50949pt.
+ [170 <./images/elastic_neighbourhood/fig_elastic_net_comparison.png>]
+<images/elastic_neighbourhood/fig_heuristicscomparison.png, id=4240, 3011.25pt 
+x 2007.5pt>
+File: images/elastic_neighbourhood/fig_heuristicscomparison.png Graphic file (t
+ype png)
+<use images/elastic_neighbourhood/fig_heuristicscomparison.png>
+Package pdftex.def Info: images/elastic_neighbourhood/fig_heuristicscomparison.
+png  used on input line 226.
+(pdftex.def)             Requested size: 426.79134pt x 284.50949pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[171]
+<images/elastic_neighbourhood/fig_1.png, id=4249, 3210.99625pt x 3212.0pt>
+File: images/elastic_neighbourhood/fig_1.png Graphic file (type png)
+<use images/elastic_neighbourhood/fig_1.png>
+Package pdftex.def Info: images/elastic_neighbourhood/fig_1.png  used on input 
+line 235.
+(pdftex.def)             Requested size: 426.79134pt x 426.88678pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [172 <./images/elastic_neighbourhood/fig_heuristicscomparison.png>] [173 <./im
+ages/elastic_neighbourhood/fig_1.png>]
+File: images/introduction/distortedretinotopy.png Graphic file (type png)
+<use images/introduction/distortedretinotopy.png>
+Package pdftex.def Info: images/introduction/distortedretinotopy.png  used on i
+nput line 263.
+(pdftex.def)             Requested size: 213.39566pt x 208.03662pt.
+File: images/introduction/V1retinotopy.png Graphic file (type png)
+<use images/introduction/V1retinotopy.png>
+Package pdftex.def Info: images/introduction/V1retinotopy.png  used on input li
+ne 268.
+(pdftex.def)             Requested size: 170.71393pt x 240.20471pt.
+<images/elastic_neighbourhood/fig_elastic_net_feature.png, id=4268, 2508.37125p
+t x 2508.37125pt>
+File: images/elastic_neighbourhood/fig_elastic_net_feature.png Graphic file (ty
+pe png)
+<use images/elastic_neighbourhood/fig_elastic_net_feature.png>
+Package pdftex.def Info: images/elastic_neighbourhood/fig_elastic_net_feature.p
+ng  used on input line 277.
+(pdftex.def)             Requested size: 213.39566pt x 213.38097pt.
+<images/elastic_neighbourhood/fig_elastic_net_retinotopy.png, id=4269, 2508.371
+25pt x 2508.37125pt>
+File: images/elastic_neighbourhood/fig_elastic_net_retinotopy.png Graphic file 
+(type png)
+<use images/elastic_neighbourhood/fig_elastic_net_retinotopy.png>
+Package pdftex.def Info: images/elastic_neighbourhood/fig_elastic_net_retinotop
+y.png  used on input line 282.
+(pdftex.def)             Requested size: 213.39566pt x 213.38097pt.
+<images/elastic_neighbourhood/fig_elastic_neighbourhood_feature.png, id=4270, 2
+508.37125pt x 2508.37125pt>
+File: images/elastic_neighbourhood/fig_elastic_neighbourhood_feature.png Graphi
+c file (type png)
+<use images/elastic_neighbourhood/fig_elastic_neighbourhood_feature.png>
+Package pdftex.def Info: images/elastic_neighbourhood/fig_elastic_neighbourhood
+_feature.png  used on input line 287.
+(pdftex.def)             Requested size: 213.39566pt x 213.38097pt.
+<images/elastic_neighbourhood/fig_elastic_neighbourhood_retinotopy.png, id=4271
+, 2508.37125pt x 2508.37125pt>
+File: images/elastic_neighbourhood/fig_elastic_neighbourhood_retinotopy.png Gra
+phic file (type png)
+<use images/elastic_neighbourhood/fig_elastic_neighbourhood_retinotopy.png>
+Package pdftex.def Info: images/elastic_neighbourhood/fig_elastic_neighbourhood
+_retinotopy.png  used on input line 292.
+(pdftex.def)             Requested size: 213.39566pt x 213.38097pt.
+
+Overfull \hbox (2.2222pt too wide) in paragraph at lines 275--296
+[]$[]$ $[]$
+ []
+
+
+Overfull \hbox (2.2222pt too wide) in paragraph at lines 275--296
+[]$ $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 275--296
+
+ []
+
+[174]
+<images/elastic_neighbourhood/fig_chi2_statistics_uniform.png, id=4278, 602.25p
+t x 401.5pt>
+File: images/elastic_neighbourhood/fig_chi2_statistics_uniform.png Graphic file
+ (type png)
+<use images/elastic_neighbourhood/fig_chi2_statistics_uniform.png>
+Package pdftex.def Info: images/elastic_neighbourhood/fig_chi2_statistics_unifo
+rm.png  used on input line 302.
+(pdftex.def)             Requested size: 426.79134pt x 284.54012pt.
+ [175] [176 <./images/elastic_neighbourhood/fig_elastic_net_feature.png> <./ima
+ges/elastic_neighbourhood/fig_elastic_net_retinotopy.png> <./images/elastic_nei
+ghbourhood/fig_elastic_neighbourhood_feature.png> <./images/elastic_neighbourho
+od/fig_elastic_neighbourhood_retinotopy.png>] [177 <./images/elastic_neighbourh
+ood/fig_chi2_statistics_uniform.png>] [178] [179] [180] [181]) [182]
+Chapter 8.
+(./chapters/Chapter7.tex [183
+
+] [184] [185] [186] [187] [188] [189] [190]
+[191]) (./thesis.bbl [192] [193
+
+] [194] [195] [196] [197] [198] [199] [200]
+[201] [202] [203] [204] [205] [206] [207] [208] [209]) [210]
+Appendix A.
+(./appendices/appendixA.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [211
+
+])
+[212]
+Appendix B.
+(./appendices/appendixC.tex [213
+
+]
+File: images/elastic_neighbourhood/fig_1.png Graphic file (type png)
+<use images/elastic_neighbourhood/fig_1.png>
+Package pdftex.def Info: images/elastic_neighbourhood/fig_1.png  used on input 
+line 8.
+(pdftex.def)             Requested size: 426.79134pt x 426.88678pt.
+ [214]
+<images/elastic_neighbourhood/fig_2.png, id=4598, 3210.99625pt x 3212.0pt>
+File: images/elastic_neighbourhood/fig_2.png Graphic file (type png)
+<use images/elastic_neighbourhood/fig_2.png>
+Package pdftex.def Info: images/elastic_neighbourhood/fig_2.png  used on input 
+line 14.
+(pdftex.def)             Requested size: 426.79134pt x 426.88678pt.
+ [215 <./images/elastic_neighbourhood/fig_2.png>]
+<images/elastic_neighbourhood/fig_3.png, id=4607, 3210.99625pt x 3212.0pt>
+File: images/elastic_neighbourhood/fig_3.png Graphic file (type png)
+<use images/elastic_neighbourhood/fig_3.png>
+Package pdftex.def Info: images/elastic_neighbourhood/fig_3.png  used on input 
+line 20.
+(pdftex.def)             Requested size: 384.10959pt x 384.19809pt.
+ [216 <./images/elastic_neighbourhood/fig_3.png>]
+<images/elastic_neighbourhood/fig_4.png, id=4615, 3210.99625pt x 3212.0pt>
+File: images/elastic_neighbourhood/fig_4.png Graphic file (type png)
+<use images/elastic_neighbourhood/fig_4.png>
+Package pdftex.def Info: images/elastic_neighbourhood/fig_4.png  used on input 
+line 26.
+(pdftex.def)             Requested size: 384.10959pt x 384.19809pt.
+ [217 <./images/elastic_neighbourhood/fig_4.png>]
+<images/elastic_neighbourhood/fig_5.png, id=4623, 3210.99625pt x 3212.0pt>
+File: images/elastic_neighbourhood/fig_5.png Graphic file (type png)
+<use images/elastic_neighbourhood/fig_5.png>
+Package pdftex.def Info: images/elastic_neighbourhood/fig_5.png  used on input 
+line 32.
+(pdftex.def)             Requested size: 426.79134pt x 426.88678pt.
+ [218 <./images/elastic_neighbourhood/fig_5.png>]
+<images/elastic_neighbourhood/fig_6.png, id=4631, 3210.99625pt x 3212.0pt>
+File: images/elastic_neighbourhood/fig_6.png Graphic file (type png)
+<use images/elastic_neighbourhood/fig_6.png>
+Package pdftex.def Info: images/elastic_neighbourhood/fig_6.png  used on input 
+line 38.
+(pdftex.def)             Requested size: 426.79134pt x 426.88678pt.
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 154.
+
+[219 <./images/elastic_neighbourhood/fig_6.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 154.
+ (./thesis.aux
+(./titlepage/titlepage.aux) (./signatures/signatures.aux)
+(./acknowledgments/acknowledgments.aux) (./abstract/abstract.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 154.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 154.
+Package rerunfilecheck Info: File `thesis.out' has not changed.
+(rerunfilecheck)             Checksum: D313DD931C8D812D27C6999122AECDF1;8482.
+ ) 
+Here is how much of TeX's memory you used:
+ 14171 strings out of 492616
+ 230835 string characters out of 6129481
+ 355322 words of memory out of 5000000
+ 16740 multiletter control sequences out of 15000+600000
+ 16909 words of font info for 69 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 36i,16n,46p,2311b,935s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></
+usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><
+/usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></
+usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></u
+sr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></us
+r/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/
+local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/lo
+cal/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/loca
+l/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/
+texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/te
+xlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texl
+ive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive
+/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/20
+19/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2019/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2019/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2019/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2019/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2019/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2019/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/2019/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2019/texmf-dist
+/fonts/type1/public/esint-type1/esint10.pfb></usr/local/texlive/2019/texmf-dist
+/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on thesis.pdf (233 pages, 187670716 bytes).
+PDF statistics:
+ 4924 PDF objects out of 5155 (max. 8388607)
+ 4011 compressed objects within 41 object streams
+ 945 named destinations out of 1000 (max. 500000)
+ 1584 words of extra memory for PDF output out of 10000 (max. 10000000)
+

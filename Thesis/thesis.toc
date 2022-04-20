@@ -1,0 +1,220 @@
+\babel@toc {english}{}
+\contentsline {chapter}{\numberline {1}Opening Remarks}{1}{chapter.1}% 
+\contentsline {chapter}{\numberline {2}Topographic Maps: Biology, Measurement, and Theory }{4}{chapter.2}% 
+\contentsline {section}{\numberline {2.1}Fundamental Biology }{4}{section.2.1}% 
+\contentsline {subsubsection}{Mutations}{4}{section*.7}% 
+\contentsline {subsection}{\numberline {2.1.1}Cells and neurons}{5}{subsection.2.1.1}% 
+\contentsline {subsection}{\numberline {2.1.2}Receptors and Ligands}{6}{subsection.2.1.2}% 
+\contentsline {subsection}{\numberline {2.1.3}Topographic Maps}{7}{subsection.2.1.3}% 
+\contentsline {subsubsection}{Receptive and Projective Fields}{7}{section*.11}% 
+\contentsline {subsubsection}{Dimensional Space of Developmental Topographic Mapping }{9}{section*.13}% 
+\contentsline {section}{\numberline {2.2}Mouse Physiology, Anatomy, and Developmental Pathways}{9}{section.2.2}% 
+\contentsline {section}{\numberline {2.3}Measurement and Data Analysis}{11}{section.2.3}% 
+\contentsline {subsection}{\numberline {2.3.1}Microscopy}{11}{subsection.2.3.1}% 
+\contentsline {subsection}{\numberline {2.3.2}Tracer Injections}{12}{subsection.2.3.2}% 
+\contentsline {subsection}{\numberline {2.3.3}Calcium Imaging}{12}{subsection.2.3.3}% 
+\contentsline {subsection}{\numberline {2.3.4}Intrinsic Optical Imaging }{13}{subsection.2.3.4}% 
+\contentsline {subsection}{\numberline {2.3.5}Electrophysiological recording}{14}{subsection.2.3.5}% 
+\contentsline {subsection}{\numberline {2.3.6}Lattice Method }{16}{subsection.2.3.6}% 
+\contentsline {section}{\numberline {2.4}Mutant Mouse Observations}{19}{section.2.4}% 
+\contentsline {subsection}{\numberline {2.4.1}Ephs and Ephrins}{19}{subsection.2.4.1}% 
+\contentsline {subsection}{\numberline {2.4.2}EphrinA knock-outs}{20}{subsection.2.4.2}% 
+\contentsline {subsection}{\numberline {2.4.3}EphA3 knock-in }{23}{subsection.2.4.3}% 
+\contentsline {subsection}{\numberline {2.4.4}Neural Activity}{25}{subsection.2.4.4}% 
+\contentsline {subsubsection}{Three Periods of Distinct Waves}{25}{section*.27}% 
+\contentsline {subsubsection}{$\beta 2$ Knock-Out}{26}{section*.29}% 
+\contentsline {subsection}{\numberline {2.4.5}$Math5^{-/-}$ mutant}{26}{subsection.2.4.5}% 
+\contentsline {section}{\numberline {2.5}Developmental Theory }{28}{section.2.5}% 
+\contentsline {subsection}{\numberline {2.5.1}Competitive Hypothesis}{28}{subsection.2.5.1}% 
+\contentsline {subsection}{\numberline {2.5.2}Chemo-affinity Hypothesis }{28}{subsection.2.5.2}% 
+\contentsline {subsection}{\numberline {2.5.3}Activity Driven Hypothesis}{29}{subsection.2.5.3}% 
+\contentsline {subsection}{\numberline {2.5.4}Unified Mechanisms}{29}{subsection.2.5.4}% 
+\contentsline {chapter}{\numberline {3}Topographic Maps: Mathematical and Computational Modelling }{31}{chapter.3}% 
+\contentsline {section}{\numberline {3.1}Fundamental Mathematics}{31}{section.3.1}% 
+\contentsline {subsection}{\numberline {3.1.1}Fourier Transform}{31}{subsection.3.1.1}% 
+\contentsline {paragraph}{Fourier Phase Shifting Property}{32}{section*.32}% 
+\contentsline {paragraph}{Fourier Scaling Property}{32}{section*.33}% 
+\contentsline {subsubsection}{Fourier Convolution Theorem}{32}{section*.34}% 
+\contentsline {paragraph}{Fourier Differentiation Operator}{32}{section*.35}% 
+\contentsline {subsection}{\numberline {3.1.2}Cauchy's Residue Theorem}{32}{subsection.3.1.2}% 
+\contentsline {subsection}{\numberline {3.1.3}Variational Calculus}{33}{subsection.3.1.3}% 
+\contentsline {subsection}{\numberline {3.1.4}Euler-Lagrange Equations}{34}{subsection.3.1.4}% 
+\contentsline {subsection}{\numberline {3.1.5}Numerical Minimisation }{34}{subsection.3.1.5}% 
+\contentsline {subsection}{\numberline {3.1.6}Optimisation}{35}{subsection.3.1.6}% 
+\contentsline {subsubsection}{Gradient Descent}{35}{section*.36}% 
+\contentsline {paragraph}{Convergence}{35}{section*.37}% 
+\contentsline {paragraph}{Issues}{35}{section*.38}% 
+\contentsline {subsubsection}{Generalised Momentum Rules}{36}{section*.39}% 
+\contentsline {paragraph}{ADAM}{36}{section*.40}% 
+\contentsline {subsubsection}{Simulated Annealing}{38}{section*.42}% 
+\contentsline {section}{\numberline {3.2}Modelling of Retinotopic Maps }{38}{section.3.2}% 
+\contentsline {subsection}{\numberline {3.2.1}Competition}{39}{subsection.3.2.1}% 
+\contentsline {subsection}{\numberline {3.2.2}Chemotaxis }{40}{subsection.3.2.2}% 
+\contentsline {paragraph}{Fibre-Fibre Interactions}{41}{section*.47}% 
+\contentsline {subsection}{\numberline {3.2.3}Activity }{41}{subsection.3.2.3}% 
+\contentsline {paragraph}{Neuronal Spiking}{41}{section*.48}% 
+\contentsline {paragraph}{Neuronal Networks}{46}{section*.49}% 
+\contentsline {paragraph}{Neural Field Theories}{47}{section*.50}% 
+\contentsline {subsection}{\numberline {3.2.4}Neuroplasticity}{48}{subsection.3.2.4}% 
+\contentsline {paragraph}{Hebbian Learning}{48}{section*.51}% 
+\contentsline {paragraph}{Spike Timing Dependent Plasticity }{49}{section*.52}% 
+\contentsline {paragraph}{Neuroplasticity in a Field Theory}{50}{section*.53}% 
+\contentsline {subsection}{\numberline {3.2.5}Activity Based Topographic Development}{51}{subsection.3.2.5}% 
+\contentsline {paragraph}{Distance Dependent Correlation }{51}{section*.54}% 
+\contentsline {subsection}{\numberline {3.2.6}Mechanical-sensing Models}{53}{subsection.3.2.6}% 
+\contentsline {subsection}{\numberline {3.2.7}Unified Models}{54}{subsection.3.2.7}% 
+\contentsline {subsubsection}{Godfrey-Swindale-Eglen}{54}{section*.57}% 
+\contentsline {paragraph}{Mechanisms}{54}{section*.58}% 
+\contentsline {paragraph}{Findings}{55}{section*.59}% 
+\contentsline {paragraph}{Key Issues}{56}{section*.60}% 
+\contentsline {subsubsection}{Grimbert-Cang}{57}{section*.61}% 
+\contentsline {paragraph}{Mechanisms}{57}{section*.62}% 
+\contentsline {paragraph}{Findings}{58}{section*.63}% 
+\contentsline {paragraph}{Key Issues}{58}{section*.64}% 
+\contentsline {subsubsection}{Simpson-Goodhill}{59}{section*.65}% 
+\contentsline {paragraph}{Mechanisms}{59}{section*.66}% 
+\contentsline {paragraph}{Findings}{60}{section*.67}% 
+\contentsline {paragraph}{Key Issues}{60}{section*.68}% 
+\contentsline {subsubsection}{Tsigankov-Koulakov }{61}{section*.69}% 
+\contentsline {paragraph}{Mechanisms}{61}{section*.70}% 
+\contentsline {paragraph}{Findings}{62}{section*.71}% 
+\contentsline {paragraph}{Key Issues}{62}{section*.72}% 
+\contentsline {subsection}{\numberline {3.2.8}Comments}{63}{subsection.3.2.8}% 
+\contentsline {paragraph}{Chemotaxis}{63}{section*.73}% 
+\contentsline {paragraph}{Time }{63}{section*.74}% 
+\contentsline {subsection}{\numberline {3.2.9}Model Assessment }{64}{subsection.3.2.9}% 
+\contentsline {section}{\numberline {3.3}The Elastic Net and NP-Complete Problems }{65}{section.3.3}% 
+\contentsline {section}{\numberline {3.4}Conclusions and Existing Problems}{71}{section.3.4}% 
+\contentsline {subsection}{\numberline {3.4.1}$\beta 2^{-/-}$ mutant Analysis }{71}{subsection.3.4.1}% 
+\contentsline {subsection}{\numberline {3.4.2}EphA3 Knock-In Dataset }{72}{subsection.3.4.2}% 
+\contentsline {subsection}{\numberline {3.4.3}Efficient Unified Modelling }{73}{subsection.3.4.3}% 
+\contentsline {subsection}{\numberline {3.4.4}Heuristics}{74}{subsection.3.4.4}% 
+\contentsline {chapter}{\numberline {4}Neural Field Theory: Quantitative Assessment of the Role of Activity }{75}{chapter.4}% 
+\contentsline {section}{\numberline {4.1}Preface}{75}{section.4.1}% 
+\contentsline {section}{\numberline {4.2}Introduction}{75}{section.4.2}% 
+\contentsline {section}{\numberline {4.3}Model}{77}{section.4.3}% 
+\contentsline {paragraph}{Representation of Topography}{78}{section*.81}% 
+\contentsline {paragraph}{Neural Field Theory}{79}{section*.83}% 
+\contentsline {paragraph}{Regularisation}{80}{section*.84}% 
+\contentsline {paragraph}{Perturbations}{81}{section*.85}% 
+\contentsline {paragraph}{Input Stimulus}{81}{section*.86}% 
+\contentsline {paragraph}{Plasticity Windows}{81}{section*.87}% 
+\contentsline {section}{\numberline {4.4}Analysis}{82}{section.4.4}% 
+\contentsline {paragraph}{Approximating Input Stimulus}{82}{section*.88}% 
+\contentsline {paragraph}{Activity Dynamics}{83}{section*.89}% 
+\contentsline {paragraph}{Synaptic Dynamics}{83}{section*.90}% 
+\contentsline {paragraph}{Mono-Directional Propagation}{84}{section*.91}% 
+\contentsline {paragraph}{Radial Propagation}{85}{section*.92}% 
+\contentsline {subsection}{\numberline {4.4.1}Computational Analysis and Parameter Estimation}{85}{subsection.4.4.1}% 
+\contentsline {paragraph}{Parameter Analysis}{86}{section*.93}% 
+\contentsline {paragraph}{Fourier Space}{87}{section*.96}% 
+\contentsline {paragraph}{Refinement}{89}{section*.98}% 
+\contentsline {paragraph}{Sensitivity}{89}{section*.100}% 
+\contentsline {paragraph}{MCMC Parameter Estimation}{89}{section*.101}% 
+\contentsline {section}{\numberline {4.5}Discussion}{92}{section.4.5}% 
+\contentsline {paragraph}{Organisation}{92}{section*.103}% 
+\contentsline {paragraph}{Refinement}{92}{section*.104}% 
+\contentsline {paragraph}{Limitations}{93}{section*.105}% 
+\contentsline {paragraph}{Future Directions}{94}{section*.106}% 
+\contentsline {paragraph}{Key Summary}{94}{section*.107}% 
+\contentsline {chapter}{\numberline {5}Lattice Method Analysis: Analysing a Stochastic Development Hypothesis }{95}{chapter.5}% 
+\contentsline {section}{\numberline {5.1}Preface}{95}{section.5.1}% 
+\contentsline {section}{\numberline {5.2}Introduction}{95}{section.5.2}% 
+\contentsline {section}{\numberline {5.3}Data Analysis }{98}{section.5.3}% 
+\contentsline {subsection}{\numberline {5.3.1}Reanalysis of Experimental Data }{98}{subsection.5.3.1}% 
+\contentsline {section}{\numberline {5.4}Modelling Pipeline}{103}{section.5.4}% 
+\contentsline {subsection}{\numberline {5.4.1}Anatomical Model}{104}{subsection.5.4.1}% 
+\contentsline {subsection}{\numberline {5.4.2}Spiking Model of Neural Activity}{106}{subsection.5.4.2}% 
+\contentsline {subsection}{\numberline {5.4.3}Optical Image Scan Reconstruction }{107}{subsection.5.4.3}% 
+\contentsline {section}{\numberline {5.5}Results}{109}{section.5.5}% 
+\contentsline {subsection}{\numberline {5.5.1}Anatomical Experiments}{109}{subsection.5.5.1}% 
+\contentsline {subsection}{\numberline {5.5.2}Lattice Analysis}{111}{subsection.5.5.2}% 
+\contentsline {paragraph}{Whole Maps and Part Maps}{112}{section*.117}% 
+\contentsline {paragraph}{Lattice Analysis of Varying EphA3 magnitude}{112}{section*.118}% 
+\contentsline {subsection}{\numberline {5.5.3}Statistical Discrimination of Phenotypes}{115}{subsection.5.5.3}% 
+\contentsline {subsection}{\numberline {5.5.4}Neural Activity Perturbations}{118}{subsection.5.5.4}% 
+\contentsline {section}{\numberline {5.6}Discussion}{124}{section.5.6}% 
+\contentsline {paragraph}{Proportion of EphA3 Cells}{124}{section*.131}% 
+\contentsline {paragraph}{Neural Activity Modelling}{124}{section*.132}% 
+\contentsline {paragraph}{Anatomical Segregation}{125}{section*.133}% 
+\contentsline {paragraph}{Lattice Analysis}{126}{section*.134}% 
+\contentsline {paragraph}{Variability in the EphA3 knock-in}{126}{section*.135}% 
+\contentsline {paragraph}{Limitations}{127}{section*.136}% 
+\contentsline {paragraph}{Future Work}{127}{section*.137}% 
+\contentsline {paragraph}{Key Summary}{128}{section*.138}% 
+\contentsline {chapter}{\numberline {6}Extended Unifying Model: Efficiently Simulating Retinotopic Development Via Parallelization }{129}{chapter.6}% 
+\contentsline {section}{\numberline {6.1}Preface}{129}{section.6.1}% 
+\contentsline {section}{\numberline {6.2}Introduction}{129}{section.6.2}% 
+\contentsline {section}{\numberline {6.3}Distributed Kernels Model Definition}{131}{section.6.3}% 
+\contentsline {subsection}{\numberline {6.3.1}Representation of Physical Structures}{132}{subsection.6.3.1}% 
+\contentsline {subsection}{\numberline {6.3.2}Mechanisms}{133}{subsection.6.3.2}% 
+\contentsline {subsection}{\numberline {6.3.3}Chemotaxis}{134}{subsection.6.3.3}% 
+\contentsline {subsection}{\numberline {6.3.4}Neural Activity}{135}{subsection.6.3.4}% 
+\contentsline {subsection}{\numberline {6.3.5}Competition}{136}{subsection.6.3.5}% 
+\contentsline {subsection}{\numberline {6.3.6}Delayed Competition and Neural Activity Activation}{136}{subsection.6.3.6}% 
+\contentsline {subsection}{\numberline {6.3.7}Generating the Kernel}{136}{subsection.6.3.7}% 
+\contentsline {subsection}{\numberline {6.3.8}Auto-Differentiation: Efficient Computation of Derivatives}{137}{subsection.6.3.8}% 
+\contentsline {subsection}{\numberline {6.3.9}Code and System Specifics}{137}{subsection.6.3.9}% 
+\contentsline {section}{\numberline {6.4}Results}{137}{section.6.4}% 
+\contentsline {subsection}{\numberline {6.4.1}Phenotype Reproduction}{138}{subsection.6.4.1}% 
+\contentsline {subsubsection}{Wild-Type}{138}{section*.142}% 
+\contentsline {subsection}{\numberline {6.4.2}ephrinA Triple Knockout}{140}{subsection.6.4.2}% 
+\contentsline {subsection}{\numberline {6.4.3}$Math5$ knock-out}{142}{subsection.6.4.3}% 
+\contentsline {subsection}{\numberline {6.4.4}EphA3 knock-in}{144}{subsection.6.4.4}% 
+\contentsline {subsection}{\numberline {6.4.5}$\beta 2$ knock-out}{146}{subsection.6.4.5}% 
+\contentsline {section}{\numberline {6.5}Discussion}{150}{section.6.5}% 
+\contentsline {paragraph}{$Math5$ knock-out}{150}{section*.154}% 
+\contentsline {paragraph}{$\beta 2$ knock-out}{150}{section*.155}% 
+\contentsline {paragraph}{Developmental Time}{151}{section*.156}% 
+\contentsline {paragraph}{Computational Efficiency}{151}{section*.157}% 
+\contentsline {paragraph}{Limitations}{152}{section*.158}% 
+\contentsline {paragraph}{Future Work}{153}{section*.159}% 
+\contentsline {paragraph}{Key Summary}{153}{section*.160}% 
+\contentsline {chapter}{\numberline {7}The Elastic Neighbourhood: Solving Travelling Salesman Problems using Topographic Developmental Principles }{155}{chapter.7}% 
+\contentsline {section}{\numberline {7.1}Preface}{155}{section.7.1}% 
+\contentsline {section}{\numberline {7.2}Introduction }{155}{section.7.2}% 
+\contentsline {paragraph}{The Travelling Salesman Problem}{156}{section*.161}% 
+\contentsline {paragraph}{The Elastic Net}{157}{section*.163}% 
+\contentsline {paragraph}{Generalised Elastic Nets }{158}{section*.164}% 
+\contentsline {paragraph}{Improvements}{158}{section*.165}% 
+\contentsline {section}{\numberline {7.3}Method}{159}{section.7.3}% 
+\contentsline {subsection}{\numberline {7.3.1}Energy Functional}{159}{subsection.7.3.1}% 
+\contentsline {subsection}{\numberline {7.3.2}Minimisation}{161}{subsection.7.3.2}% 
+\contentsline {subsection}{\numberline {7.3.3}Parameters}{161}{subsection.7.3.3}% 
+\contentsline {subsection}{\numberline {7.3.4}Computational Complexity}{164}{subsection.7.3.4}% 
+\contentsline {subsection}{\numberline {7.3.5}Space-Filling and Competition }{164}{subsection.7.3.5}% 
+\contentsline {section}{\numberline {7.4}Results}{165}{section.7.4}% 
+\contentsline {subsection}{\numberline {7.4.1}Runtime Performance}{165}{subsection.7.4.1}% 
+\contentsline {subsection}{\numberline {7.4.2}Initialisation and Optimisation}{167}{subsection.7.4.2}% 
+\contentsline {paragraph}{Meta-Optimisation Performance Scaling}{167}{section*.171}% 
+\contentsline {paragraph}{Fractal Boot-Strapping}{168}{section*.173}% 
+\contentsline {subsection}{\numberline {7.4.3}TSP Heuristics Comparison}{168}{subsection.7.4.3}% 
+\contentsline {paragraph}{Elastic Net}{168}{section*.174}% 
+\contentsline {paragraph}{LKH and EAX-GA}{170}{section*.176}% 
+\contentsline {subsection}{\numberline {7.4.4}Mona Lisa and Art Tours}{172}{subsection.7.4.4}% 
+\contentsline {subsection}{\numberline {7.4.5}Feature Selectivity}{174}{subsection.7.4.5}% 
+\contentsline {section}{\numberline {7.5}Discussion}{178}{section.7.5}% 
+\contentsline {paragraph}{Feature Selectivity}{178}{section*.183}% 
+\contentsline {paragraph}{TSP Heuristic Performance}{178}{section*.184}% 
+\contentsline {paragraph}{Scaling}{179}{section*.185}% 
+\contentsline {paragraph}{Wire-minimisation}{180}{section*.186}% 
+\contentsline {paragraph}{Limitations}{181}{section*.187}% 
+\contentsline {paragraph}{Future Work}{181}{section*.188}% 
+\contentsline {paragraph}{Key Summary}{182}{section*.189}% 
+\contentsline {chapter}{\numberline {8}Concluding Remarks and Future Work}{183}{chapter.8}% 
+\contentsline {section}{\numberline {8.1}Neural Field Theory}{184}{section.8.1}% 
+\contentsline {paragraph}{Limitations}{184}{section*.190}% 
+\contentsline {paragraph}{Future Work}{185}{section*.191}% 
+\contentsline {section}{\numberline {8.2}Analysis of the Stochastic Development Hypothesis}{185}{section.8.2}% 
+\contentsline {paragraph}{Limitations}{186}{section*.192}% 
+\contentsline {paragraph}{Future Work}{187}{section*.193}% 
+\contentsline {section}{\numberline {8.3}Distributed Kernels Model}{188}{section.8.3}% 
+\contentsline {paragraph}{Limitations}{189}{section*.194}% 
+\contentsline {paragraph}{Future Work}{189}{section*.195}% 
+\contentsline {section}{\numberline {8.4}Elastic Neighbourhood}{189}{section.8.4}% 
+\contentsline {paragraph}{Limitations}{190}{section*.196}% 
+\contentsline {paragraph}{Future Directions}{191}{section*.197}% 
+\contentsline {section}{\numberline {8.5}Final Remarks}{191}{section.8.5}% 
+\contentsline {part}{References}{210}{chapter*.198}% 
+\contentsline {chapter}{\numberline {A}}{211}{appendix.A}% 
+\contentsline {chapter}{\numberline {B}}{213}{appendix.B}% 

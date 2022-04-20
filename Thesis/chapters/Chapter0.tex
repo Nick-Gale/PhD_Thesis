@@ -1,0 +1,27 @@
+A topographic map is a neurological structure which connects two brain regions: a pre-synaptic source and a post-synaptic target \cite{Udin1988-by}. The structure is ubiquitous; it is present in auditory, muscular, and visual systems as well as several higher-order processing areas e.g. neocortex and hippocampus  \cite{Jbabdi2013-np, McLaughlin2005-jd, Flanagan2006-fc, Huberman2008-zw}. Topographic maps in general are defined by the relationship: neighbouring cells in the source region are wired to neighbouring cells in the target region. This simple relationship makes it an attractive system to study and model both in experimental and theoretical contexts allowing us to make inferences about cellular guidance mechanisms, organisational principles, and functional-anatomical relationships.
+
+While the topographic map is well studied in several contexts, attention in this work will be restricted primarily to the retinotopic map in mice which projects from the retina to the superior colliculus (SC) \cite{Kita2015-gc, Gattass2005-br, De_Long1965-dd, Sakaguchi1985-la, Cang2013-dw, McLaughlin2005-jd}. This is regarded as a prototypical map \cite{Ito2018-ef, Seabrook2017-fa}, but it is salient to recognise that there are difficulties generalising both between brain regions and species e.g. visual/auditory development are non-translational, and Xenopus employ different mechanisms than mouse \cite{Udin1988-by, McLaughlin2005-jd}. The diverse genetic tool-set available for the mouse has resulted in many available data from genetic perturbations and the phylogenetic similarity to humans makes it medicinally relevant \cite{Seabrook2017-fa}.
+
+This thesis will examine several theoretical aspects of modelling topographic map development and will apply these to analysing data from the mouse retinotopic map. It will develop theory to analyse the role of neural activity in topographic development which will be used to make predictions about the time-scale which neural plasticity operates in mouse. It will then examine a hypothesis postulating stochastic interactions between the neural activity and chemotactic mechanisms of development with a combination of a unified model of development and the Lattice method of data analysis \cite{Willshaw2014-ms}. This analysis shows that while the model uses a stochastic minimisation procedure the developmental mechanisms do not appear to have meaningful stochastic interactions while also demonstrating that existing modelling methodologies are too computationally demanding for large scale statistical examination of retinotopic data. The principles of unified models are extended into a new framework which allows a substantial reduction in computational demands while maintaining the phenomenological predictive power of existing methodologies. The new framework allows developmental time to be examined in a principled manner and pilot study investigates this in the context of of a mouse mutant. Finally, new theoretical understandings of competition in topographic development are incorporated into the Elastic Net: a heuristic solver for the Travelling Salesman problem based on a model of neural topography. These additions result in performance comparable to state of the art heuristics as well as improving the predictions of Elastic Net as a model of cortical feature map generation.
+
+\section*{List of Abbreviations}
+\begin{enumerate}
+	\item \textbf{RGC}: Retinal Ganglion Cell
+	\item \textbf{SC}: Superior Colliculus
+	\item \textbf{HOM}: Homozygote
+	\item \textbf{HET}: Heterozygote
+	\item \textbf{NFT}: Neural Field Theory
+	\item \textbf{STDP}: Spike Timing Dependent Plasticity
+	\item \textbf{CDP}: Correlation Dependent Plasticity
+	\item \textbf{VFO}: Visual Field Overlap
+	\item \textbf{NT}: Nasotemporal
+	\item \textbf{DV}: Dorsoventral
+	\item \textbf{RC}: Rostrocaudal
+	\item \textbf{ML}: Mediolateral
+\end{enumerate}
+
+\section*{Figures}
+This thesis relies heavily on data collected by experimentalists for which I am very thankful. This is most often presented in the form of figures and these figures are reproduced in the text where necessary. There have been some modifications from the original figure for clarity: figures have been combined, reordered, and panel lettering has been removed by white squares or changed when panels are reordered. Several figures are reproduced with no modifications. The source of all figures that are not produced as a part of this work is referenced in the caption in the format: Figure adapted from Authors et. al. (year) [ref. no].
+
+\section*{Code}
+The code used throughout this thesis can be found in two places: each body chapter will have a GitHub repository associated with the project and there will be a final PhD repository which contains all code and images for this thesis. The project specific codes have repository names of ``Neural\_Field\_Theory\_Topographic\_Development" \cite{NFT}, ``Lattice\_Analysis\_EphA3\_Mutants" \cite{LatticeEphA3}, ``Distributed\_Topgraphic\_Kernels" \cite{DistributedKernels}, and "Elastic\_Neighbourhood" \cite{ElasticNeighbourhood}. These codebases were developed throughout the course of each project and may continue to develop into the future. For reproducibility it is recommended that a snapshot repository called ``PhD\_Thesis" be used \cite{ThesisRepo}. This repository  contains all of the project codebases, all other code, and any relevant files for the thesis at the time of submission.

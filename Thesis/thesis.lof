@@ -1,0 +1,90 @@
+\babel@toc {english}{}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Cartoon showing the basic anatomy of a neuron cell. }}{6}{figure.caption.8}% 
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Cartoon of a basic Eph-ephrin binding relationship. }}{7}{figure.caption.9}% 
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Cartoon showing the retinotopic projection and relationship with the visual field. }}{8}{figure.caption.10}% 
+\contentsline {figure}{\numberline {2.4}{\ignorespaces The pre-synaptic and post-synaptic fields are represented as ordered grids on the left and right respectively. }}{9}{figure.caption.12}% 
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Each of the retina and SC have gradients and counter-gradients of EphA/B receptors and ephrin-A/B ligands with the A and B systems acting perpendicular to each other. }}{11}{figure.caption.14}% 
+\contentsline {figure}{\numberline {2.6}{\ignorespaces A typical experiment involving a series of DiI injections into the temporal retina at different developmental time points. }}{12}{figure.caption.15}% 
+\contentsline {figure}{\numberline {2.7}{\ignorespaces A series of images detailing the transient calcium imaging procedure. }}{13}{figure.caption.16}% 
+\contentsline {figure}{\numberline {2.8}{\ignorespaces The experimental procedure is detailed showing first the correct positioning of the stimulus screen for an ispilateral and contralateral stimulation (A) or a purely contralateral stimulation (B). }}{14}{figure.caption.17}% 
+\contentsline {figure}{\numberline {2.9}{\ignorespaces The experimental result is presented where forward drifting (A) and reverse drifting (B) bars are presented to measure the azimuthal response. }}{15}{figure.caption.18}% 
+\contentsline {figure}{\numberline {2.10}{\ignorespaces The method for creating a map with the visual field as the pre-image. }}{17}{figure.caption.19}% 
+\contentsline {figure}{\numberline {2.11}{\ignorespaces The method can be applied with the visual field or colliculus as both the pre-image and the image respectively. }}{18}{figure.caption.20}% 
+\contentsline {figure}{\numberline {2.12}{\ignorespaces A cartoon of the primary gradient expression profile in the A and B systems in the superior colliculus and retina. }}{21}{figure.caption.22}% 
+\contentsline {figure}{\numberline {2.13}{\ignorespaces The effect of multiple combinations of single and double ephrinA2, ephrinA5, and ephrinA3 knock-outs. }}{21}{figure.caption.23}% 
+\contentsline {figure}{\numberline {2.14}{\ignorespaces Bulk anatomical tracer experiments on the EphA3 knock-in mutant.}}{23}{figure.caption.24}% 
+\contentsline {figure}{\numberline {2.15}{\ignorespaces Visualisations of the wild-type, heterozygous, and homozygous EphA3 knock-in mice. }}{24}{figure.caption.25}% 
+\contentsline {figure}{\numberline {2.16}{\ignorespaces Intrinsic optical imaging scans of EphA3 knock-in mice. }}{25}{figure.caption.26}% 
+\contentsline {figure}{\numberline {2.17}{\ignorespaces Transient snapshots from the retina of a mouse placed on an MEA recorded at P6; the firing note is denoted by colour. }}{26}{figure.caption.28}% 
+\contentsline {figure}{\numberline {2.18}{\ignorespaces MEA recordings and correlational profile of retinal waves in the $\beta 2^{-/-}$ mouse. }}{27}{figure.caption.30}% 
+\contentsline {figure}{\numberline {2.19}{\ignorespaces A full retina DiI injection revealing the entire image of the retinal projection on the SC. }}{27}{figure.caption.31}% 
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Gradient descent routines using vanilla gradient descent (cyan), momentum (purple), and ADAM (red)}}{37}{figure.caption.41}% 
+\contentsline {figure}{\numberline {3.2}{\ignorespaces A simple formulation of an energy minimising scheme where the chemotactic affinity is proportional to the product of the retinal and colliculus locations along the NT and AP axes respectively.}}{42}{figure.caption.43}% 
+\contentsline {figure}{\numberline {3.3}{\ignorespaces A simple formulation of a differential chemotaxis scheme whereby the axons in the naso-temporal retina move forward at a rate proportional to their starting location. The travelling wave front is represented by the blue fanning lines.}}{43}{figure.caption.44}% 
+\contentsline {figure}{\numberline {3.4}{\ignorespaces A simple formulation of an affinity chemotaxis scheme where the green label in the retina is given a value of both ligand and receptor. }}{44}{figure.caption.45}% 
+\contentsline {figure}{\numberline {3.5}{\ignorespaces A simple formulation of a differential chemotaxis scheme where the green label in the retina is guided by a series of forces imposed by the interaction of the receptor and ligand values at the retinal location with various location in the target. }}{45}{figure.caption.46}% 
+\contentsline {figure}{\numberline {3.6}{\ignorespaces When the affinity is no longer constrained in a global fashion by chemical guidance cues neuronal activity drives the formation of independent topographic domains. }}{52}{figure.caption.55}% 
+\contentsline {figure}{\numberline {3.7}{\ignorespaces The effect of co-activation of neurons in the retina is to move their synaptic presence closer to their shared centre of mass. }}{53}{figure.caption.56}% 
+\contentsline {figure}{\numberline {3.8}{\ignorespaces A description of the Travelling Salesman Problem. }}{66}{figure.caption.75}% 
+\contentsline {figure}{\numberline {3.9}{\ignorespaces A description of the Elastic Net method for producing solutions to the Travelling Salesman Problem. }}{67}{figure.caption.76}% 
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Prediction of retinotopy generated by the Elastic Net model when orientation curves are simultaneously trained. }}{69}{figure.caption.77}% 
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Observations of the uniformity of topographic maps formed in the retinotopic map in mice. }}{70}{figure.caption.78}% 
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces The connections and directionality of the model: activity is fed-forward from the pre-synaptic region by the structure of interest and is spatial-temporally propagated by a time-differential operator and spatial convolution of inhibitory and excitatory recurrent connections. }}{78}{figure.caption.80}% 
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Two examples of topographic organisation using a Wizard hat style function: a) shows a linear relationship between axes and for while b) shows a cubic relationship between axes. }}{79}{figure.caption.82}% 
+\contentsline {figure}{\numberline {4.3}{\ignorespaces The manifold in $(c,\sigma _2)$ space which defines the stability of the final organisation. }}{88}{figure.caption.95}% 
+\contentsline {figure}{\numberline {4.4}{\ignorespaces A typical organisation generated with the parameters shown in Table \ref {table:parameters} with (a) showing the representation in Fourier space, and (b) the representation in real space after re-normalisation. }}{88}{figure.caption.97}% 
+\contentsline {figure}{\numberline {4.5}{\ignorespaces The variation in width ($\Omega $) in four distinct planar slices of the manifold of parameters which influence the models prediction of mean distribution width. }}{90}{figure.caption.99}% 
+\contentsline {figure}{\numberline {4.6}{\ignorespaces The posteriors for the relevant model parameters after an MCMC regression. }}{91}{figure.caption.102}% 
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces The diversity of intrinsic optical imaging scans captured in the Owens et. al. (2015) dataset. }}{97}{figure.caption.108}% 
+\contentsline {figure}{\numberline {5.2}{\ignorespaces An example of a lattice generated from a wild-type dataset. }}{100}{figure.caption.109}% 
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Examples for the three heterozygous classifications and the homozygous maps. }}{103}{figure.caption.112}% 
+\contentsline {figure}{\numberline {5.4}{\ignorespaces The azimuthal and elevational phase diagrams for a wild-type simulation. }}{107}{figure.caption.113}% 
+\contentsline {figure}{\numberline {5.5}{\ignorespaces A series of whole maps and part-maps generated on anatomical data for a simulation ($\Delta R = 0.565$). }}{108}{figure.caption.114}% 
+\contentsline {figure}{\numberline {5.6}{\ignorespaces A series of injection experiments are performed on knock-in simulations with $\Delta R$ increasing left to right from $\Delta R=0$ (wild-type) to $\Delta R=0.565$ (HOM). }}{110}{figure.caption.115}% 
+\contentsline {figure}{\numberline {5.7}{\ignorespaces The azimuthal phase diagrams for several heterozygote simulations and a homozygote simulation. }}{111}{figure.caption.116}% 
+\contentsline {figure}{\numberline {5.8}{\ignorespaces The colliculus-to-field part maps are shown in order of increasing $\Delta R$. }}{112}{figure.caption.119}% 
+\contentsline {figure}{\numberline {5.9}{\ignorespaces The field-to-colliculus part maps follow the same convention as Figure \ref {fig:partmapsCTOF} and present several notable features. }}{115}{figure.caption.122}% 
+\contentsline {figure}{\numberline {5.10}{\ignorespaces The VFO distributions are shown as a function of increasing EphA3. }}{115}{figure.caption.123}% 
+\contentsline {figure}{\numberline {5.11}{\ignorespaces The distributions for the mean projection location of each cell type as an increasing function of $\Delta R$. }}{117}{figure.caption.124}% 
+\contentsline {figure}{\numberline {5.12}{\ignorespaces Map quality distributions for the whole and individual part maps are shown in blue, red, and yellow respectively. }}{117}{figure.caption.125}% 
+\contentsline {figure}{\numberline {5.13}{\ignorespaces The activity parameter $\gamma $ is set to 0.0625 and series of injection experiments are performed on knock-in simulations with $\Delta R$ increasing left to right from $\Delta R=0$ (wild-type) to $\Delta R=0.565$ (HOM). }}{119}{figure.caption.126}% 
+\contentsline {figure}{\numberline {5.14}{\ignorespaces The activity parameter $\gamma $ is set to 0.000625 and series of injection experiments are performed as in Figure \ref {fig:activitya}. The effect of this down regulation is to introduce polarity mismatches in the EphA3 expressing cells. }}{120}{figure.caption.127}% 
+\contentsline {figure}{\numberline {5.15}{\ignorespaces The activity parameter $\gamma $ is set to 0.01 and series of injection experiments are performed as in Figure \ref {fig:activitya}. This slight increase in activity strength results in a less defined collapse point but slightly more refined receptive fields. }}{121}{figure.caption.128}% 
+\contentsline {figure}{\numberline {5.16}{\ignorespaces The activity parameter $\gamma $ is set to 0.001 and series of injection experiments are performed as in Figure \ref {fig:activitya}. This slight decrease in activity strength results in a more defined collapse point but slightly wider receptive fields. }}{122}{figure.caption.129}% 
+\contentsline {figure}{\numberline {5.17}{\ignorespaces The activity profile is constructed to mimic the $\beta 2^{-/-}$ genotype with a wider neural activity correlation profile and series of injection experiments are performed as in Figure \ref {fig:activitya}. }}{123}{figure.caption.130}% 
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces An example of a potential probability distribution of synpatic contacts for a given retinal afferent.}}{133}{figure.caption.139}% 
+\contentsline {figure}{\numberline {6.2}{\ignorespaces The gradients and counter-gradients used for the A and B systems in the retina and colliculus. }}{135}{figure.caption.140}% 
+\contentsline {figure}{\numberline {6.3}{\ignorespaces The log-transformed runtime plots for the Tsigankov-Koulakov and Distributed Kernels models are plotted in blue and red respectively}}{138}{figure.caption.141}% 
+\contentsline {figure}{\numberline {6.4}{\ignorespaces A rainbow plot for the wild-type, or calibration, phenotype. Under the choice of a parameters $\alpha = 1, \beta = 1, \gamma = -0.05, \delta = 0.3, s = 0.075$ a smoothly varying topographic map with slightly overlapping topographic arbours is generated. }}{139}{figure.caption.143}% 
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Forward and reverse lattice plots for the wild-type, or calibration, phenotype and are generated in the same fashion as those in Figure \ref {fig:wholemap}. Both projections show a smooth and well-ordered lattice with minimal mapping errors. The spacing is evenly distributed and no region in either of the images has a favourable or dense projection.\relax }}{140}{figure.caption.144}% 
+\contentsline {figure}{\numberline {6.6}{\ignorespaces A rainbow plot for the ephrinA-TKO phenotype is presented. }}{141}{figure.caption.145}% 
+\contentsline {figure}{\numberline {6.7}{\ignorespaces Forward and reverse lattice plots for the ephrinA-TKO phenotype are presented. }}{142}{figure.caption.146}% 
+\contentsline {figure}{\numberline {6.8}{\ignorespaces A rainbow plot for the $Math5^{-/-}$ phenotype. }}{143}{figure.caption.147}% 
+\contentsline {figure}{\numberline {6.9}{\ignorespaces A rainbow plot for the EphA3 phenotype.}}{145}{figure.caption.148}% 
+\contentsline {figure}{\numberline {6.10}{\ignorespaces Forward lattice plots for the homozygous EphA3 knock-in phenotype showing the projection from wild-type cells and the projection of cells containing additional EphA3.}}{146}{figure.caption.149}% 
+\contentsline {figure}{\numberline {6.11}{\ignorespaces Reverse lattice plots for the homozygous EphA3 knock-in phenotype which show the rostral and caudal maps.}}{147}{figure.caption.150}% 
+\contentsline {figure}{\numberline {6.12}{\ignorespaces A rainbow plot of the $\beta 2$ knock-out is presented.}}{148}{figure.caption.151}% 
+\contentsline {figure}{\numberline {6.13}{\ignorespaces Forward and reverse lattice plots for $\beta 2^{-/-}$ mutant are shown.}}{149}{figure.caption.152}% 
+\contentsline {figure}{\numberline {6.14}{\ignorespaces Time course evolution of the area of an ellipsoid covering the projective field of a retinal injection made at retinal location (0.1, 0.1). }}{149}{figure.caption.153}% 
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {7.1}{\ignorespaces A description of the Travelling Salesman Problem. }}{157}{figure.caption.162}% 
+\contentsline {figure}{\numberline {7.2}{\ignorespaces Time evolution of the solution for a tour given by the Elastic Neighbourhood method. }}{163}{figure.caption.166}% 
+\contentsline {figure}{\numberline {7.3}{\ignorespaces Two examples of how the competitive mechanism interacts with the Laplacian to generate a space filling curve. }}{165}{figure.caption.168}% 
+\contentsline {figure}{\numberline {7.4}{\ignorespaces The logged run time and tour length results show that the algorithm scales approximately log-log linearly in both single and multithreaded environments. }}{166}{figure.caption.169}% 
+\contentsline {figure}{\numberline {7.5}{\ignorespaces Solutions grids are presented for a uniformly distributed tour and a skewed distributed tour. }}{167}{figure.caption.170}% 
+\contentsline {figure}{\numberline {7.6}{\ignorespaces Scaling properties for 10 randomly generated datasets of length 250. }}{169}{figure.caption.172}% 
+\contentsline {figure}{\numberline {7.7}{\ignorespaces The fractional error between a computed and optimal tour is shown for the Elastic Net and Neighbourhood. }}{170}{figure.caption.175}% 
+\contentsline {figure}{\numberline {7.8}{\ignorespaces The performance comparisons for the Elastic Neighbourhood and long and short EAX-GA and LKH algorithms are shown. }}{172}{figure.caption.177}% 
+\contentsline {figure}{\numberline {7.9}{\ignorespaces Solution for the Mona Lisa art tour generated in 31 minutes using the bootstrapped Elastic Neighbourhood algorithm. }}{173}{figure.caption.178}% 
+\contentsline {figure}{\numberline {7.10}{\ignorespaces The distorted retinotopic projection predicted by the Elastic Net model is shown in panel (a). Trained retinotopic locations are given by the intersection of the grid and the size of the black squares indicates the rate of change of the orientation variable. Distorted retinotopic fields are generated around regions where the orientation selectivity changes most rapidly. Optical imaging scans in both azimuthal and elevational of two phenotypes of regular (B) and deficient (C) spontaneous activity patterns are shown in panel (b). In both instances the phase and bulk activity scans do not show a distorted retinotopic map. Image reproduced from \cite {Cang2005-eg}. \relax }}{175}{figure.caption.180}% 
+\contentsline {figure}{\numberline {7.11}{\ignorespaces The cortical feature and retinotopic maps generated in a competition free and competitive environments are presented.}}{176}{figure.caption.181}% 
+\contentsline {figure}{\numberline {7.12}{\ignorespaces A measure of uniformity of the Elastic Net and Neighbourhood compared with a sample of uniformly distributed points. }}{177}{figure.caption.182}% 
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }

@@ -1,0 +1,41 @@
+The model presented in Chapter \ref{chapter:distributed} is summarised here. The model is an energy based model where the energy $E$ is given by a functional of the synaptic kernel $w$:
+\begin{equation}
+E = E[w].
+\end{equation}
+The energy functional is composed of three independent terms representing the mechanisms of chemotaxis, neural activity, and competition. The functional can therefore be written as a linear combination of functionals corresponding to these mechanisms:
+\begin{equation}
+E[w] = \sum_{u \in \text{mechanisms}} E_u[w].
+\end{equation}
+The synaptic kernel $w$ is thought of as a function which is proportional to the number of synapses present at a location $\vec{x}$. This function is parametrised by some set of parameters $\vec{Q}$:
+\begin{equation}
+w = w(\vec{x}; \vec{Q}).
+\end{equation}
+The synaptic kernel can be further broken down by considering it as the sum of individual kernels originating from each retinal afferent $p_i$ each parametrised by $\vec{q}$. This can be thought of as the region of the colliculus that would be highlighted by a tracer injection into a retinal cell. Supposing that there are $N$ such retinal afferents:
+\begin{equation}
+ w(\vec{x}; \vec{Q}) = \sum_{i=1}^N p_i(\vec{x}; \vec{q}).
+\end{equation}
+Finally, these afferents have been represented arbitrarily as continuous functions. We need to translate them into a set of discrete synapses for each afferent. To do this we interpret each $w_i$ as a probability distribution and when the functional is minimised we take a given number of samples from this distribution to represent synapses. Since every probability distribution can be written as the sum of a series of Gaussian probability distributions we write:
+\begin{equation}
+ w_i(\vec{x}; \vec{Q}) = \frac{1}{\sigma M \sqrt{2 \pi}}\sum_{j=1}^{M} \exp\left(-\frac{\left|\vec{x} - \vec{x}^i_j\right|^2}{2\sigma^2}\right),
+\end{equation}
+where $M < \infty$ is a truncation of the infinite series and allows for an efficient numerical approximation. These summations distribute linearly and the energy functional is composed of summations over the mechanism, the afferent indexes, and the series representing the synaptic probability distribution of each afferent.
+
+The biology is incorporated in the functionals associated with each mechanism. The total chemotactic energy will be the integral over the entire domain of the colliculus, $\mathcal{D}$, of each of these local contributions in accordance with a Type I mechanism acting on receptor (R) and ligand (L) gradients acting in each orthogonal direction in the retina and colliculus:
+\begin{equation}
+E_\text{chem}[w(x, y), x, y] = \sum_i \int_{\mathcal{D}} p_i(x, y) (\alpha(R^c_A(x)L^r_A(x_i) + R^r_A(x_i)L^c(x)) - \beta(R^c_B(y)L^r_A(y_i) + R^r_B(y_i)L^c(y))).
+\end{equation}
+We let $R^c_A(x) = \exp(0.5 - x)$, $L^c_A(x) = \exp(x - 0.5), R^r_A(x) = 2\exp(0.5 - x)$, $L^r_A(x) = \exp(x - 0.5),  R^c_B(y) = \exp(0.5 - y)$, $L^c_B(y) = \exp(y - 0.5), R^r_B(y) = 2\exp(0.5 - y)$, $L^r_B(y) = \exp(y - 0.5)$. 
+
+The neural activity based energy is a function of the product of the correlation between activity levels on each pair of synapses in the target. The correlation structures arise as a function of the complex spatio-temporal patterns of the waves and the Hebbian rule under which synapse modification operates. To calculate these precisely and inform a prior on the correlation structure on each pair of synapses we refer the reader to Chapter \ref{chapter:neuralstdp}. For simplicity, we take the naive view that there is a isotropic distance dependent correlation function in both the retina and colliculus of the form $C^Y(\vec{x}, \vec{y}; \vec{A}_Y)  = a_1\exp\left(-\frac{\left| \vec{x} - \vec{y}\right|^2}{2 a_2^2}\right)$ where $Y \in \{r,c\}$ denotes the retina or colliculus and $\vec{A}_Y$ is a vector containing the parameters defining the correlation. The activity energy contribution at an infinitesimal location $(x,y)$ in the colliculus is given by the convolution of all of the synaptic kernels multiplied by the correlation between functions between them:
+\begin{equation}
+dE_\text{act}(x, y) = \gamma \sum_i \sum_j \int_{\mathcal{D}} p_i(x_i - s, y_i - t)p_j(x, y) C^c(x - s, y - t)C^r(S_r(i, j)) ds dt,
+\end{equation}
+where $S_r(i,j)$ is the distance in the retina between the $i$'th and the $j$'th neurone. The total activity energy is simply the integral of the local energy over the entire colliculus domain $\mathcal{D}$:
+\begin{equation}
+E_\text{act} = \gamma \sum_i \sum_j \int_{\mathcal{D}} \int_{\mathcal{D}}p_i(x_i - s, y_i - t)p_j(x_j-x,y_j-y) C^c(s -x, t - y; \vec{Q}_c))C^r(S_r(i, j); \vec{Q}_r) ds dt dx dy.
+\end{equation}
+
+The competition based energy is a function of how much each pair of afferents probability distribution overlaps with each other. Each pair of afferents $i$ and $j$ will attempt to compete for resources in the colliculus and this demand will be bound by a local neighbourhood $P$ in colliculus space which we assume to decay exponentially with the square of the distance and parametrised by $\eta$: $P(x,y; \eta) = \exp(-(x^2+y^2)/(2\eta)^2)$. Therefore, the competitive energy will be defined by integrating this local neighbourhood kernel against every pair of afferents over the the colliculus domain:
+\begin{equation}
+E_\text{comp} = \gamma \sum_i \sum_j \int_{\mathcal{D}} \int_{\mathcal{D}}p_i(x_i - s, y_i - t)p_j(x_j-x,y_j-y) P(x,y; \eta) ds dt dx dy.
+\end{equation}

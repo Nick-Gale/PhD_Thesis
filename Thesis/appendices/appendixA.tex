@@ -1,0 +1,32 @@
+The following Lemma is reproduced from an earlier Masters thesis analysing topographic development in the context of neural field theory \cite{Gale2017-ve}. It formalises the notion of approximating an input stimulus as a travelling wave propagating to infinity rather than one that terminates at some fixed time.
+
+\begin{lemma}
+	\label{lemma:decay}
+	The synaptic change $\frac{dS_p}{dT}$ induced by a given input stimulus $A_p$ which terminates at some arbitrary $t_1$ can be well approximated by a similar input stimulus $A$ that terminates at $t=\infty$ i.e. $|\frac{dS_p}{dT} - \frac{dS}{dT}|<\epsilon$ for $\epsilon \ll 1$. 
+\end{lemma}
+
+\begin{proof}
+	Consider a function $A(y,t)$ which propagates to infinity and induces and activity in the post-synaptic field of $U(x,t)$. For physical reasons this function must decay rapidly at infinity implying for all real $t_j$:
+	\begin{equation}
+		\int_{t_j}^{\infty} A(y,t)dt =\epsilon_j.
+	\end{equation}
+	Then, due to the rapid decay of the of plasticity function we also have that for all physical realisations of $u$ and for all $t$:
+	\begin{equation}
+		\int_{-\infty}^{\infty} H(\tau) U_i(t+\tau)d\tau = \xi_i <\infty.
+	\end{equation}
+	Then, consider the functions $A(y,t)=\Theta(t) h(y,t)$ and $A_p(y,t)=(\Theta(t)-\Theta(t-t_1))h(y,t)$, and the functions $U(x,t)$ and $U_p(x,t)$ which are induced activities from stimulus $A$ and $A_p$. Observe that as a result of the rapidly decaying plasticity window there exists some $\xi$ such that:
+	\begin{equation} 
+		\left|\int_{t_1}^{\infty} H(\tau) (U_p(x,t)-U(x,t)) d\tau \right|< \xi,
+	\end{equation} and: 
+	\begin{equation}
+		\left|\int_{-\infty}^{0} H(\tau) (u_p(x,t)-u(x,t)) d\tau \right|< \xi,
+	\end{equation}
+	for all $x$ and $t$. Also, observe that in the limit $t_1 \rightarrow \infty$, $\xi$ tends to zero. Now let $\epsilon_2 = \xi \int_{0}^{t_1} A(y,t)$ and note that in the limit $t_1 \rightarrow \infty$ this $\epsilon_2$ will also tend to zero, as the integral of $A(y,t)$ is bounded. Finally, suppose $\int_{t_1}^{\infty} A(y,t) dt < \epsilon_1$. Then, $\varepsilon = K_0 (\xi \epsilon_1 + 2\epsilon_2)$ may be made arbitrarily small for sufficiently large $t_1$. Now consider the synaptic change induced by the truncated function $A_p$:
+	\begin{align}
+		\frac{dS_p(x,y,T)}{dT} & = K_0  \int_{-\infty}^{\infty }A_p(y,t) \int_{-\infty}^{\infty}   H(\tau)U_p(x,t+\tau)   d\tau dt\\
+		&<  K_0  \int_{0}^{t_1}h(y,t) \left (\int_{-\infty}^{\infty}   H(\tau)U(x,t+\tau) d\tau  + 2\xi \right)  dt\\
+		&<  K_0  \int_{-\infty}^{\infty}\Theta(t) h(y,t) \int_{-\infty}^{\infty}   H(\tau)U(x,t+\tau) d\tau dt +K_0 \epsilon_1 \xi+2K_0 \epsilon_2\\
+		&<  \frac{dS(x,y,T)}{dT} + \epsilon.
+	\end{align}
+	Therefore, it is a sufficiently good approximation to consider the stimulus propagating to infinity, rather than the stimulus truncated at time $t=t_1$ when calculating the synaptic change.
+\end{proof}

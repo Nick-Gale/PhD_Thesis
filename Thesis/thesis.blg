@@ -1,0 +1,55 @@
+This is BibTeX, Version 0.99d (TeX Live 2019)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: thesis.aux
+The style file: abbrvnat.bst
+A level-1 auxiliary file: titlepage/titlepage.aux
+A level-1 auxiliary file: signatures/signatures.aux
+A level-1 auxiliary file: acknowledgments/acknowledgments.aux
+A level-1 auxiliary file: abstract/abstract.aux
+Reallocated field_info (elt_size=4) to 11524 items from 5000.
+Database file #1: references.bib
+Warning--empty chapter and pages in Bartha2019-ve
+Warning--empty note in Goetz2022-ew
+Warning--empty note in Teh2022-tp
+You've used 233 entries,
+            2773 wiz_defined-function locations,
+            2040 strings with 46827 characters,
+and the built_in function-call counts, 113880 in all, are:
+= -- 10121
+> -- 6994
+< -- 148
++ -- 2381
+- -- 2138
+* -- 10034
+:= -- 17560
+add.period$ -- 718
+call.type$ -- 233
+change.case$ -- 1393
+chr.to.int$ -- 223
+cite$ -- 469
+duplicate$ -- 4748
+empty$ -- 8998
+format.name$ -- 2515
+if$ -- 23437
+int.to.chr$ -- 11
+int.to.str$ -- 1
+missing$ -- 228
+newline$ -- 1185
+num.names$ -- 938
+pop$ -- 2624
+preamble$ -- 1
+purify$ -- 1177
+quote$ -- 0
+skip$ -- 3540
+stack$ -- 0
+substring$ -- 4958
+swap$ -- 520
+text.length$ -- 14
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 2478
+warning$ -- 3
+while$ -- 1060
+width$ -- 0
+write$ -- 3032
+(There were 3 warnings)

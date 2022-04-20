@@ -1,0 +1,154 @@
+ \documentclass[fleqn,a4paper,10pt,twoside,titlepage]{report}
+
+%non-technical packages------------------------------------
+\usepackage[english]{babel} %language rules package
+\usepackage{graphicx}       %graphics
+\usepackage{multicol}       %column support
+\usepackage{makeidx}        %alphabetical index of words and where to find them
+\usepackage{ccaption}       %restyle captions
+\usepackage{enumitem}
+\usepackage{caption}		%captions and table of figures
+\usepackage{subcaption}		%subcaptions for figures
+\usepackage{algpseudocode}
+\usepackage{algorithm}
+\usepackage{verbatim}
+\usepackage{flafter}
+\usepackage{xcolor}
+\usepackage{scalerel}
+\usepackage[a4paper, width=150mm,top=25mm,bottom=25mm,bindingoffset=6mm,headsep=24pt]{geometry} %fixes the page widths
+\usepackage{setspace}
+\usepackage{csquotes} % nice quotations
+\usepackage{lscape}
+\usepackage[hidelinks]{hyperref} 
+\usepackage{placeins} % allows for the use of \FloatBarrier
+\usepackage{makecell}
+
+%technical packages----------------------------------------
+\usepackage{amsmath} 		%math package
+\usepackage{amsfonts}		%math fonts
+\usepackage{amssymb} 		%math symbols
+\usepackage{amsthm}  		%theorem environments
+\usepackage{esint}
+
+
+%bibliography----------------------------------------------
+\usepackage[numbers]{natbib}
+\bibliographystyle{abbrvnat}
+
+%setting up the commands required for theorem environments--
+\theoremstyle{definition}
+\newtheorem{definition}{Definition}[section]
+\newtheorem{theorem}{Theorem}
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{corollary}{Corollary}[theorem]
+\newtheorem*{remark}{Remark}
+
+%setting up commands to create signatures-------------------
+\newcommand{\namesigdate}[2][5cm]{
+	\begin{tabular}{@{}p{#1}@{}}
+		#2 \\[2\normalbaselineskip] \hrule \\[0pt]
+		{\small \textit{Signature}} \\[2\normalbaselineskip] \hrule \\[0pt]
+		{\small \textit{Date}}
+	\end{tabular}
+}
+
+%graphics path----------------------------------------------
+\graphicspath{ {./images/} }
+
+%adding headers---------------------------------------------
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+%\fancyhead[LE,RO]{\thepage}
+\fancyhead[RE]{ \nouppercase{\rightmark}}
+%\fancyhead[RO]{\nouppercase{\rightmark}}
+\fancyhead[LO]{\nouppercase{\leftmark}}
+%\fancyhead[LE]{\nouppercase{\leftmark}}
+\fancyfoot[C]{\thepage}
+
+\renewcommand\headrulewidth{1.5pt}
+\makeatletter
+\def\headrule{{\if@fancyplain\let\headrulewidth\plainheadrulewidth\fi
+		\hrule\@height\headrulewidth\@width\headwidth
+		\vskip 2pt% 2pt between lines
+		\hrule\@height.5pt\@width\headwidth% lower line with .5pt line width
+		\vskip-\headrulewidth
+		\vskip-1.5pt}}
+\makeatother
+%paragraphs-------------------------------------------------
+\setlength\parindent{0pt}
+\usepackage{parskip}
+\doublespacing
+
+\newcommand{\needscite}[1]{\text{\color{red} CITE #1}}
+
+%hack for caption titles---------------------------------------
+
+%-----------------------------------------------------------
+\begin{document}
+\pagenumbering{gobble}
+
+\include{titlepage/titlepage}               
+
+\include{signatures/signatures}
+
+\include{acknowledgments/acknowledgments}   
+
+\newpage
+
+\include{abstract/abstract}                 
+
+\pagenumbering{roman}
+\newpage
+%---------------------------------------------------------
+%Do the table of Contents and lists of figures and tables
+%---------------------------------------------------------
+\tableofcontents
+\listoffigures
+
+\markboth{}{}
+
+\newpage
+
+\pagenumbering{arabic}
+%---------------------------------------------------------
+%Chapters
+%---------------------------------------------------------
+
+\chapter{Opening Remarks}
+\input{chapters/Chapter0}
+\chapter{Topographic Maps: Biology, Measurement, and Theory \label{chapter:biology}}
+\input{chapters/Chapter1}     
+\chapter{Topographic Maps: Mathematical and Computational Modelling \label{chapter:review}}
+\input{chapters/Chapter2}           
+\chapter{Neural Field Theory: Quantitative Assessment of the Role of Activity  \label{chapter:neuralstdp}} 
+\input{chapters/Chapter3}          
+\chapter{Lattice Method Analysis: Analysing a Stochastic Development Hypothesis \label{chapter:lattice}}
+\input{chapters/Chapter4}
+\chapter{Extended Unifying Model: Efficiently Simulating Retinotopic Development Via Parallelization \label{chapter:distributed}}
+\input{chapters/Chapter5}
+\chapter{The Elastic Neighbourhood: Solving Travelling Salesman Problems using Topographic Developmental Principles \label{chapter:elastic}}
+\input{chapters/Chapter6}
+\chapter{Concluding Remarks and Future Work}
+\input{chapters/Chapter7}
+
+%---------------------------------------------------------
+%References
+%---------------------------------------------------------
+\renewcommand{\bibname}{References}
+\bibliography{references}
+\addcontentsline{toc}{part}{References}
+%---------------------------------------------------------
+%Appendices
+%---------------------------------------------------------
+\renewcommand{\bibname}{References}
+\appendix
+\chapter{}
+\input{appendices/appendixA}
+%\chapter{}
+%\input{appendices/appendixB}
+\chapter{}
+\input{appendices/appendixC}
+%---------------------------------------------------------
+
+\end{document}

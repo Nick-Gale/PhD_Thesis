@@ -1,0 +1,1509 @@
+\begin{thebibliography}{233}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Abbott(1999)]{Abbott1999-ms}
+L.~F. Abbott.
+\newblock Lapicque's introduction of the integrate-and-fire model neuron
+  (1907).
+\newblock \emph{Brain Res. Bull.}, 50\penalty0 (5-6):\penalty0 303--304, Nov.
+  1999.
+
+\bibitem[Abbott and Nelson(2000)]{Abbott2000-gl}
+L.~F. Abbott and S.~B. Nelson.
+\newblock Synaptic plasticity: taming the beast.
+\newblock \emph{Nat. Neurosci.}, 3 Suppl:\penalty0 1178--1183, Nov. 2000.
+
+\bibitem[Ablowitz and Fokas(2003)]{Ablowitz2003-iv}
+M.~J. Ablowitz and A.~S. Fokas.
+\newblock \emph{Complex Variables: Introduction and Applications}.
+\newblock Cambridge University Press, Apr. 2003.
+
+\bibitem[Ackman and Crair(2014)]{Ackman2014-tj}
+J.~B. Ackman and M.~C. Crair.
+\newblock Role of emergent neural activity in visual map development.
+\newblock \emph{Curr. Opin. Neurobiol.}, 24\penalty0 (1):\penalty0 166--175,
+  Feb. 2014.
+
+\bibitem[Ackman et~al.(2012)Ackman, Burbridge, and Crair]{Ackman2012-uu}
+J.~B. Ackman, T.~J. Burbridge, and M.~C. Crair.
+\newblock Retinal waves coordinate patterned activity throughout the developing
+  visual system.
+\newblock \emph{Nature}, 490\penalty0 (7419):\penalty0 219--225, Oct. 2012.
+
+\bibitem[Adli(2018)]{Adli2018-ng}
+M.~Adli.
+\newblock The {CRISPR} tool kit for genome editing and beyond.
+\newblock \emph{Nat. Commun.}, 9\penalty0 (1):\penalty0 1--13, May 2018.
+
+\bibitem[Ahmadlou and Heimel(2015)]{Ahmadlou2015-jw}
+M.~Ahmadlou and J.~A. Heimel.
+\newblock Preference for concentric orientations in the mouse superior
+  colliculus.
+\newblock \emph{Nat. Commun.}, 6\penalty0 (1):\penalty0 1--11, Apr. 2015.
+
+\bibitem[Alberts et~al.(2002)Alberts, Johnson, Lewis, Raff, Roberts, and
+  Walter]{Alberts2002-rr}
+B.~Alberts, A.~Johnson, J.~Lewis, M.~Raff, K.~Roberts, and P.~Walter.
+\newblock \emph{Molecular Biology of the Cell}.
+\newblock Garland Science, 2002.
+
+\bibitem[Allen et~al.(2003)Allen, Celikel, and Feldman]{Allen2003-rw}
+C.~B. Allen, T.~Celikel, and D.~E. Feldman.
+\newblock Long-term depression induced by sensory deprivation during cortical
+  map plasticity in vivo.
+\newblock \emph{Nat. Neurosci.}, 6\penalty0 (3):\penalty0 291--299, Feb. 2003.
+
+\bibitem[Amari(1977)]{Amari1977-gc}
+S.~Amari.
+\newblock Dynamics of pattern formation in lateral-inhibition type neural
+  fields.
+\newblock \emph{Biol. Cybern.}, 27\penalty0 (2):\penalty0 77--87, Aug. 1977.
+
+\bibitem[Applegate et~al.(2007)Applegate, Bixby, Chvatal, and
+  Cook]{Applegate2007-nz}
+D.~L. Applegate, R.~E. Bixby, V.~Chvatal, and W.~J. Cook.
+\newblock \emph{The Traveling Salesman Problem: A Computational Study
+  (Princeton Series in Applied Mathematics)}.
+\newblock Princeton University Press, USA, 2007.
+
+\bibitem[Baden et~al.(2016)Baden, Berens, Franke, Rom{\'a}n~Ros{\'o}n, Bethge,
+  and Euler]{Baden2016-kx}
+T.~Baden, P.~Berens, K.~Franke, M.~Rom{\'a}n~Ros{\'o}n, M.~Bethge, and
+  T.~Euler.
+\newblock The functional diversity of retinal ganglion cells in the mouse.
+\newblock \emph{Nature}, 529\penalty0 (7586):\penalty0 345--350, Jan. 2016.
+
+\bibitem[Ball et~al.(2002)Ball, Erman, and Dill]{Ball2002-hf}
+K.~D. Ball, B.~Erman, and K.~A. Dill.
+\newblock The elastic net algorithm and protein structure prediction.
+\newblock \emph{J. Comput. Chem.}, 23\penalty0 (1):\penalty0 77--83, Jan. 2002.
+
+\bibitem[Bansal et~al.(2000)Bansal, Singer, Hwang, Xu, Beaudet, and
+  Feller]{Bansal2000-ts}
+A.~Bansal, J.~H. Singer, B.~J. Hwang, W.~Xu, A.~Beaudet, and M.~B. Feller.
+\newblock Mice lacking specific nicotinic acetylcholine receptor subunits
+  exhibit dramatically altered spontaneous activity patterns and reveal a
+  limited role for retinal waves in forming {ON} and {OFF} circuits in the
+  inner retina.
+\newblock \emph{J. Neurosci.}, 20\penalty0 (20):\penalty0 7672--7681, Oct.
+  2000.
+
+\bibitem[Barab{\'a}si(2016)]{Barabasi2016-wx}
+A.-L. Barab{\'a}si.
+\newblock \emph{Network Science}.
+\newblock Cambridge University Press, July 2016.
+
+\bibitem[Bartha(2019)]{Bartha2019-ve}
+P.~Bartha.
+\newblock \emph{Analogy and Analogical Reasoning}.
+\newblock Metaphysics Research Lab, Stanford University, spring 2019 edition,
+  2019.
+
+\bibitem[Bartholdi and Platzman(1982)]{Bartholdi1982-kt}
+J.~J. Bartholdi and L.~K. Platzman.
+\newblock An {O(N} log n) planar travelling salesman heuristic based on
+  spacefilling curves.
+\newblock \emph{Oper. Res. Lett.}, 1\penalty0 (4):\penalty0 121--125, Sept.
+  1982.
+
+\bibitem[Bartholdi and Platzman(1988)]{Bartholdi1988-fe}
+J.~J. Bartholdi and L.~K. Platzman.
+\newblock Heuristics based on spacefilling curves for combinatorial problems in
+  euclidean space.
+\newblock \emph{Manage. Sci.}, 34\penalty0 (3):\penalty0 291--305, Mar. 1988.
+
+\bibitem[Beardwood et~al.(1959)Beardwood, Halton, and
+  Hammersley]{Beardwood1959-wb}
+J.~Beardwood, J.~H. Halton, and J.~M. Hammersley.
+\newblock The shortest path through many points.
+\newblock \emph{Math. Proc. Cambridge Philos. Soc.}, 55\penalty0 (4):\penalty0
+  299--327, Oct. 1959.
+
+\bibitem[Beckmann et~al.(1994)Beckmann, Cerretti, Baum, Vanden~Bos, James,
+  Farrah, Kozlosky, Hollingsworth, Shilling, and Maraskovsky]{Beckmann1994-gx}
+M.~P. Beckmann, D.~P. Cerretti, P.~Baum, T.~Vanden~Bos, L.~James, T.~Farrah,
+  C.~Kozlosky, T.~Hollingsworth, H.~Shilling, and E.~Maraskovsky.
+\newblock Molecular characterization of a family of ligands for eph-related
+  tyrosine kinase receptors.
+\newblock \emph{EMBO J.}, 13\penalty0 (16):\penalty0 3757--3762, Aug. 1994.
+
+\bibitem[Bednar and Wilson(2016)]{Bednar2016-lg}
+J.~A. Bednar and S.~P. Wilson.
+\newblock Cortical maps.
+\newblock \emph{Neuroscientist}, 22\penalty0 (6):\penalty0 604--617, Dec. 2016.
+
+\bibitem[Bednar et~al.(2004)Bednar, Kelkar, and Miikkulainen]{Bednar2004-xl}
+J.~A. Bednar, A.~Kelkar, and R.~Miikkulainen.
+\newblock Scaling self-organizing maps to model large cortical networks.
+\newblock \emph{Neuroinformatics}, 2\penalty0 (3):\penalty0 275--302, 2004.
+
+\bibitem[Besard(2022)]{GPUArrays}
+T.~Besard.
+\newblock Gpuarrays.jl, 2022.
+\newblock \url{https://github.com/JuliaGPU/GPUArrays.jl}.
+
+\bibitem[Besard et~al.(2018)Besard, Foket, and De~Sutter]{besard2018juliagpu}
+T.~Besard, C.~Foket, and B.~De~Sutter.
+\newblock Effective extensible programming: Unleashing {Julia} on {GPUs}.
+\newblock \emph{IEEE Transactions on Parallel and Distributed Systems}, 2018.
+\newblock ISSN 1045-9219.
+\newblock \doi{10.1109/TPDS.2018.2872064}.
+
+\bibitem[Boeres et~al.(1992)Boeres, de~Carvalho, and Barbosa]{Boeres1992-fo}
+M.~C.~S. Boeres, L.~A.~V. de~Carvalho, and V.~C. Barbosa.
+\newblock A faster elastic-net algorithm for the traveling salesman problem.
+\newblock In \emph{[Proceedings 1992] {IJCNN} International Joint Conference on
+  Neural Networks}, volume~2, pages 215--220 vol.2, June 1992.
+
+\bibitem[Boulton et~al.(1990)Boulton, Baker, and Vanderwolf]{Boulton1990-ff}
+A.~A. Boulton, G.~B. Baker, and C.~H. Vanderwolf.
+\newblock \emph{Neurophysiological Techniques: Applications to Neural Systems}.
+\newblock Humana Press, 1990.
+
+\bibitem[Brown et~al.(2000)Brown, Yates, Burrola, Ortu{\~n}o, Vaidya, Jessell,
+  Pfaff, O'Leary, and Lemke]{Brown2000-da}
+A.~Brown, P.~A. Yates, P.~Burrola, D.~Ortu{\~n}o, A.~Vaidya, T.~M. Jessell,
+  S.~L. Pfaff, D.~D. O'Leary, and G.~Lemke.
+\newblock Topographic mapping from the retina to the midbrain is controlled by
+  relative but not absolute levels of {EphA} receptor signaling.
+\newblock \emph{Cell}, 102\penalty0 (1):\penalty0 77--88, July 2000.
+
+\bibitem[Burbridge et~al.(2014)Burbridge, Xu, Ackman, Ge, Zhang, Ye, Zhou, Xu,
+  Contractor, and Crair]{Burbridge2014-ib}
+T.~J. Burbridge, H.-P. Xu, J.~B. Ackman, X.~Ge, Y.~Zhang, M.-J. Ye, Z.~J. Zhou,
+  J.~Xu, A.~Contractor, and M.~C. Crair.
+\newblock Visual circuit development requires patterned activity mediated by
+  retinal acetylcholine receptors.
+\newblock \emph{Neuron}, 84\penalty0 (5):\penalty0 1049--1064, Dec. 2014.
+
+\bibitem[Burkart(2017)]{Burkart2017}
+J.~Burkart.
+\newblock Mathematica markov chain monte carlo.
+\newblock \url{https://github.com/joshburkart/mathematica-mcmc}, 2017.
+
+\bibitem[Burkitt(2006{\natexlab{a}})]{Burkitt2006-ne}
+A.~N. Burkitt.
+\newblock A review of the integrate-and-fire neuron model: I. homogeneous
+  synaptic input.
+\newblock \emph{Biol. Cybern.}, 95\penalty0 (1):\penalty0 1--19, July
+  2006{\natexlab{a}}.
+
+\bibitem[Burkitt(2006{\natexlab{b}})]{Burkitt2006-wq}
+A.~N. Burkitt.
+\newblock A review of the integrate-and-fire neuron model: {II}. inhomogeneous
+  synaptic input and network properties.
+\newblock \emph{Biol. Cybern.}, 95\penalty0 (2):\penalty0 97--112, Aug.
+  2006{\natexlab{b}}.
+
+\bibitem[Burr(1988)]{Burr1988-fg}
+D.~J. Burr.
+\newblock An improved elastic net method for the traveling salesman problem.
+\newblock In \emph{{IEEE} 1988 International Conference on Neural Networks},
+  pages 69--76 vol.1. ieeexplore.ieee.org, July 1988.
+
+\bibitem[Cang and Feldheim(2013)]{Cang2013-dw}
+J.~Cang and D.~A. Feldheim.
+\newblock Developmental mechanisms of topographic map formation and alignment.
+\newblock \emph{Annu. Rev. Neurosci.}, 36:\penalty0 51--77, July 2013.
+
+\bibitem[Cang et~al.(2005)Cang, Kaneko, Yamada, Woods, Stryker, and
+  Feldheim]{Cang2005-eg}
+J.~Cang, M.~Kaneko, J.~Yamada, G.~Woods, M.~P. Stryker, and D.~A. Feldheim.
+\newblock {Ephrin-As} guide the formation of functional maps in the visual
+  cortex.
+\newblock \emph{Neuron}, 48\penalty0 (4):\penalty0 577--589, Nov. 2005.
+
+\bibitem[Cang et~al.(2008)Cang, Wang, Stryker, and Feldheim]{Cang2008-ez}
+J.~Cang, L.~Wang, M.~P. Stryker, and D.~A. Feldheim.
+\newblock Roles of ephrin-as and structured activity in the development of
+  functional maps in the superior colliculus.
+\newblock \emph{J. Neurosci.}, 28\penalty0 (43):\penalty0 11015--11023, Oct.
+  2008.
+
+\bibitem[Carnevale and Hines(2006)]{Carnevale2006-gn}
+N.~T. Carnevale and M.~L. Hines.
+\newblock \emph{The {NEURON} Book}.
+\newblock Cambridge University Press, Jan. 2006.
+
+\bibitem[Carreira-Perpi{\~n}{\'a}n and
+  Goodhill(2011)]{Carreira-Perpinan2011-aa}
+M.~{\'A}. Carreira-Perpi{\~n}{\'a}n and G.~J. Goodhill.
+\newblock Generalised elastic nets.
+\newblock \emph{ar{X}iv}, Aug. 2011.
+\newblock \url{https://doi.org/10.48550/arXiv.1108.2840}.
+
+\bibitem[Chandrasekaran et~al.(2005)Chandrasekaran, Plas, Gonzalez, and
+  Crair]{Chandrasekaran2005-ug}
+A.~R. Chandrasekaran, D.~T. Plas, E.~Gonzalez, and M.~C. Crair.
+\newblock Evidence for an instructive role of retinal activity in retinotopic
+  map refinement in the superior colliculus of the mouse.
+\newblock \emph{J. Neurosci.}, 25\penalty0 (29):\penalty0 6929--6938, July
+  2005.
+
+\bibitem[Chen et~al.(2012)Chen, Zhao, Wu, Yao, and Zhang]{Chen2012-qw}
+S.~Chen, M.~Zhao, G.~Wu, C.~Yao, and J.~Zhang.
+\newblock Recent advances in morphological cell image analysis.
+\newblock \emph{Comput. Math. Methods Med.}, 2012:\penalty0 101536, Jan. 2012.
+
+\bibitem[Chklovskii and Koulakov(2004)]{Chklovskii2004-da}
+D.~B. Chklovskii and A.~A. Koulakov.
+\newblock {Maps} {in} {the} {brain}: What can we learn from them?
+\newblock \emph{Annu. Rev. Neurosci.}, 27\penalty0 (1):\penalty0 369--392, July
+  2004.
+
+\bibitem[Chung(1974)]{Chung1974-oy}
+S.~H. Chung.
+\newblock In search of the rules for nerve connections.
+\newblock \emph{Cell}, 3\penalty0 (3):\penalty0 201--205, Nov. 1974.
+
+\bibitem[Citri and Malenka(2008)]{Citri2008-kv}
+A.~Citri and R.~C. Malenka.
+\newblock Synaptic plasticity: multiple forms, functions, and mechanisms.
+\newblock \emph{Neuropsychopharmacology}, 33\penalty0 (1):\penalty0 18--41,
+  Jan. 2008.
+
+\bibitem[Coombes(2005)]{Coombes2005-mt}
+S.~Coombes.
+\newblock Waves, bumps, and patterns in neural field theories.
+\newblock \emph{Biol. Cybern.}, 93\penalty0 (2):\penalty0 91--108, Aug. 2005.
+
+\bibitem[Cutts and Eglen(2014)]{Cutts2014-mn}
+C.~S. Cutts and S.~J. Eglen.
+\newblock Detecting pairwise correlations in spike trains: an objective
+  comparison of methods and application to the study of retinal waves.
+\newblock \emph{J. Neurosci.}, 34\penalty0 (43):\penalty0 14288--14303, Oct.
+  2014.
+
+\bibitem[Davis(2010)]{eph-ephrin-web}
+C.~Davis.
+\newblock Ephs, ephrins, and bidirectional signaling, 2010.
+\newblock
+  \url{https://www.nature.com/scitable/topicpage/ephs-ephrins-and-bidirectional-signaling-14403965/}.
+
+\bibitem[De~Long and Coulombre(1965)]{De_Long1965-dd}
+G.~R. De~Long and A.~J. Coulombre.
+\newblock Development of the retinotectal topographic projection in the chick
+  embryo.
+\newblock \emph{Exp. Neurol.}, 13\penalty0 (4):\penalty0 351--363, Dec. 1965.
+
+\bibitem[Denk et~al.(1990)Denk, Strickler, and Webb]{Denk1990-ub}
+W.~Denk, J.~H. Strickler, and W.~W. Webb.
+\newblock Two-photon laser scanning fluorescence microscopy.
+\newblock \emph{Science}, 248\penalty0 (4951):\penalty0 73--76, Apr. 1990.
+
+\bibitem[Detorakis and Rougier(2012)]{Detorakis2012-eh}
+G.~I. Detorakis and N.~P. Rougier.
+\newblock A neural field model of the somatosensory cortex: formation,
+  maintenance and reorganization of ordered topographic maps.
+\newblock \emph{PLoS One}, 7\penalty0 (7):\penalty0 e40257, July 2012.
+
+\bibitem[Dhande et~al.(2011{\natexlab{a}})Dhande, Hua, Guh, Yeh, Bhatt, Zhang,
+  Ruthazer, Feller, and Crair]{Dhande2011-gj}
+O.~S. Dhande, E.~W. Hua, E.~Guh, J.~Yeh, S.~Bhatt, Y.~Zhang, E.~S. Ruthazer,
+  M.~B. Feller, and M.~C. Crair.
+\newblock Development of single retinofugal axon arbors in normal and $\beta$2
+  {Knock-Out} mice.
+\newblock \emph{J. Neurosci.}, 31\penalty0 (9):\penalty0 3384--3399, Mar.
+  2011{\natexlab{a}}.
+
+\bibitem[Dhande et~al.(2011{\natexlab{b}})Dhande, Hua, Guh, Yeh, Bhatt, Zhang,
+  Ruthazer, Feller, and Crair]{Dhande2011-jp}
+O.~S. Dhande, E.~W. Hua, E.~Guh, J.~Yeh, S.~Bhatt, Y.~Zhang, E.~S. Ruthazer,
+  M.~B. Feller, and M.~C. Crair.
+\newblock Development of single retinofugal axon arbors in normal and $\beta$2
+  {Knock-Out} mice.
+\newblock \emph{J. Neurosci.}, 31\penalty0 (9):\penalty0 3384--3399, Mar.
+  2011{\natexlab{b}}.
+
+\bibitem[Doyle et~al.(2012)Doyle, McGarry, Lee, and Lee]{Doyle2012-jo}
+A.~Doyle, M.~P. McGarry, N.~A. Lee, and J.~J. Lee.
+\newblock The construction of transgenic and gene knockout/knockin mouse models
+  of human disease.
+\newblock \emph{Transgenic Res.}, 21\penalty0 (2):\penalty0 327--349, Apr.
+  2012.
+
+\bibitem[Dozat(2016)]{Dozat2016-dj}
+T.~Dozat.
+\newblock Incorporating nesterov momentum into adam.
+\newblock \url{https://openreview.net/pdf/OM0jvwB8jIp57ZJjtNEZ.pdf}, Feb. 2016.
+
+\bibitem[Dr{\"a}ger and Olsen(1980)]{Drager1980-px}
+U.~C. Dr{\"a}ger and J.~F. Olsen.
+\newblock Origins of crossed and uncrossed retinal projections in pigmented and
+  albino mice.
+\newblock \emph{J. Comp. Neurol.}, 191\penalty0 (3):\penalty0 383--412, June
+  1980.
+
+\bibitem[Durbin and Mitchison(1990)]{Durbin1990-tn}
+R.~Durbin and G.~Mitchison.
+\newblock A dimension reduction framework for understanding cortical maps.
+\newblock \emph{Nature}, 343\penalty0 (6259):\penalty0 644--647, Feb. 1990.
+
+\bibitem[Durbin and Willshaw(1987)]{Durbin1987-ki}
+R.~Durbin and D.~Willshaw.
+\newblock An analogue approach to the travelling salesman problem using an
+  elastic net method.
+\newblock \emph{Nature}, 326\penalty0 (6114):\penalty0 689--691, 1987.
+
+\bibitem[Durbin et~al.(1989)Durbin, Szeliski, and Yuille]{Durbin1989-gs}
+R.~Durbin, R.~Szeliski, and A.~Yuille.
+\newblock An analysis of the elastic net approach to the traveling salesman
+  problem.
+\newblock \emph{Neural Comput.}, 1\penalty0 (3):\penalty0 348--358, Sept. 1989.
+
+\bibitem[Eglen et~al.(2014)Eglen, Weeks, Jessop, Simonotto, Jackson, and
+  Sernagor]{Eglen2014-fo}
+S.~J. Eglen, M.~Weeks, M.~Jessop, J.~Simonotto, T.~Jackson, and E.~Sernagor.
+\newblock A data repository and analysis framework for spontaneous neural
+  activity recordings in developing retina.
+\newblock \emph{Gigascience}, 3\penalty0 (1), Mar. 2014.
+
+\bibitem[Feinberg and Meister(2014)]{Feinberg2014-mj}
+E.~H. Feinberg and M.~Meister.
+\newblock Orientation columns in the mouse superior colliculus.
+\newblock \emph{Nature}, 519\penalty0 (7542):\penalty0 229--232, Dec. 2014.
+
+\bibitem[Feinberg and Meister(2015)]{Feinberg2015-eu}
+E.~H. Feinberg and M.~Meister.
+\newblock Orientation columns in the mouse superior colliculus.
+\newblock \emph{Nature}, 519\penalty0 (7542):\penalty0 229--232, Mar. 2015.
+
+\bibitem[Feldheim et~al.(2000{\natexlab{a}})Feldheim, Kim, Bergemann,
+  Fris{\'e}n, Barbacid, and Flanagan]{Feldheim2000-be}
+D.~A. Feldheim, Y.~I. Kim, A.~D. Bergemann, J.~Fris{\'e}n, M.~Barbacid, and
+  J.~G. Flanagan.
+\newblock Genetic analysis of {ephrin-A2} and {ephrin-A5} shows their
+  requirement in multiple aspects of retinocollicular mapping.
+\newblock \emph{Neuron}, 25\penalty0 (3):\penalty0 563--574, Mar.
+  2000{\natexlab{a}}.
+
+\bibitem[Feldheim et~al.(2000{\natexlab{b}})Feldheim, Kim, Bergemann,
+  Fris{\'e}n, Barbacid, and Flanagan]{Feldheim2000-ec}
+D.~A. Feldheim, Y.~I. Kim, A.~D. Bergemann, J.~Fris{\'e}n, M.~Barbacid, and
+  J.~G. Flanagan.
+\newblock Genetic analysis of ephrin-a2 and ephrin-a5 shows their requirement
+  in multiple aspects of retinocollicular mapping.
+\newblock \emph{Neuron}, 25\penalty0 (3):\penalty0 563--574, Mar.
+  2000{\natexlab{b}}.
+
+\bibitem[Flanagan(2006)]{Flanagan2006-fc}
+J.~G. Flanagan.
+\newblock Neural map specification by gradients.
+\newblock \emph{Curr. Opin. Neurobiol.}, 16\penalty0 (1):\penalty0 59--66, Feb.
+  2006.
+
+\bibitem[Flynn(2013)]{Flynn2013-yn}
+K.~C. Flynn.
+\newblock The cytoskeleton and neurite initiation.
+\newblock \emph{Bioarchitecture}, 3\penalty0 (4):\penalty0 86--109, July 2013.
+
+\bibitem[Frisen et~al.(1998)Frisen, Yates, McLaughlin, Friedman, O'Leary, and
+  Barbacid]{Frisen1998-jw}
+J.~Frisen, P.~A. Yates, T.~McLaughlin, G.~C. Friedman, D.~D.~M. O'Leary, and
+  M.~Barbacid.
+\newblock Ephrin-a5 (al-1/rags) is essential for proper retinal axon guidance
+  and topographic mapping in the mammalian visual system.
+\newblock \emph{Neuron}, 20\penalty0 (2):\penalty0 235--243, Feb. 1998.
+
+\bibitem[Froemke and Dan(2002)]{Froemke2002-be}
+R.~C. Froemke and Y.~Dan.
+\newblock Spike-timing-dependent synaptic modification induced by natural spike
+  trains.
+\newblock \emph{Nature}, 416\penalty0 (6879):\penalty0 433--438, Mar. 2002.
+
+\bibitem[Gale(2021{\natexlab{a}})]{DistributedKernels}
+N.~Gale.
+\newblock {Distributed Kernels Model}, 2021{\natexlab{a}}.
+\newblock \url{https://github.com/Nick-Gale/Distributed_Topographic_Kernels}.
+
+\bibitem[Gale(2021{\natexlab{b}})]{ElasticNeighbourhood}
+N.~Gale.
+\newblock Elastic {Neighbourhood}, 2021{\natexlab{b}}.
+\newblock \url{https://github.com/Nick-Gale/Elastic_Neighbourhood}.
+
+\bibitem[Gale(2021{\natexlab{c}})]{LatticeEphA3}
+N.~Gale.
+\newblock {Lattice Method Analysis of EphA3 Mutants}, 2021{\natexlab{c}}.
+\newblock
+  \url{https://github.com/Nick-Gale/Lattice_Method_Analysis_EphA3_Mutants}.
+
+\bibitem[Gale(2021{\natexlab{d}})]{NFT}
+N.~Gale.
+\newblock {Neural Field Theory Topopgraphic Development}, 2021{\natexlab{d}}.
+\newblock
+  \url{https://github.com/Nick-Gale/Neural_Field_Theory_Topopgraphic_Development}.
+
+\bibitem[Gale(2022)]{ThesisRepo}
+N.~Gale.
+\newblock {PhD Thesis Repository}, 2022.
+\newblock \url{https://github.com/Nick-Gale/PhD_Thesis}.
+
+\bibitem[Gale et~al.(2022)Gale, Rodger, Small, and Eglen]{Gale2022-kq}
+N.~Gale, J.~Rodger, M.~Small, and S.~Eglen.
+\newblock Analysis of activity dependent development of topographic maps in
+  neural field theory with short time scale dependent plasticity.
+\newblock \emph{Mathematical Neuroscience and Applications}, 2, Mar. 2022.
+
+\bibitem[Gale(2017)]{Gale2017-ve}
+N.~M. Gale.
+\newblock \emph{Neural Field Theory: Exploring Topographic Organisation and
+  Re-Organisation of Neural Circuitry}.
+\newblock PhD thesis, School of Mathematics and Statistics, University of
+  Western Australia, 2017.
+
+\bibitem[Gale et~al.(1996)Gale, Holland, Valenzuela, Flenniken, Pan, Ryan,
+  Henkemeyer, Strebhardt, Hirai, Wilkinson, Pawson, Davis, and
+  Yancopoulos]{Gale1996-zd}
+N.~W. Gale, S.~J. Holland, D.~M. Valenzuela, A.~Flenniken, L.~Pan, T.~E. Ryan,
+  M.~Henkemeyer, K.~Strebhardt, H.~Hirai, D.~G. Wilkinson, T.~Pawson, S.~Davis,
+  and G.~D. Yancopoulos.
+\newblock Eph receptors and ligands comprise two major specificity subclasses
+  and are reciprocally compartmentalized during embryogenesis.
+\newblock \emph{Neuron}, 17\penalty0 (1):\penalty0 9--19, July 1996.
+
+\bibitem[Gale and Murphy(2014)]{Gale2014-ss}
+S.~D. Gale and G.~J. Murphy.
+\newblock Distinct representation and distribution of visual information by
+  specific cell types in mouse superficial superior colliculus.
+\newblock \emph{J. Neurosci.}, 34\penalty0 (40):\penalty0 13458--13471, Oct.
+  2014.
+
+\bibitem[Garey and Johnson(1990)]{Garey1990-th}
+M.~R. Garey and D.~S. Johnson.
+\newblock \emph{Computers and Intractability; A Guide to the Theory of
+  NP-Completeness}.
+\newblock W. H. Freeman \& Co., USA, 1990.
+
+\bibitem[Gattass et~al.(2005)Gattass, Nascimento-Silva, Soares, Lima, Jansen,
+  Diogo, Farias, Botelho, Mariani, Azzi, and Fiorani]{Gattass2005-br}
+R.~Gattass, S.~Nascimento-Silva, J.~G.~M. Soares, B.~Lima, A.~K. Jansen,
+  A.~C.~M. Diogo, M.~F. Farias, M.~M. E.~P. Botelho, O.~S. Mariani, J.~Azzi,
+  and M.~Fiorani.
+\newblock Cortical visual areas in monkeys: location, topography, connections,
+  columns, plasticity and cortical dynamics.
+\newblock \emph{Philos. Trans. R. Soc. Lond. B Biol. Sci.}, 360\penalty0
+  (1456):\penalty0 709--731, Apr. 2005.
+
+\bibitem[Gaze(1960)]{Gaze1960-hw}
+R.~M. Gaze.
+\newblock Regeneration of the optic nerve in amphibia.
+\newblock \emph{Int. Rev. Neurobiol.}, 2:\penalty0 1--40, 1960.
+
+\bibitem[Gelfand et~al.(2000)Gelfand, Fomin, and Silverman]{Gelfand2000-xr}
+I.~M. Gelfand, S.~V. Fomin, and R.~A. Silverman.
+\newblock \emph{Calculus of Variations}.
+\newblock Courier Corporation, Jan. 2000.
+
+\bibitem[Gelman and Rubin(1992)]{Gelman1992-pk}
+A.~Gelman and D.~B. Rubin.
+\newblock Inference from iterative simulation using multiple sequences.
+\newblock \emph{SSO Schweiz. Monatsschr. Zahnheilkd.}, 7\penalty0 (4):\penalty0
+  457--472, Nov. 1992.
+
+\bibitem[Gelman et~al.(1995)Gelman, Carlin, Stern, and Rubin]{Gelman1995-uj}
+A.~Gelman, J.~B. Carlin, H.~S. Stern, and D.~B. Rubin.
+\newblock \emph{Bayesian data analysis}.
+\newblock Chapman and Hall/CRC, 1995.
+
+\bibitem[Gierer(1981)]{Gierer1981-qc}
+A.~Gierer.
+\newblock Development of projections between areas of the nervous system.
+\newblock \emph{Biol. Cybern.}, 42\penalty0 (1):\penalty0 69--78, 1981.
+
+\bibitem[Gierer(1983)]{Gierer1983-tn}
+A.~Gierer.
+\newblock Model for the retino-tectal projection.
+\newblock \emph{Proc. R. Soc. Lond. B Biol. Sci.}, 218\penalty0
+  (1210):\penalty0 77--93, Apr. 1983.
+
+\bibitem[Gierer and Wolpert(1983)]{Gierer1983-rm}
+A.~Gierer and L.~Wolpert.
+\newblock Model for the retino-tectal projection.
+\newblock \emph{Proceedings of the Royal Society of London. Series B.
+  Biological Sciences}, 218\penalty0 (1210):\penalty0 77--93, Apr. 1983.
+
+\bibitem[Gjorgjieva and Eglen(2011)]{Gjorgjieva2011-de}
+J.~Gjorgjieva and S.~J. Eglen.
+\newblock Modeling developmental patterns of spontaneous activity.
+\newblock \emph{Curr. Opin. Neurobiol.}, 21\penalty0 (5):\penalty0 679--684,
+  Oct. 2011.
+
+\bibitem[Godfrey and Eglen(2009)]{Godfrey2009-rs}
+K.~B. Godfrey and S.~J. Eglen.
+\newblock Theoretical models of spontaneous activity generation and propagation
+  in the developing retina.
+\newblock \emph{Mol. Biosyst.}, 5\penalty0 (12):\penalty0 1527--1535, Dec.
+  2009.
+
+\bibitem[Godfrey et~al.(2009)Godfrey, Eglen, and Swindale]{Godfrey2009-ts}
+K.~B. Godfrey, S.~J. Eglen, and N.~V. Swindale.
+\newblock A multi-component model of the developing retinocollicular pathway
+  incorporating axonal and synaptic growth.
+\newblock \emph{PLoS Comput. Biol.}, 5\penalty0 (12):\penalty0 e1000600, Dec.
+  2009.
+
+\bibitem[Goetz et~al.(2022)Goetz, Jessen, Jacobi, Mani, Cooler, Greer, Kadri,
+  Segal, Shekhar, Sanes, and Schwartz]{Goetz2022-ew}
+J.~Goetz, Z.~F. Jessen, A.~Jacobi, A.~Mani, S.~Cooler, D.~Greer, S.~Kadri,
+  J.~Segal, K.~Shekhar, J.~Sanes, and G.~W. Schwartz.
+\newblock Unified classification of mouse retinal ganglion cells using
+  function, morphology, and gene expression.
+\newblock Jan. 2022.
+
+\bibitem[Goodfellow et~al.(2016)Goodfellow, Bengio, and
+  Courville]{Goodfellow-et-al-2016}
+I.~Goodfellow, Y.~Bengio, and A.~Courville.
+\newblock \emph{Deep Learning}.
+\newblock MIT Press, 2016.
+\newblock \url{http://www.deeplearningbook.org}.
+
+\bibitem[Goodhill(1991)]{Goodhill1991-fu}
+G.~Goodhill.
+\newblock Topography and ocular dominance can arise from distributed patterns
+  of activity.
+\newblock In \emph{{IJCNN-91-Seattle} International Joint Conference on Neural
+  Networks}, volume~ii, pages 623--627 vol.2. ieeexplore.ieee.org, July 1991.
+
+\bibitem[Goodhill(1993)]{Goodhill1993-lk}
+G.~J. Goodhill.
+\newblock Topography and ocular dominance: a model exploring positive
+  correlations.
+\newblock \emph{Biol. Cybern.}, 69\penalty0 (2):\penalty0 109--118, June 1993.
+
+\bibitem[Goodhill(2016)]{Goodhill2016-ck}
+G.~J. Goodhill.
+\newblock Can molecular gradients wire the brain?
+\newblock \emph{Trends Neurosci.}, 39\penalty0 (4):\penalty0 202--211, Apr.
+  2016.
+
+\bibitem[Goodhill(2018)]{Goodhill2018-ca}
+G.~J. Goodhill.
+\newblock Theoretical models of neural development.
+\newblock \emph{iScience}, 8:\penalty0 183--199, Oct. 2018.
+
+\bibitem[Goodhill and Cimponeriu(2000{\natexlab{a}})]{Goodhill2000-on}
+G.~J. Goodhill and A.~Cimponeriu.
+\newblock Analysis of the elastic net model applied to the formation of ocular
+  dominance and orientation columns.
+\newblock \emph{Network}, 11\penalty0 (2):\penalty0 153--168, May
+  2000{\natexlab{a}}.
+
+\bibitem[Goodhill and Cimponeriu(2000{\natexlab{b}})]{Goodhill2000-vp}
+G.~J. Goodhill and A.~Cimponeriu.
+\newblock Analysis of the elastic net model applied to the formation of ocular
+  dominance and orientation columns.
+\newblock \emph{Network}, 11\penalty0 (2):\penalty0 153--168, May
+  2000{\natexlab{b}}.
+
+\bibitem[Goodhill and Willshaw(1990)]{Goodhill1990-dr}
+G.~J. Goodhill and D.~J. Willshaw.
+\newblock Application of the elastic net algorithm to the formation of ocular
+  dominance stripes.
+\newblock \emph{Network Computation in Neural Systems}, 1\penalty0
+  (1):\penalty0 41--59, 1990.
+
+\bibitem[Goodhill and Willshaw(1994)]{Goodhill1994-dn}
+G.~J. Goodhill and D.~J. Willshaw.
+\newblock Elastic net model of ocular dominance - overall stripe pattern and
+  monocular deprivation.
+\newblock \emph{Neural Comput.}, 6\penalty0 (4):\penalty0 615--621, July 1994.
+
+\bibitem[Goodhill and Xu(2005)]{Goodhill2005-ly}
+G.~J. Goodhill and J.~Xu.
+\newblock The development of retinotectal maps: A review of models based on
+  molecular gradients.
+\newblock \emph{Network: Computation in Neural Systems}, 16\penalty0
+  (1):\penalty0 5--34, Jan. 2005.
+
+\bibitem[Graben and Hutt(2014)]{Graben2014-pm}
+P.~B. Graben and A.~Hutt.
+\newblock Attractor and saddle node dynamics in heterogeneous neural fields.
+\newblock \emph{EPJ Nonlinear Biomedical Physics}, 2\penalty0 (1):\penalty0 4,
+  May 2014.
+
+\bibitem[Grienberger and Konnerth(2012)]{Grienberger2012-nr}
+C.~Grienberger and A.~Konnerth.
+\newblock Imaging calcium in neurons.
+\newblock \emph{Neuron}, 73\penalty0 (5):\penalty0 862--885, Mar. 2012.
+
+\bibitem[Grimbert and Cang(2012)]{Grimbert2012-cd}
+F.~Grimbert and J.~Cang.
+\newblock New model of retinocollicular mapping predicts the mechanisms of
+  axonal competition and explains the role of reverse molecular signaling
+  during development.
+\newblock \emph{J. Neurosci.}, 32\penalty0 (28):\penalty0 9755--9768, July
+  2012.
+
+\bibitem[Guo et~al.(2007)Guo, Feng, and Wang]{Guo2007-ub}
+Y.-Z. Guo, E.-M. Feng, and Y.~Wang.
+\newblock Optimal {HP} configurations of proteins by combining local search
+  with elastic net algorithm.
+\newblock \emph{J. Biochem. Biophys. Methods}, 70\penalty0 (3):\penalty0
+  335--340, Apr. 2007.
+
+\bibitem[Halim and Ismail(2019)]{Halim2019-ch}
+A.~H. Halim and I.~Ismail.
+\newblock Combinatorial optimization: Comparison of heuristic algorithms in
+  travelling salesman problem.
+\newblock \emph{Arch. Comput. Methods Eng.}, 26\penalty0 (2):\penalty0
+  367--380, Apr. 2019.
+
+\bibitem[Hebb(1949)]{Hebb1949-wr}
+D.~O. Hebb.
+\newblock The organization of behavior; a neuropsychological theory.
+\newblock \emph{Wiley}, 335, 1949.
+
+\bibitem[Helsgaun(2009)]{Helsgaun2009-dl}
+K.~Helsgaun.
+\newblock General k-opt submoves for the {Lin--Kernighan} {TSP} heuristic.
+\newblock \emph{Math. Program. Comput.}, 1\penalty0 (2):\penalty0 119--163,
+  Oct. 2009.
+
+\bibitem[Herrera et~al.(2003)Herrera, Brown, Aruga, Rachel, Dolen, Mikoshiba,
+  Brown, and Mason]{Herrera2003-td}
+E.~Herrera, L.~Brown, J.~Aruga, R.~A. Rachel, G.~Dolen, K.~Mikoshiba, S.~Brown,
+  and C.~A. Mason.
+\newblock Zic2 patterns binocular vision by specifying the uncrossed retinal
+  projection.
+\newblock \emph{Cell}, 114\penalty0 (5):\penalty0 545--557, Sept. 2003.
+
+\bibitem[Himanen et~al.(2004)Himanen, Chumley, Lackmann, Li, Barton, Jeffrey,
+  Vearing, Geleick, Feldheim, Boyd, Henkemeyer, and Nikolov]{Himanen2004-jj}
+J.-P. Himanen, M.~J. Chumley, M.~Lackmann, C.~Li, W.~A. Barton, P.~D. Jeffrey,
+  C.~Vearing, D.~Geleick, D.~A. Feldheim, A.~W. Boyd, M.~Henkemeyer, and D.~B.
+  Nikolov.
+\newblock Repelling class discrimination: ephrin-a5 binds to and activates
+  {EphB2} receptor signaling.
+\newblock \emph{Nat. Neurosci.}, 7\penalty0 (5):\penalty0 501--509, May 2004.
+
+\bibitem[Hindges et~al.(2002)Hindges, McLaughlin, Genoud, Henkemeyer, and
+  O'Leary]{Hindges2002-rt}
+R.~Hindges, T.~McLaughlin, N.~Genoud, M.~Henkemeyer, and D.~D.~M. O'Leary.
+\newblock {EphB} forward signaling controls directional branch extension and
+  arborization required for dorsal-ventral retinotopic mapping.
+\newblock \emph{Neuron}, 35\penalty0 (3):\penalty0 475--487, Aug. 2002.
+
+\bibitem[Hirai et~al.(1987)Hirai, Maru, Hagiwara, Nishida, and
+  Takaku]{Hirai1987-cx}
+H.~Hirai, Y.~Maru, K.~Hagiwara, J.~Nishida, and F.~Takaku.
+\newblock A novel putative tyrosine kinase receptor encoded by the eph gene.
+\newblock \emph{Science}, 238\penalty0 (4834):\penalty0 1717--1720, Dec. 1987.
+
+\bibitem[Hjorth et~al.(2015)Hjorth, Sterratt, Cutts, Willshaw, and
+  Eglen]{Hjorth2015-le}
+J.~J.~J. Hjorth, D.~C. Sterratt, C.~S. Cutts, D.~J. Willshaw, and S.~J. Eglen.
+\newblock Quantitative assessment of computational models for retinotopic map
+  formation.
+\newblock \emph{Dev. Neurobiol.}, 75\penalty0 (6):\penalty0 641--666, June
+  2015.
+
+\bibitem[Hodgkin and Huxley(1952)]{Hodgkin1952-yi}
+A.~L. Hodgkin and A.~F. Huxley.
+\newblock A quantitative description of membrane current and its application to
+  conduction and excitation in nerve.
+\newblock \emph{J. Physiol.}, 117\penalty0 (4):\penalty0 500--544, Aug. 1952.
+
+\bibitem[Honda et~al.(2013)Honda, Nagata, and Ono]{Honda2013-ri}
+K.~Honda, Y.~Nagata, and I.~Ono.
+\newblock A parallel genetic algorithm with edge assembly crossover for
+  100,000-city scale {TSPs}.
+\newblock In \emph{2013 {IEEE} Congress on Evolutionary Computation}, pages
+  1278--1285, June 2013.
+
+\bibitem[Honig and Hume(1989)]{Honig1989-by}
+M.~G. Honig and R.~I. Hume.
+\newblock Dil and dio: versatile fluorescent dyes for neuronal labelling and
+  pathway tracing.
+\newblock \emph{Trends Neurosci.}, 12\penalty0 (9):\penalty0 333--5, 340--1,
+  Sept. 1989.
+
+\bibitem[Hope et~al.(1976)Hope, Hammond, and Gaze]{Hope1976-vx}
+R.~A. Hope, B.~Hammond, and R.~M. Gaze.
+\newblock The arrow model: retinotectal specificity and map formation in the
+  goldfish visual system.
+\newblock \emph{Proceedings of the Royal Society of London. Series B.
+  Biological Sciences}, 194\penalty0 (1117):\penalty0 447--466, Nov. 1976.
+
+\bibitem[Huberman et~al.(2008)Huberman, Feller, and Chapman]{Huberman2008-zw}
+A.~D. Huberman, M.~B. Feller, and B.~Chapman.
+\newblock Mechanisms underlying development of visual maps and receptive
+  fields.
+\newblock \emph{Annu. Rev. Neurosci.}, 31:\penalty0 479--509, 2008.
+
+\bibitem[Innes(2018)]{innes2018}
+M.~Innes.
+\newblock Flux: Elegant machine learning with julia.
+\newblock \emph{Journal of Open Source Software}, 2018.
+\newblock \doi{10.21105/joss.00602}.
+
+\bibitem[Innes(2019)]{innes2019dont}
+M.~Innes.
+\newblock Don't unroll adjoint: Differentiating ssa-form programs, 2019.
+\newblock \url{https://doi.org/10.48550/arXiv.1810.07951}.
+
+\bibitem[Innes et~al.(2018)Innes, Saba, Fischer, Gandhi, Rudilosso, Joy,
+  Karmali, Pal, and Shah]{Flux.jl-2018}
+M.~Innes, E.~Saba, K.~Fischer, D.~Gandhi, M.~C. Rudilosso, N.~M. Joy,
+  T.~Karmali, A.~Pal, and V.~Shah.
+\newblock Fashionable modelling with flux.
+\newblock \emph{CoRR}, 2018.
+\newblock \url{https://arxiv.org/abs/1811.01457}.
+
+\bibitem[Inou{\'e}(2006)]{Inoue2006-rk}
+S.~Inou{\'e}.
+\newblock Foundations of confocal scanned imaging in light microscopy.
+\newblock In J.~B. Pawley, editor, \emph{Handbook Of Biological Confocal
+  Microscopy}, pages 1--19. Springer US, Boston, MA, 2006.
+
+\bibitem[Ito and Feldheim(2018)]{Ito2018-ef}
+S.~Ito and D.~A. Feldheim.
+\newblock The mouse superior colliculus: An emerging model for studying circuit
+  formation and function.
+\newblock \emph{Front. Neural Circuits}, 12:\penalty0 10, Feb. 2018.
+
+\bibitem[Izhikevich(2003)]{Izhikevich2003-ht}
+E.~M. Izhikevich.
+\newblock Simple model of spiking neurons.
+\newblock \emph{IEEE Trans. Neural Netw.}, 14\penalty0 (6):\penalty0
+  1569--1572, Nov. 2003.
+
+\bibitem[Jacobson(1960)]{jacobson1960studies}
+M.~Jacobson.
+\newblock Studies in the organization of visual mechanisms in amphibians.
+\newblock \emph{Annexe Thesis Digitisation Project 2017 Block 10}, 1960.
+
+\bibitem[Jbabdi et~al.(2013)Jbabdi, Sotiropoulos, and Behrens]{Jbabdi2013-np}
+S.~Jbabdi, S.~N. Sotiropoulos, and T.~E. Behrens.
+\newblock The topographic connectome.
+\newblock \emph{Curr. Opin. Neurobiol.}, 23\penalty0 (2):\penalty0 207--215,
+  Apr. 2013.
+
+\bibitem[Johnson et~al.(1996)Johnson, McGeoch, and Rothberg]{Johnson1996-yb}
+D.~S. Johnson, L.~A. McGeoch, and E.~E. Rothberg.
+\newblock Asymptotic experimental analysis for the {Held-Karp} traveling
+  salesman bound.
+\newblock In \emph{Proceedings of the 7th Annual {ACM-SIAM} Symposium on
+  Discrete Algorithms}, volume 341, page 350, 1996.
+
+\bibitem[{Julia Language}(2021)]{Distributed}
+{Julia Language}.
+\newblock Distributed.jl, 2021.
+\newblock
+  \url{https://github.com/JuliaLang/julia/tree/master/stdlib/Distributed}.
+
+\bibitem[Kalatsky and Stryker(2003)]{Kalatsky2003-cz}
+V.~A. Kalatsky and M.~P. Stryker.
+\newblock New paradigm for optical imaging: temporally encoded maps of
+  intrinsic signal.
+\newblock \emph{Neuron}, 38\penalty0 (4):\penalty0 529--545, May 2003.
+
+\bibitem[Kaplan and Bosch(2005)]{bridges2005301}
+C.~S. Kaplan and R.~Bosch.
+\newblock Tsp art.
+\newblock In R.~Sarhangi and R.~V. Moody, editors, \emph{Renaissance Banff:
+  Mathematics, Music, Art, Culture}, pages 301--308, Southwestern College,
+  Winfield, Kansas, 2005. Bridges Conference.
+\newblock ISBN 0-9665201-6-5.
+\newblock Available online at
+  \url{http://archive.bridgesmathart.org/2005/bridges2005-301.html}.
+
+\bibitem[Kingma and Ba(2017)]{kingma2017adam}
+D.~P. Kingma and J.~Ba.
+\newblock Adam: A method for stochastic optimization, 2017.
+\newblock \url{https://doi.org/10.48550/arXiv.1412.6980}.
+
+\bibitem[Kita et~al.(2015)Kita, Scott, and Goodhill]{Kita2015-gc}
+E.~M. Kita, E.~K. Scott, and G.~J. Goodhill.
+\newblock Topographic wiring of the retinotectal connection in zebrafish.
+\newblock \emph{Dev. Neurobiol.}, 75\penalty0 (6):\penalty0 542--556, June
+  2015.
+
+\bibitem[Koch et~al.(2011)Koch, Dela~Cruz, Hnasko, Edwards, Huberman, and
+  Ullian]{Koch2011-qz}
+S.~M. Koch, C.~G. Dela~Cruz, T.~S. Hnasko, R.~H. Edwards, A.~D. Huberman, and
+  E.~M. Ullian.
+\newblock Pathway-specific genetic attenuation of glutamate release alters
+  select features of competition-based visual circuit refinement.
+\newblock \emph{Neuron}, 71\penalty0 (2):\penalty0 235--242, July 2011.
+
+\bibitem[Kohonen(1982)]{Kohonen1982-nd}
+T.~Kohonen.
+\newblock Self-organized formation of topologically correct feature maps.
+\newblock \emph{Biol. Cybern.}, 43\penalty0 (1):\penalty0 59--69, Jan. 1982.
+
+\bibitem[Kohonen(1990)]{Kohonen1990-ys}
+T.~Kohonen.
+\newblock The self-organizing map.
+\newblock \emph{Proc. IEEE}, 78\penalty0 (9):\penalty0 1464--1480, Sept. 1990.
+
+\bibitem[K{\"o}rner(1988)]{Korner1988-wt}
+T.~W. K{\"o}rner.
+\newblock \emph{Fourier Analysis}.
+\newblock Cambridge University Press, Jan. 1988.
+
+\bibitem[Koser et~al.(2016)Koser, Thompson, Foster, Dwivedy, Pillai, Sheridan,
+  Svoboda, Viana, Costa, Guck, Holt, and Franze]{Koser2016-tm}
+D.~E. Koser, A.~J. Thompson, S.~K. Foster, A.~Dwivedy, E.~K. Pillai, G.~K.
+  Sheridan, H.~Svoboda, M.~Viana, L.~d.~F. Costa, J.~Guck, C.~E. Holt, and
+  K.~Franze.
+\newblock Mechanosensing is critical for axon growth in the developing brain.
+\newblock \emph{Nat. Neurosci.}, 19\penalty0 (12):\penalty0 1592--1598, Dec.
+  2016.
+
+\bibitem[Koulakov and Chklovskii(2001)]{Koulakov2001-je}
+A.~A. Koulakov and D.~B. Chklovskii.
+\newblock Orientation preference patterns in mammalian visual cortex: a wire
+  length minimization approach.
+\newblock \emph{Neuron}, 29\penalty0 (2):\penalty0 519--527, Feb. 2001.
+
+\bibitem[Koulakov and Tsigankov(2004)]{Koulakov2004-ia}
+A.~A. Koulakov and D.~N. Tsigankov.
+\newblock A stochastic model for retinocollicular map development.
+\newblock \emph{BMC Neurosci.}, 5:\penalty0 30, Aug. 2004.
+
+\bibitem[Kumar et~al.(2009)Kumar, Larson, Wang, McDermott, and
+  Bronshteyn]{Kumar2009-uz}
+T.~R. Kumar, M.~Larson, H.~Wang, J.~McDermott, and I.~Bronshteyn.
+\newblock Transgenic mouse technology: principles and methods.
+\newblock \emph{Methods Mol. Biol.}, 590:\penalty0 335--362, 2009.
+
+\bibitem[Lee and Schachter(1980)]{Lee1980-wr}
+D.~T. Lee and B.~J. Schachter.
+\newblock Two algorithms for constructing a delaunay triangulation.
+\newblock \emph{International Journal of Computer \& Information Sciences},
+  9\penalty0 (3):\penalty0 219--242, June 1980.
+
+\bibitem[Lehky and Sejnowski(1988)]{Lehky1988-nt}
+S.~R. Lehky and T.~J. Sejnowski.
+\newblock Network model of shape-from-shading: neural function arises from both
+  receptive and projective fields.
+\newblock \emph{Nature}, 333\penalty0 (6172):\penalty0 452--454, June 1988.
+
+\bibitem[Lemke and Reber(2005)]{Lemke2005-iz}
+G.~Lemke and M.~Reber.
+\newblock Retinotectal mapping: new insights from molecular genetics.
+\newblock \emph{Annu. Rev. Cell Dev. Biol.}, 21:\penalty0 551--580, 2005.
+
+\bibitem[Lim et~al.(2008)Lim, McLaughlin, Sung, Santiago, Lee, and
+  O'Leary]{Lim2008-bq}
+Y.-S. Lim, T.~McLaughlin, T.-C. Sung, A.~Santiago, K.-F. Lee, and D.~D.~M.
+  O'Leary.
+\newblock {p75(NTR}) mediates ephrin-a reverse signaling required for axon
+  repulsion and mapping.
+\newblock \emph{Neuron}, 59\penalty0 (5):\penalty0 746--758, Sept. 2008.
+
+\bibitem[Lin and Kernighan(1973)]{Lin1973-pt}
+S.~Lin and B.~W. Kernighan.
+\newblock An effective heuristic algorithm for the {Traveling-Salesman}
+  problem.
+\newblock \emph{Oper. Res.}, 21\penalty0 (2):\penalty0 498--516, Apr. 1973.
+
+\bibitem[Lyngholm et~al.(2019)Lyngholm, Sterratt, Johannes~Hjorth, Willshaw,
+  Eglen, and Thompson]{Lyngholm2019-fs}
+D.~Lyngholm, D.~C. Sterratt, J.~J. Johannes~Hjorth, D.~J. Willshaw, S.~J.
+  Eglen, and I.~D. Thompson.
+\newblock Measuring and modelling the emergence of order in the mouse
+  retinocollicular projection.
+\newblock \emph{bioRxiv}, July 2019.
+\newblock \url{https://doi.org/10.1101/713628}.
+
+\bibitem[Marcus et~al.(1996)Marcus, Gale, Morrison, Mason, and
+  Yancopoulos]{Marcus1996-kh}
+R.~C. Marcus, N.~W. Gale, M.~E. Morrison, C.~A. Mason, and G.~D. Yancopoulos.
+\newblock Eph family receptors and their ligands distribute in opposing
+  gradients in the developing mouse retina.
+\newblock \emph{Dev. Biol.}, 180\penalty0 (2):\penalty0 786--789, Dec. 1996.
+
+\bibitem[Markram et~al.(1997)Markram, L{\"u}bke, Frotscher, and
+  Sakmann]{Markram1997-ln}
+H.~Markram, J.~L{\"u}bke, M.~Frotscher, and B.~Sakmann.
+\newblock Regulation of synaptic efficacy by coincidence of postsynaptic {APs}
+  and {EPSPs}.
+\newblock \emph{Science}, 275\penalty0 (5297):\penalty0 213--215, Jan. 1997.
+
+\bibitem[McLaughlin and O'Leary(2005)]{McLaughlin2005-jd}
+T.~McLaughlin and D.~D.~M. O'Leary.
+\newblock Molecular gradients and development of retinotopic maps.
+\newblock \emph{Annu. Rev. Neurosci.}, 28:\penalty0 327--355, 2005.
+
+\bibitem[McLaughlin et~al.(2003{\natexlab{a}})McLaughlin, Hindges, and
+  O'Leary]{McLaughlin2003-nf}
+T.~McLaughlin, R.~Hindges, and D.~D.~M. O'Leary.
+\newblock Regulation of axial patterning of the retina and its topographic
+  mapping in the brain.
+\newblock \emph{Curr. Opin. Neurobiol.}, 13\penalty0 (1):\penalty0 57--69, Feb.
+  2003{\natexlab{a}}.
+
+\bibitem[McLaughlin et~al.(2003{\natexlab{b}})McLaughlin, Hindges, Yates, and
+  O'Leary]{McLaughlin2003-co}
+T.~McLaughlin, R.~Hindges, P.~A. Yates, and D.~D.~M. O'Leary.
+\newblock Bifunctional action of ephrin-b1 as a repellent and attractant to
+  control bidirectional branch extension in dorsal-ventral retinotopic mapping.
+\newblock \emph{Development}, 130\penalty0 (11):\penalty0 2407--2418, June
+  2003{\natexlab{b}}.
+
+\bibitem[McLaughlin et~al.(2003{\natexlab{c}})McLaughlin, Torborg, Feller, and
+  O'Leary]{McLaughlin2003-yy}
+T.~McLaughlin, C.~L. Torborg, M.~B. Feller, and D.~D.~M. O'Leary.
+\newblock Retinotopic map refinement requires spontaneous retinal waves during
+  a brief critical period of development.
+\newblock \emph{Neuron}, 40\penalty0 (6):\penalty0 1147--1160, Dec.
+  2003{\natexlab{c}}.
+
+\bibitem[McMenemy et~al.(2019)McMenemy, Veerapen, Adair, and
+  Ochoa]{McMenemy2019-rl}
+P.~McMenemy, N.~Veerapen, J.~Adair, and G.~Ochoa.
+\newblock Rigorous performance analysis of {State-of-the-Art} {TSP} heuristic
+  solvers.
+\newblock In \emph{Evolutionary Computation in Combinatorial Optimization},
+  pages 99--114. Springer International Publishing, 2019.
+
+\bibitem[Meister et~al.(1991)Meister, Wong, Baylor, and Shatz]{Meister1991-mu}
+M.~Meister, R.~O. Wong, D.~A. Baylor, and C.~J. Shatz.
+\newblock Synchronous bursts of action potentials in ganglion cells of the
+  developing mammalian retina.
+\newblock \emph{Science}, 252\penalty0 (5008):\penalty0 939--943, May 1991.
+
+\bibitem[Miller and MacKay(1994)]{Miller1994-nr}
+K.~D. Miller and D.~J.~C. MacKay.
+\newblock The role of constraints in hebbian learning.
+\newblock \emph{Neural Comput.}, 6\penalty0 (1):\penalty0 100--126, Jan. 1994.
+
+\bibitem[Mitchison(1995)]{Mitchison1995-cb}
+G.~Mitchison.
+\newblock A type of duality between {Self-Organizing} maps and minimal wiring.
+\newblock \emph{Neural Comput.}, 7\penalty0 (1):\penalty0 25--35, Jan. 1995.
+
+\bibitem[Mogensen and Riseth(2018)]{Mogensen2018}
+P.~K. Mogensen and A.~N. Riseth.
+\newblock Optim: A mathematical optimization package for julia.
+\newblock \emph{Journal of Open Source Software}, 3\penalty0 (24):\penalty0
+  615, 2018.
+\newblock URL \url{https://doi.org/10.21105/joss.00615}.
+
+\bibitem[Moscato and Norman(1994)]{Moscato1994-nf}
+P.~Moscato and M.~G. Norman.
+\newblock An analysis of the performance of traveling salesman heuristics on
+  infinite-size fractal instances in the euclidean plane.
+\newblock \emph{ORSA Journal on Computing}, 1994.
+
+\bibitem[Mrsic-Flogel et~al.(2005)Mrsic-Flogel, Hofer, Creutzfeldt,
+  Clo{\"e}z-Tayarani, Changeux, Bonhoeffer, and
+  H{\"u}bener]{Mrsic-Flogel2005-xp}
+T.~D. Mrsic-Flogel, S.~B. Hofer, C.~Creutzfeldt, I.~Clo{\"e}z-Tayarani, J.-P.
+  Changeux, T.~Bonhoeffer, and M.~H{\"u}bener.
+\newblock Altered map of visual space in the superior colliculus of mice
+  lacking early retinal waves.
+\newblock \emph{J. Neurosci.}, 25\penalty0 (29):\penalty0 6921--6928, July
+  2005.
+
+\bibitem[Nagata and Kobayashi(2013)]{Nagata2013-we}
+Y.~Nagata and S.~Kobayashi.
+\newblock A powerful genetic algorithm using edge assembly crossover for the
+  traveling salesman problem.
+\newblock \emph{INFORMS J. Comput.}, 25\penalty0 (2):\penalty0 346--363, Apr.
+  2013.
+
+\bibitem[Nickolls et~al.(2008)Nickolls, Buck, Garland, and
+  Skadron]{Nickolls2008-zz}
+J.~Nickolls, I.~Buck, M.~Garland, and K.~Skadron.
+\newblock Scalable parallel programming with {CUDA}: Is {CUDA} the parallel
+  programming model that application developers have been waiting for?
+\newblock \emph{Queueing Syst.}, 6\penalty0 (2):\penalty0 40--53, Mar. 2008.
+
+\bibitem[Nicol et~al.(2007)Nicol, Voyatzis, Muzerelle, Narboux-N{\^e}me,
+  S{\"u}dhof, Miles, and Gaspar]{Nicol2007-rt}
+X.~Nicol, S.~Voyatzis, A.~Muzerelle, N.~Narboux-N{\^e}me, T.~C. S{\"u}dhof,
+  R.~Miles, and P.~Gaspar.
+\newblock {cAMP} oscillations and retinal activity are permissive for ephrin
+  signaling during the establishment of the retinotopic map.
+\newblock \emph{Nat. Neurosci.}, 10\penalty0 (3):\penalty0 340--347, Mar. 2007.
+
+\bibitem[Obermayer et~al.(1990)Obermayer, Ritter, and
+  Schulten]{Obermayer1990-yr}
+K.~Obermayer, H.~Ritter, and K.~Schulten.
+\newblock A principle for the formation of the spatial structure of cortical
+  feature maps.
+\newblock \emph{Proc. Natl. Acad. Sci. U. S. A.}, 87\penalty0 (21):\penalty0
+  8345--8349, Nov. 1990.
+
+\bibitem[O'Connor and Adams(2010)]{noauthor_undated-od}
+C.~M. O'Connor and J.~U. Adams.
+\newblock Essentials of cell biology, 2010.
+\newblock
+  \url{https://www.nature.com/scitable/ebooks/essentials-of-cell-biology-14749010/}.
+
+\bibitem[Overton and Arbib(1982)]{Overton1982-sr}
+K.~J. Overton and M.~A. Arbib.
+\newblock The extended branch-arrow model of the formation of retino-tectal
+  connections.
+\newblock \emph{Biol. Cybern.}, 45\penalty0 (3):\penalty0 157--175, 1982.
+
+\bibitem[Owens et~al.(2015)Owens, Feldheim, Stryker, and
+  Triplett]{Owens2015-zv}
+M.~T. Owens, D.~A. Feldheim, M.~P. Stryker, and J.~W. Triplett.
+\newblock Stochastic interaction between neural activity and molecular cues in
+  the formation of topographic maps.
+\newblock \emph{Neuron}, 87\penalty0 (6):\penalty0 1261--1273, Sept. 2015.
+
+\bibitem[Park et~al.(2012)Park, Qazi, Tan, Jabbar, Cao, Schmid, and
+  Pardue]{Park2012-yn}
+H.~N. Park, Y.~Qazi, C.~Tan, S.~B. Jabbar, Y.~Cao, G.~Schmid, and M.~T. Pardue.
+\newblock Assessment of axial length measurements in mouse eyes.
+\newblock \emph{Optom. Vis. Sci.}, 89\penalty0 (3):\penalty0 296--303, Mar.
+  2012.
+
+\bibitem[Paxinos(2014)]{Paxinos2014-kq}
+G.~Paxinos.
+\newblock \emph{The Rat Nervous System}.
+\newblock Academic Press, July 2014.
+
+\bibitem[Percus and Martin(1996)]{Percus1996-bp}
+A.~G. Percus and O.~C. Martin.
+\newblock Finite size and dimensional dependence in the euclidean traveling
+  salesman problem.
+\newblock \emph{Phys. Rev. Lett.}, 76\penalty0 (8):\penalty0 1188--1191, Feb.
+  1996.
+
+\bibitem[Petros et~al.(2008)Petros, Rebsam, and Mason]{Petros2008-rd}
+T.~J. Petros, A.~Rebsam, and C.~A. Mason.
+\newblock Retinal axon growth at the optic chiasm: to cross or not to cross.
+\newblock \emph{Annu. Rev. Neurosci.}, 31:\penalty0 295--315, 2008.
+
+\bibitem[Phongphanphanee et~al.(2014)Phongphanphanee, Marino, Kaneda, Yanagawa,
+  Munoz, and Isa]{Phongphanphanee2014-in}
+P.~Phongphanphanee, R.~A. Marino, K.~Kaneda, Y.~Yanagawa, D.~P. Munoz, and
+  T.~Isa.
+\newblock Distinct local circuit properties of the superficial and intermediate
+  layers of the rodent superior colliculus.
+\newblock \emph{Eur. J. Neurosci.}, 40\penalty0 (2):\penalty0 2329--2343, July
+  2014.
+
+\bibitem[Plas et~al.(2005)Plas, Lopez, and Crair]{Plas2005-yb}
+D.~T. Plas, J.~E. Lopez, and M.~C. Crair.
+\newblock Pretarget sorting of retinocollicular axons in the mouse.
+\newblock \emph{J. Comp. Neurol.}, 491\penalty0 (4):\penalty0 305--319, Oct.
+  2005.
+
+\bibitem[Platzman and Bartholdi(1989)]{Platzman1989-gc}
+L.~K. Platzman and J.~J. Bartholdi.
+\newblock Spacefilling curves and the planar travelling salesman problem.
+\newblock \emph{J. ACM}, 36\penalty0 (4):\penalty0 719--737, Oct. 1989.
+
+\bibitem[Polyak(1964)]{Polyak1964-bt}
+B.~T. Polyak.
+\newblock Some methods of speeding up the convergence of iteration methods.
+\newblock \emph{USSR Computational Mathematics and Mathematical Physics},
+  4\penalty0 (5):\penalty0 1--17, Jan. 1964.
+
+\bibitem[Potter(2001)]{Potter2001-lg}
+S.~M. Potter.
+\newblock Distributed processing in cultured neuronal networks.
+\newblock \emph{Prog. Brain Res.}, 130:\penalty0 49--62, 2001.
+
+\bibitem[Prestige et~al.(1975)Prestige, Willshaw, and Gaze]{Prestige1975-vh}
+M.~C. Prestige, D.~J. Willshaw, and R.~M. Gaze.
+\newblock On a role for competition in the formation of patterned neural
+  connexions.
+\newblock \emph{Proceedings of the Royal Society of London. Series B.
+  Biological Sciences}, 190\penalty0 (1098):\penalty0 77--98, June 1975.
+
+\bibitem[Purves et~al.(2001)Purves, Augustine, Fitzpatrick, Katz, LaMantia,
+  McNamara, and Mark~Williams]{Purves2001-lr}
+D.~Purves, G.~J. Augustine, D.~Fitzpatrick, L.~C. Katz, A.-S. LaMantia, J.~O.
+  McNamara, and S.~Mark~Williams.
+\newblock \emph{The Formation of Topographic Maps}.
+\newblock Sinauer Associates, 2001.
+
+\bibitem[Reber et~al.(2004)Reber, Burrola, and Lemke]{Reber2004-wq}
+M.~Reber, P.~Burrola, and G.~Lemke.
+\newblock A relative signalling model for the formation of a topographic neural
+  map.
+\newblock \emph{Nature}, 431\penalty0 (7010):\penalty0 847--853, Oct. 2004.
+
+\bibitem[Reinelt(2009)]{ArtTSP}
+G.~Reinelt.
+\newblock Tsp art instances.
+\newblock \url{https://www.math.uwaterloo.ca/tsp/data/art/}, 2009.
+\newblock Accessed: 2021-09-30.
+
+\bibitem[Robinson(2011)]{Robinson2011-ve}
+P.~A. Robinson.
+\newblock Neural field theory of synaptic plasticity.
+\newblock \emph{J. Theor. Biol.}, 285\penalty0 (1):\penalty0 156--163, Sept.
+  2011.
+
+\bibitem[Robinson et~al.(2005)Robinson, Rennie, Rowe, O'Connor, and
+  Gordon]{Robinson2005-en}
+P.~A. Robinson, C.~J. Rennie, D.~L. Rowe, S.~C. O'Connor, and E.~Gordon.
+\newblock Multiscale brain modelling.
+\newblock \emph{Philos. Trans. R. Soc. Lond. B Biol. Sci.}, 360\penalty0
+  (1457):\penalty0 1043--1050, May 2005.
+
+\bibitem[Sakaguchi and Murphey(1985)]{Sakaguchi1985-la}
+D.~S. Sakaguchi and R.~K. Murphey.
+\newblock Map formation in the developing {Xenopus} retinotectal system: an
+  examination of ganglion cell terminal arborizations.
+\newblock \emph{J. Neurosci.}, 5\penalty0 (12):\penalty0 3228--3245, Dec. 1985.
+
+\bibitem[Sanes and Masland(2015)]{Sanes2015-xq}
+J.~R. Sanes and R.~H. Masland.
+\newblock The types of retinal ganglion cells: current status and implications
+  for neuronal classification.
+\newblock \emph{Annu. Rev. Neurosci.}, 38:\penalty0 221--246, July 2015.
+
+\bibitem[Savier et~al.(2017)Savier, Eglen, Bath{\'e}l{\'e}my, Perraut,
+  Pfrieger, Lemke, and Reber]{Savier2017-wt}
+E.~Savier, S.~J. Eglen, A.~Bath{\'e}l{\'e}my, M.~Perraut, F.~W. Pfrieger,
+  G.~Lemke, and M.~Reber.
+\newblock A molecular mechanism for the topographic alignment of convergent
+  neural maps.
+\newblock \emph{Elife}, 6, Mar. 2017.
+
+\bibitem[Savier et~al.(2020)Savier, Dunbar, Cheung, and Reber]{Savier2020-xb}
+E.~L. Savier, J.~Dunbar, K.~Cheung, and M.~Reber.
+\newblock New insights on the modeling of the molecular mechanisms underlying
+  neural maps alignment in the midbrain.
+\newblock \emph{Elife}, 9, Sept. 2020.
+
+\bibitem[Schwappach et~al.(2015)Schwappach, Hutt, and
+  Beim~Graben]{Schwappach2015-jy}
+C.~Schwappach, A.~Hutt, and P.~Beim~Graben.
+\newblock Metastable dynamics in heterogeneous neural fields.
+\newblock \emph{Front. Syst. Neurosci.}, 9:\penalty0 97, June 2015.
+
+\bibitem[Seabrook et~al.(2017)Seabrook, Burbridge, Crair, and
+  Huberman]{Seabrook2017-fa}
+T.~A. Seabrook, T.~J. Burbridge, M.~C. Crair, and A.~D. Huberman.
+\newblock Architecture, function, and assembly of the mouse visual system.
+\newblock \emph{Annu. Rev. Neurosci.}, 40:\penalty0 499--538, July 2017.
+
+\bibitem[Sequeira(2022)]{Sequeira2022}
+T.~Sequeira.
+\newblock Neuralfieldeq.jl.
+\newblock \url{https://github.com/tiagoseq/NeuralFieldEq.jl}, 2022.
+
+\bibitem[Sherazee and Alvarez(2013)]{Sherazee2013-ky}
+N.~Sherazee and V.~A. Alvarez.
+\newblock {DiOlistics}: delivery of fluorescent dyes into cells.
+\newblock \emph{Methods Mol. Biol.}, 940:\penalty0 391--400, 2013.
+
+\bibitem[Sherrington(1906)]{Sherrington1906-et}
+C.~S. Sherrington.
+\newblock Observations on the scratch-reflex in the spinal dog.
+\newblock \emph{J. Physiol.}, 34\penalty0 (1-2):\penalty0 1--50, Mar. 1906.
+
+\bibitem[Shi et~al.(2018)Shi, Jin, and Cang]{Shi2018-er}
+X.~Shi, Y.~Jin, and J.~Cang.
+\newblock Transformation of feature selectivity from membrane potential to
+  spikes in the mouse superior colliculus.
+\newblock \emph{Front. Cell. Neurosci.}, 12:\penalty0 163, June 2018.
+
+\bibitem[Simmen(1991)]{Simmen1991-hm}
+M.~W. Simmen.
+\newblock Parameter sensitivity of the elastic net approach to the traveling
+  salesman problem.
+\newblock \emph{Neural Comput.}, 3\penalty0 (3):\penalty0 363--374, 1991.
+
+\bibitem[Simpson and Goodhill(2011)]{Simpson2011-zh}
+H.~D. Simpson and G.~J. Goodhill.
+\newblock A simple model can unify a broad range of phenomena in retinotectal
+  map development.
+\newblock \emph{Biol. Cybern.}, 104\penalty0 (1-2):\penalty0 9--29, Feb. 2011.
+
+\bibitem[Sirosh and Miikkulainen(1994)]{Sirosh1994-zv}
+J.~Sirosh and R.~Miikkulainen.
+\newblock Cooperative self-organization of afferent and lateral connections in
+  cortical maps.
+\newblock \emph{Biol. Cybern.}, 71\penalty0 (1):\penalty0 65--78, May 1994.
+
+\bibitem[Speelpenning(1980)]{Speelpenning1980-mt}
+B.~Speelpenning.
+\newblock \emph{{Compiling} {Fast} {Partial} {Derivative} {of} {Functions}
+  {Given} {by} {Algorithms}}.
+\newblock PhD thesis, University of Illinois, 1980.
+
+\bibitem[Sperry(1963)]{Sperry1963-jc}
+R.~W. Sperry.
+\newblock Chemoaffinity in the orderly growth of nerve fiber patterns and
+  connections.
+\newblock \emph{Proc. Natl. Acad. Sci. U. S. A.}, 50:\penalty0 703--710, Oct.
+  1963.
+
+\bibitem[Squire et~al.(2012)Squire, Berg, Bloom, du~Lac, Ghosh, and
+  Spitzer]{Squire2012-ru}
+L.~Squire, D.~Berg, F.~E. Bloom, S.~du~Lac, A.~Ghosh, and N.~C. Spitzer.
+\newblock \emph{Fundamental Neuroscience}.
+\newblock Academic Press, Dec. 2012.
+
+\bibitem[Stafford et~al.(2009)Stafford, Sher, Litke, and
+  Feldheim]{Stafford2009}
+B.~K. Stafford, A.~Sher, A.~M. Litke, and D.~A. Feldheim.
+\newblock Spatial-temporal patterns of retinal waves underlying
+  activity-dependent refinement of retinofugal projections.
+\newblock \emph{Neuron}, 64\penalty0 (2):\penalty0 200--212, Oct. 2009.
+
+\bibitem[Steinerberger(2015)]{Steinerberger2015-ur}
+S.~Steinerberger.
+\newblock New bounds for the traveling salesman constant.
+\newblock \emph{Adv. Appl. Probab.}, 47\penalty0 (1):\penalty0 27--36, Mar.
+  2015.
+
+\bibitem[Sterratt(2013)]{Sterratt2013-ev}
+D.~C. Sterratt.
+\newblock On the importance of countergradients for the development of
+  retinotopy: Insights from a generalised gierer model.
+\newblock \emph{PLoS One}, 8\penalty0 (6):\penalty0 e67096, June 2013.
+
+\bibitem[Stevens et~al.(2013)Stevens, Law, Antol{\'\i}k, and
+  Bednar]{Stevens2013-ly}
+J.-L.~R. Stevens, J.~S. Law, J.~Antol{\'\i}k, and J.~A. Bednar.
+\newblock Mechanisms for stable, robust, and adaptive development of
+  orientation maps in the primary visual cortex.
+\newblock \emph{J. Neurosci.}, 33\penalty0 (40):\penalty0 15747--15766, Oct.
+  2013.
+
+\bibitem[Sutskever et~al.(2013)Sutskever, Martens, Dahl, and
+  Hinton]{Sutskever2013-ng}
+I.~Sutskever, J.~Martens, G.~Dahl, and G.~Hinton.
+\newblock On the importance of initialization and momentum in deep learning.
+\newblock In S.~Dasgupta and D.~McAllester, editors, \emph{Proceedings of the
+  30th International Conference on Machine Learning}, volume~28 of
+  \emph{Proceedings of Machine Learning Research}, pages 1139--1147, Atlanta,
+  Georgia, USA, 2013. PMLR.
+
+\bibitem[Swindale(1992)]{Swindale1992-de}
+N.~V. Swindale.
+\newblock Elastic nets, travelling salesmen and cortical maps.
+\newblock \emph{Curr. Biol.}, 2\penalty0 (8):\penalty0 429--431, Aug. 1992.
+
+\bibitem[Swindale(1996)]{Swindale1996-kk}
+N.~V. Swindale.
+\newblock The development of topography in the visual cortex: a review of
+  models.
+\newblock \emph{Network: Computation in Neural Systems}, 7\penalty0
+  (2):\penalty0 161--247, Jan. 1996.
+
+\bibitem[Swindale(2001)]{Swindale2001-gh}
+N.~V. Swindale.
+\newblock Keeping the wires short: a singularly difficult problem.
+\newblock \emph{Neuron}, 29\penalty0 (2):\penalty0 316--317, Feb. 2001.
+
+\bibitem[Takeuchi and Amari(1979)]{Takeuchi1979-zy}
+A.~Takeuchi and S.~Amari.
+\newblock Formation of topographic maps and columnar microstructures in nerve
+  fields.
+\newblock \emph{Biol. Cybern.}, 35\penalty0 (2):\penalty0 63--72, Nov. 1979.
+
+\bibitem[Taylor(1999)]{Taylor1999-mv}
+J.~G. Taylor.
+\newblock Neural `bubble' dynamics in two dimensions: foundations.
+\newblock \emph{Biol. Cybern.}, 80\penalty0 (6):\penalty0 393--409, 1999.
+
+\bibitem[Teh et~al.(2022)Teh, Sibille, and Kremkow]{Teh2022-tp}
+K.~L. Teh, J.~Sibille, and J.~Kremkow.
+\newblock Retinal waves align the concentric orientation map in mouse superior
+  colliculus to the center of vision.
+\newblock Jan. 2022.
+
+\bibitem[Tikidji-Hamburyan et~al.(2016)Tikidji-Hamburyan, El-Ghazawi, and
+  Triplett]{Tikidji-Hamburyan2016-sn}
+R.~A. Tikidji-Hamburyan, T.~A. El-Ghazawi, and J.~W. Triplett.
+\newblock Novel models of visual topographic map alignment in the superior
+  colliculus.
+\newblock \emph{PLoS Comput. Biol.}, 12\penalty0 (12):\penalty0 e1005315, Dec.
+  2016.
+
+\bibitem[Toth and Vigo(2002)]{PaoloToth2002Tvrp}
+P.~Toth and D.~Vigo.
+\newblock \emph{The vehicle routing problem}.
+\newblock Discrete Mathematics and Applications. Society for Industrial and
+  Applied Mathematics, 2002.
+\newblock ISBN 9780898715798.
+
+\bibitem[Triplett et~al.(2009)Triplett, ~, Yamada, Lemke, Cang, Stryker, and
+  Feldheim]{Triplett2009-si}
+J.~W. Triplett, M.~T. ~, J.~Yamada, G.~Lemke, J.~Cang, M.~P. Stryker, and D.~A.
+  Feldheim.
+\newblock Retinal input instructs alignment of visual topographic maps.
+\newblock \emph{Cell}, 139\penalty0 (1):\penalty0 175--185, Oct. 2009.
+
+\bibitem[Triplett et~al.(2011)Triplett, Pfeiffenberger, Yamada, Stafford,
+  Sweeney, Litke, Sher, Koulakov, and Feldheim]{Triplett2011-jk}
+J.~W. Triplett, C.~Pfeiffenberger, J.~Yamada, B.~K. Stafford, N.~T. Sweeney,
+  A.~M. Litke, A.~Sher, A.~A. Koulakov, and D.~A. Feldheim.
+\newblock Competition is a driving force in topographic mapping.
+\newblock \emph{Proc. Natl. Acad. Sci. U. S. A.}, 108\penalty0 (47):\penalty0
+  19060--19065, Nov. 2011.
+
+\bibitem[Triplett et~al.(2012)Triplett, Phan, Yamada, and
+  Feldheim]{Triplett2012-ap}
+J.~W. Triplett, A.~Phan, J.~Yamada, and D.~A. Feldheim.
+\newblock Alignment of multimodal sensory input in the superior colliculus
+  through a gradient-matching mechanism.
+\newblock \emph{J. Neurosci.}, 32\penalty0 (15):\penalty0 5264--5271, Apr.
+  2012.
+
+\bibitem[Tsigankov and Koulakov(2010)]{Tsigankov2010-on}
+D.~Tsigankov and A.~A. Koulakov.
+\newblock Sperry versus hebb: topographic mapping in {Isl2/EphA3} mutant mice.
+\newblock \emph{BMC Neurosci.}, 11:\penalty0 155, Dec. 2010.
+
+\bibitem[Tsigankov and Koulakov(2006)]{Tsigankov2006-uy}
+D.~N. Tsigankov and A.~A. Koulakov.
+\newblock A unifying model for activity-dependent and activity-independent
+  mechanisms predicts complete structure of topographic maps in ephrin-a
+  deficient mice.
+\newblock \emph{J. Comput. Neurosci.}, 21\penalty0 (1):\penalty0 101--114, Aug.
+  2006.
+
+\bibitem[Udin and Fawcett(1988)]{Udin1988-by}
+S.~B. Udin and J.~W. Fawcett.
+\newblock Formation of topographic maps.
+\newblock \emph{Annu. Rev. Neurosci.}, 11:\penalty0 289--327, 1988.
+
+\bibitem[Valverde(1973)]{Valverde1973-ws}
+F.~Valverde.
+\newblock The neuropil in superficial layers of the superior colliculus of the
+  mouse. a correlated golgi and electron microscopic study.
+\newblock \emph{Z. Anat. Entwicklungsgesch.}, 142\penalty0 (2):\penalty0
+  117--147, Oct. 1973.
+
+\bibitem[V{\'e}rtes et~al.(2012)V{\'e}rtes, Alexander-Bloch, Gogtay, Giedd,
+  Rapoport, and Bullmore]{Vertes2012-uv}
+P.~E. V{\'e}rtes, A.~F. Alexander-Bloch, N.~Gogtay, J.~N. Giedd, J.~L.
+  Rapoport, and E.~T. Bullmore.
+\newblock Simple models of human brain functional networks.
+\newblock \emph{Proc. Natl. Acad. Sci. U. S. A.}, 109\penalty0 (15):\penalty0
+  5868--5873, Apr. 2012.
+
+\bibitem[Wei et~al.(2013)Wei, Tsigankov, and Koulakov]{Wei2013-jw}
+Y.~Wei, D.~Tsigankov, and A.~Koulakov.
+\newblock The molecular basis for the development of neural maps.
+\newblock \emph{Ann. N. Y. Acad. Sci.}, 1305:\penalty0 44--60, Dec. 2013.
+
+\bibitem[Weth et~al.(2014)Weth, Fiederling, Gebhardt, and
+  Bastmeyer]{Weth2014-dq}
+F.~Weth, F.~Fiederling, C.~Gebhardt, and M.~Bastmeyer.
+\newblock Chemoaffinity in topographic mapping revisited--is it more about
+  fiber-fiber than fiber-target interactions?
+\newblock \emph{Semin. Cell Dev. Biol.}, 35:\penalty0 126--135, Nov. 2014.
+
+\bibitem[Wikimedia(2021{\natexlab{a}})]{ephrinimage}
+Wikimedia.
+\newblock Anatomy of a multipolar neuron, 2021{\natexlab{a}}.
+\newblock \url{https://upload.wikimedia.org/wikipedia/en/7/7b/Eph-ephrin.png}.
+
+\bibitem[Wikimedia(2021{\natexlab{b}})]{neuronimage}
+Wikimedia.
+\newblock Anatomy of a multipolar neuron, 2021{\natexlab{b}}.
+\newblock
+  \url{https://en.wikipedia.org/wiki/Neuron#/media/File:Blausen_0657_MultipolarNeuron.png}.
+
+\bibitem[{William H. Press} et~al.(2007){William H. Press}, Teukolsky,
+  Vetterling, and Flannery]{William_H_Press2007-kb}
+{William H. Press}, S.~A. Teukolsky, W.~T. Vetterling, and B.~P. Flannery.
+\newblock \emph{Numerical Recipes}.
+\newblock Cambridge University Press, 3rd edition edition, Sept. 2007.
+
+\bibitem[Willshaw(2006)]{Willshaw2006-if}
+D.~Willshaw.
+\newblock Analysis of mouse {EphA} knockins and knockouts suggests that retinal
+  axons programme target cells to form ordered retinotopic maps.
+\newblock \emph{Development}, 133\penalty0 (14):\penalty0 2705--2717, July
+  2006.
+
+\bibitem[Willshaw and Gale(2022)]{Willshaw2022-fs}
+D.~J. Willshaw and N.~M. Gale.
+\newblock Reanalysis of double {EphA3} knockin maps in mouse shows the
+  importance of chemoaffinity in topographic map formation.
+\newblock \url{https://doi.org/10.1101/2022.03.29.486226}, Mar. 2022.
+
+\bibitem[Willshaw and von~der Malsburg(1976)]{Willshaw1976-ew}
+D.~J. Willshaw and C.~von~der Malsburg.
+\newblock How patterned neural connections can be set up by self-organization.
+\newblock \emph{Proc. R. Soc. Lond. B Biol. Sci.}, 194\penalty0
+  (1117):\penalty0 431--445, Nov. 1976.
+
+\bibitem[Willshaw et~al.(2014)Willshaw, Sterratt, and
+  Teriakidis]{Willshaw2014-ms}
+D.~J. Willshaw, D.~C. Sterratt, and A.~Teriakidis.
+\newblock Analysis of local and global topographic order in mouse
+  retinocollicular maps.
+\newblock \emph{J. Neurosci.}, 34\penalty0 (5):\penalty0 1791--1805, Jan. 2014.
+
+\bibitem[{Willshaw D. J.} et~al.(1979){Willshaw D. J.}, {Von Der Malsburg C.},
+  and {Longuet-Higgins Hugh Christopher}]{Willshaw_D_J1979-eg}
+{Willshaw D. J.}, {Von Der Malsburg C.}, and {Longuet-Higgins Hugh
+  Christopher}.
+\newblock A marker induction mechanism for the establishment of ordered neural
+  mappings: its application to the retinotectal problem.
+\newblock \emph{Philos. Trans. R. Soc. Lond. B Biol. Sci.}, 287\penalty0
+  (1021):\penalty0 203--243, Nov. 1979.
+
+\bibitem[Wilson and Cowan(1972)]{wilsoncowan1}
+H.~Wilson and J.~Cowan.
+\newblock Excitatory and inhibitory interactions in localized populations of
+  model neurons.
+\newblock \emph{Biophysical journal}, 12:\penalty0 1--24, 02 1972.
+
+\bibitem[Wilson and Cowan(1973)]{wilsoncowan2}
+H.~Wilson and J.~Cowan.
+\newblock A mathematical theory of the functional dynamics of cortical and
+  thalamic nervous tissue.
+\newblock \emph{Kybernetik}, 13:\penalty0 55--80, 10 1973.
+
+\bibitem[Wright and Bourke(2013)]{Wright2013-td}
+J.~J. Wright and P.~D. Bourke.
+\newblock On the dynamics of cortical development: synchrony and synaptic
+  self-organization.
+\newblock \emph{Front. Comput. Neurosci.}, 7:\penalty0 4, Feb. 2013.
+
+\bibitem[Xu et~al.(2011)Xu, Furman, Mineur, Chen, King, Zenisek, Zhou, Butts,
+  Tian, Picciotto, and Crair]{Xu2011-mt}
+H.-P. Xu, M.~Furman, Y.~S. Mineur, H.~Chen, S.~L. King, D.~Zenisek, Z.~J. Zhou,
+  D.~A. Butts, N.~Tian, M.~R. Picciotto, and M.~C. Crair.
+\newblock An instructive role for patterned spontaneous retinal activity in
+  mouse visual map development.
+\newblock \emph{Neuron}, 70\penalty0 (6):\penalty0 1115--1127, June 2011.
+
+\bibitem[Xu et~al.(2015)Xu, Burbridge, Chen, Ge, Zhang, Zhou, and
+  Crair]{Xu2015-uc}
+H.-P. Xu, T.~J. Burbridge, M.-G. Chen, X.~Ge, Y.~Zhang, Z.~J. Zhou, and M.~C.
+  Crair.
+\newblock Spatial pattern of spontaneous retinal waves instructs retinotopic
+  map refinement more than activity frequency.
+\newblock \emph{Dev. Neurobiol.}, 75\penalty0 (6):\penalty0 621--640, June
+  2015.
+
+\bibitem[Yates et~al.(2001)Yates, Roskies, McLaughlin, and
+  O'Leary]{Yates2001-ug}
+P.~A. Yates, A.~L. Roskies, T.~McLaughlin, and D.~D. O'Leary.
+\newblock Topographic-specific axon branching controlled by ephrin-as is the
+  critical event in retinotectal map development.
+\newblock \emph{J. Neurosci.}, 21\penalty0 (21):\penalty0 8548--8563, Nov.
+  2001.
+
+\bibitem[Zhang et~al.(2017)Zhang, Kolodkin, Wong, and James]{Zhang2017-hs}
+C.~Zhang, A.~L. Kolodkin, R.~O. Wong, and R.~E. James.
+\newblock Establishing wiring specificity in visual system circuits: From the
+  retina to the brain.
+\newblock \emph{Annu. Rev. Neurosci.}, 40:\penalty0 395--424, July 2017.
+
+\bibitem[Zhang(1990)]{Zhang1990-ve}
+J.~Zhang.
+\newblock Dynamical self-organization and formation of cortical maps.
+\newblock In \emph{1990 {IJCNN} International Joint Conference on Neural
+  Networks}, pages 487--492 vol.3, June 1990.
+
+\bibitem[Zhang et~al.(2000)Zhang, Tao, and Poo]{Zhang2000-lb}
+L.~I. Zhang, H.~W. Tao, and M.~Poo.
+\newblock Visual input induces long-term potentiation of developing
+  retinotectal synapses.
+\newblock \emph{Nat. Neurosci.}, 3\penalty0 (7):\penalty0 708--715, July 2000.
+
+\end{thebibliography}
